@@ -170,21 +170,6 @@
                     </li>
                 
                 
-                
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Translations <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                        
-                            
-<li >
-    <a href="../../">English</a>
-</li>
-
-                        
-                        </ul>
-                    </li>
-                
-                
                 </ul>
 
             <ul class="nav navbar-nav navbar-right">
@@ -210,41 +195,7 @@
 </div></div>
         <div class="col-md-9" role="main">
 
-<p><head>
-  <!-- Load JsRender latest version, from www.jsviews.com: --></p>
-<script src="https://www.jsviews.com/download/jsrender.js"></script>
-<script src="../new.js"></script>
-<!-- this sets "data = [ all the words ]" --><style>
-.word {
-    display: grid;
-    grid-template-columns: auto auto;
-    }
-.word div {
-    margin: 5px;
-    padding: 10px;
-    background-color: #ebf2f2;
-    border: 1px solid #343838;
-    border-radius: 10px
-    }
-</style>
-<p></head></p>
-<!-- Provide container for rendered template output: -->
-<div id="result" class="word"></div>
-
-<!-- Declare a JsRender template, in a script block: -->
-<script id="dict" type="text/x-jsrender">
-    <div>{{:lemma}}<sub>{{:disc}}</sub> • <small>ID {{:ID}}</small> — <i>{{:pos}}</i> › {{:def}}<br>
-    &emsp;<small>from</small> {{:etym}} <small>({{:etycat}})</small>
-    {{if notes}} <br>&emsp;‣ <i>note:</i> {{:notes}} {{/if}}
-    {{if derive}} <br>&emsp;→ {{:derive}} {{/if}}<br></div>
-  </script>
-
-<script>
-    var $ = window.jsrender;
-    var tmpl = $.templates("#dict");  
-    var html = tmpl.render(data);       // Render template using data - as HTML string
-    document.getElementById("result").innerHTML = html;       // Insert HTML string into DOM
-  </script></div>
+</div>
         
         
     </div>
