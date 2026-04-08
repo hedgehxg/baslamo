@@ -348,15 +348,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: angato
-  id: 271
-  pos: noun
-  en_definition: banana
-  en_notes: ''
-  en_tags: 'fruit, plants'
-  derived: ''
-  etymology: Enga angató
-  etym_tags: 'papuan, trans-new-guinea, engan, enga'
 - lemma: anta
   id: 20.1
   pos: 'verb, ditrans., e-til'
@@ -566,6 +557,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: banana
+  id: 271
+  pos: noun
+  en_definition: banana
+  en_notes: ''
+  en_tags: 'fruit, plants'
+  derived: ''
+  etymology: Enga angató
+  etym_tags: 'papuan, trans-new-guinea, engan, enga'
 - lemma: banjak
   id: 33.1
   pos: verb
@@ -662,6 +662,15 @@
   derived: ''
   etymology: English bowl
   etym_tags: 'english, germanic, indo-european'
+- lemma: bombom
+  id: 57
+  pos: noun
+  en_definition: 'candy, sweet, sweet treat, treat'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French bonbon
+  etym_tags: 'french, romance, indo-european'
 - lemma: bumi
   id: 41
   pos: noun
@@ -1019,15 +1028,6 @@
   derived: 'kel, lel, sel, mel'
   etymology: a priori
   etym_tags: a priori
-- lemma: '-el'
-  id: 57
-  pos: nominal suffix
-  en_definition: Alternative form of -tel used after some consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-tel'
-  etym_tags: alternative forms
 - lemma: '-el'
   id: 336
   pos: nominal suffix
