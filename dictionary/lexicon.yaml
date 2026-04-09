@@ -7,6 +7,7 @@
   derived: 'mea, tea, mesa, tesa'
   etymology: Esperanto -a
   etym_tags: 'esperanto, conlangs'
+  de_definition: ''
 - lemma: in
   id: 2
   pos: conjunction
@@ -16,6 +17,7 @@
   derived: ''
   etymology: Slovene in
   etym_tags: 'slovene, slavic, indo-european'
+  de_definition: ''
 - lemma: '-aga'
   id: 3
   pos: correlative suffix
@@ -25,6 +27,7 @@
   derived: 'kaga, laja, saga, maga'
   etymology: aga
   etym_tags: affixation
+  de_definition: ''
 - lemma: aga
   id: 4.1
   pos: noun
@@ -34,6 +37,7 @@
   derived: ''
   etymology: Enets ага (aga)
   etym_tags: 'enets, samoyedic, uralic'
+  de_definition: ''
 - lemma: aga
   id: 4.2
   pos: adjective
@@ -43,6 +47,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: '-aj'
   id: 5
   pos: correlative suffix
@@ -52,6 +57,7 @@
   derived: 'kaj, laj, saj, maj'
   etymology: '-a'
   etym_tags: a priori
+  de_definition: ''
 - lemma: aj
   id: 6
   pos: noun
@@ -61,6 +67,7 @@
   derived: ''
   etymology: Turkish ay
   etym_tags: 'turkish, turkic'
+  de_definition: ''
 - lemma: ak
   id: 7.1
   pos: 'verb, ambi.'
@@ -70,6 +77,7 @@
   derived: ''
   etymology: Turkish ak
   etym_tags: 'turkish, turkic'
+  de_definition: ''
 - lemma: ak
   id: 7.2
   pos: 'verb, trans.'
@@ -79,6 +87,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ak
   id: 7.3
   pos: noun
@@ -88,6 +97,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ak
   id: 7.4
   pos: adjective
@@ -97,6 +107,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: akakia
   id: 8
   pos: noun
@@ -106,6 +117,7 @@
   derived: ''
   etymology: Greek ἀκακία (akakía)
   etym_tags: 'greek, indo-european'
+  de_definition: ''
 - lemma: al
   id: 9.1
   pos: 'verb, trans.'
@@ -117,6 +129,7 @@
   derived: 'aligi, aligitel, alpi, alpitel, alasu'
   etymology: Korean 알다 (al-da)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: al
   id: 9.2
   pos: 'verb, modal'
@@ -128,6 +141,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: al
   id: 9.3
   pos: noun
@@ -137,6 +151,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: al
   id: 9.4
   pos: adjective
@@ -146,6 +161,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: al
   id: 9.5
   pos: interjection
@@ -157,6 +173,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: alasu
   id: 10
   pos: noun
@@ -166,6 +183,7 @@
   derived: ''
   etymology: al + -asu
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: aligi
   id: 11.1
   pos: 'verb, ambi.'
@@ -175,6 +193,7 @@
   derived: aligitel
   etymology: al + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: aligi
   id: 11.2
   pos: noun
@@ -184,6 +203,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: aligitel
   id: 12
   pos: 'noun, gendered'
@@ -193,6 +213,7 @@
   derived: ''
   etymology: aligi + -tel
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: alin
   id: 13
   pos: noun
@@ -202,6 +223,7 @@
   derived: ''
   etymology: Manchu ᠠᠯᡳᠨ (alin)
   etym_tags: 'manchu, tungusic'
+  de_definition: ''
 - lemma: alkik
   id: 14
   pos: noun
@@ -211,6 +233,7 @@
   derived: ''
   etymology: Tamazight ⴰⵍⵅⵉⵅ (alkik)
   etym_tags: 'central atlas tamazight, amazigh, afroasiatic'
+  de_definition: ''
 - lemma: alpi
   id: 15.1
   pos: 'verb, ambi.'
@@ -220,6 +243,7 @@
   derived: alpitel
   etymology: al + -pi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: alpi
   id: 15.2
   pos: noun
@@ -229,6 +253,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: alpitel
   id: 16
   pos: 'noun, gendered'
@@ -238,6 +263,7 @@
   derived: ''
   etymology: alpi + -tel
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: altan
   id: 17
   pos: noun
@@ -247,6 +273,7 @@
   derived: ''
   etymology: Buryat алтан (altan)
   etym_tags: 'buryat, mongolic'
+  de_definition: ''
 - lemma: amal
   id: 18
   pos: 'noun, gendered'
@@ -256,6 +283,7 @@
   derived: ''
   etymology: Romani amal
   etym_tags: 'romani, indo-aryan, indo-european'
+  de_definition: ''
 - lemma: amelika
   id: 19.1
   pos: noun
@@ -267,6 +295,7 @@
   derived: ''
   etymology: English America
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: amelika
   id: 19.2
   pos: adjective
@@ -276,6 +305,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: anta
   id: 20.1
   pos: 'verb, ditrans., e-til'
@@ -285,6 +315,7 @@
   derived: ''
   etymology: Finnish antaa
   etym_tags: 'finnish, finnic, uralic'
+  de_definition: ''
 - lemma: anta
   id: 20.2
   pos: 'verb, modal'
@@ -294,6 +325,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: anta
   id: 20.3
   pos: 'verb, trans.'
@@ -303,6 +335,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: anta
   id: 20.4
   pos: 'verb, trans., no'
@@ -312,6 +345,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: anu
   id: 21
   pos: noun
@@ -321,6 +355,7 @@
   derived: ''
   etymology: Koryak ынну (ʔənnu)
   etym_tags: 'koryak, chukotkan, chukotko-kamchatkan'
+  de_definition: ''
 - lemma: asak
   id: 22
   pos: noun
@@ -330,6 +365,7 @@
   derived: ''
   etymology: Western Yugur azaq
   etym_tags: 'western yugur, turkic'
+  de_definition: ''
 - lemma: asan
   id: 23
   pos: adjective
@@ -339,6 +375,7 @@
   derived: ''
   etymology: Persian آسان (âsân)
   etym_tags: 'persian, iranian, indo-european'
+  de_definition: ''
 - lemma: '-asu'
   id: 24
   pos: nominal suffix
@@ -348,6 +385,7 @@
   derived: 'alasu, gidasu'
   etymology: asu
   etym_tags: affixation
+  de_definition: ''
 - lemma: asu
   id: 25.1
   pos: 'verb, trans.'
@@ -357,6 +395,7 @@
   derived: '-asu'
   etymology: Burmese အစု (a.cu.)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+  de_definition: ''
 - lemma: asu
   id: 25.2
   pos: 'verb, intr.'
@@ -366,6 +405,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: asu
   id: 25.3
   pos: noun
@@ -377,6 +417,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: at
   id: 26.1
   pos: particle
@@ -386,6 +427,7 @@
   derived: ''
   etymology: Korean -었- (-eot-)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: at
   id: 26.2
   pos: interjection
@@ -395,6 +437,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ataf
   id: 27.1
   pos: 'verb, trans.'
@@ -404,6 +447,7 @@
   derived: ''
   etymology: Hebrew עטף (ataf)
   etym_tags: 'hebrew, semitic, afroasiatic'
+  de_definition: ''
 - lemma: ataf
   id: 27.2
   pos: noun
@@ -413,6 +457,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kilo
   id: 28
   pos: numeral
@@ -422,6 +467,7 @@
   derived: ''
   etymology: SI Prefix kilo-
   etym_tags: a priori
+  de_definition: ''
 - lemma: aveli
   id: 29.1
   pos: particle
@@ -431,6 +477,7 @@
   derived: ''
   etymology: Armenian ավելի (aveli)
   etym_tags: 'armenian, indo-european'
+  de_definition: ''
 - lemma: aveli
   id: 29.2
   pos: adjective
@@ -440,6 +487,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: avelis
   id: 30.1
   pos: particle
@@ -449,6 +497,7 @@
   derived: ''
   etymology: aveli + -s
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: avelis
   id: 30.2
   pos: adjective
@@ -458,6 +507,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ekato
   id: 31
   pos: numeral
@@ -467,6 +517,7 @@
   derived: ''
   etymology: SI Prefix hecto- ~ hecato-
   etym_tags: a priori
+  de_definition: ''
 - lemma: balva
   id: 32.1
   pos: 'verb, avalent'
@@ -476,6 +527,7 @@
   derived: ''
   etymology: Northern Sami balva
   etym_tags: 'northern sami, sami, uralic'
+  de_definition: ''
 - lemma: balva
   id: 32.2
   pos: 'verb, intransitive'
@@ -485,6 +537,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: balva
   id: 32.3
   pos: noun
@@ -494,6 +547,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: banjak
   id: 33.1
   pos: verb
@@ -503,6 +557,7 @@
   derived: ''
   etymology: Indonesian banyak
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: banjak
   id: 33.2
   pos: noun
@@ -512,6 +567,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: basa
   id: 34
   pos: noun
@@ -521,6 +577,7 @@
   derived: baslamo
   etymology: Sanskrit भाषा (bhāṣā) and descendants
   etym_tags: 'sanskrit, indo-aryan, indo-european'
+  de_definition: ''
 - lemma: baslamo
   id: 35
   pos: noun
@@ -532,6 +589,7 @@
   derived: ''
   etymology: basa + salam
   etym_tags: 'a priori, portmanteau, compound'
+  de_definition: ''
 - lemma: bilu
   id: 36
   pos: 'verb, intr.'
@@ -543,6 +601,7 @@
   derived: bilupuka
   etymology: Kannada ಬೀಳು (bīḷu)
   etym_tags: 'kannada, south dravidian, dravidian'
+  de_definition: ''
 - lemma: bilupuka
   id: 37
   pos: noun
@@ -554,6 +613,7 @@
   derived: ''
   etymology: bilu + puka
   etym_tags: 'german, germanic, indo-european, compound, lexical compound, calque'
+  de_definition: ''
 - lemma: bjal
   id: 38
   pos: noun
@@ -563,6 +623,7 @@
   derived: ''
   etymology: Korean 별 (byeol)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: bo
   id: 39.1
   pos: 'verb, trans.'
@@ -572,6 +633,7 @@
   derived: ''
   etymology: Vietnamese bó
   etym_tags: 'vietnamese, vietic, austroasiatic'
+  de_definition: ''
 - lemma: bo
   id: 39.2
   pos: noun
@@ -581,6 +643,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: bol
   id: 40
   pos: noun
@@ -590,6 +653,7 @@
   derived: ''
   etymology: English bowl
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: bumi
   id: 41
   pos: noun
@@ -599,6 +663,7 @@
   derived: ''
   etymology: Hindi भूमि (bhūmi)
   etym_tags: 'hindi, indo-aryan, indo-european'
+  de_definition: ''
 - lemma: da
   id: 42
   pos: preposition
@@ -608,6 +673,7 @@
   derived: ''
   etymology: Telugu డా (ḍā)
   etym_tags: 'telugu, south dravidian, dravidian'
+  de_definition: ''
 - lemma: dan
   id: 43.1
   pos: 'verb, ambi.'
@@ -617,6 +683,7 @@
   derived: ''
   etymology: 'Vietnamese đánh, đấm, đá, đập'
   etym_tags: 'vietnamese, vietic, austroasiatic'
+  de_definition: ''
 - lemma: dan
   id: 43.2
   pos: 'verb, trans.'
@@ -626,6 +693,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dan
   id: 43.3
   pos: 'verb, intr.'
@@ -635,6 +703,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dan
   id: 43.4
   pos: noun
@@ -646,6 +715,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dan
   id: 43.5
   pos: adjective
@@ -655,6 +725,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dat
   id: 44.1
   pos: 'verb, trans.'
@@ -664,6 +735,7 @@
   derived: ''
   etymology: Korean 닫다 (datda)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: dat
   id: 44.2
   pos: 'verb, intr.'
@@ -673,6 +745,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dat
   id: 44.3
   pos: adjective
@@ -682,6 +755,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: defi
   id: 45.1
   pos: 'verb, ambi.'
@@ -691,6 +765,7 @@
   derived: ''
   etymology: French défi
   etym_tags: 'french, romance, indo-european'
+  de_definition: ''
 - lemma: defi
   id: 45.2
   pos: noun
@@ -700,6 +775,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: din
   id: 46
   pos: noun
@@ -709,6 +785,7 @@
   derived: 'dinele, -idi'
   etymology: Thai ดิน (din)
   etym_tags: 'thai, southwestern thai, kra-dai'
+  de_definition: ''
 - lemma: dolo
   id: 47
   pos: preposition
@@ -718,6 +795,7 @@
   derived: ''
   etymology: Manchu ᡩᠣᠯᠣ (dolo)
   etym_tags: 'manchu, tungusic'
+  de_definition: ''
 - lemma: dop
   id: 48.1
   pos: 'verb, ambi.'
@@ -727,6 +805,7 @@
   derived: dopel
   etymology: Korean 돕다 (dopda)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: dop
   id: 48.2
   pos: 'verb, trans.'
@@ -736,6 +815,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dopel
   id: 49.1
   pos: 'noun, gendered'
@@ -745,6 +825,7 @@
   derived: ''
   etymology: dop + -tel
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: dopel
   id: 49.2
   pos: noun
@@ -754,6 +835,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: doska
   id: 50
   pos: noun
@@ -763,6 +845,7 @@
   derived: doskapatal
   etymology: Slovak doska
   etym_tags: 'slovak, slavic, indo-european'
+  de_definition: ''
 - lemma: doskapatal
   id: 51
   pos: noun
@@ -772,6 +855,7 @@
   derived: ''
   etymology: doska + patal
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: dostep
   id: 52.1
   pos: 'verb, trans.'
@@ -781,6 +865,7 @@
   derived: ''
   etymology: Polish dostęp
   etym_tags: 'polish, slavic, indo-european'
+  de_definition: ''
 - lemma: dostep
   id: 52.2
   pos: noun
@@ -790,6 +875,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dostep
   id: 52.3
   pos: adjective
@@ -799,6 +885,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dulum
   id: 53.1
   pos: noun
@@ -808,6 +895,7 @@
   derived: ''
   etymology: Hiligaynon dulum
   etym_tags: 'hiligaynon, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: dulum
   id: 53.2
   pos: adjective
@@ -817,6 +905,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ega
   id: 54.1
   pos: 'verb, ambi.'
@@ -826,6 +915,7 @@
   derived: ''
   etymology: German Ärger
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: ega
   id: 54.2
   pos: noun
@@ -835,6 +925,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ega
   id: 54.3
   pos: adjective
@@ -844,6 +935,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ek
   id: 55
   pos: noun
@@ -853,6 +945,7 @@
   derived: ''
   etymology: Swedish ek
   etym_tags: 'swedish, germanic, indo-european'
+  de_definition: ''
 - lemma: '-el'
   id: 56
   pos: correlative suffix
@@ -862,6 +955,7 @@
   derived: 'kel, lel, sel, mel'
   etymology: a priori
   etym_tags: a priori
+  de_definition: ''
 - lemma: bombom
   id: 57
   pos: noun
@@ -871,6 +965,7 @@
   derived: ''
   etymology: French bonbon
   etym_tags: 'french, romance, indo-european'
+  de_definition: ''
 - lemma: ele
   id: 58
   pos: noun
@@ -880,6 +975,7 @@
   derived: dinele
   etymology: Kannada ಎಲೆ (ele)
   etym_tags: 'kannada, south dravidian, dravidian'
+  de_definition: ''
 - lemma: dinele
   id: 59
   pos: noun
@@ -889,6 +985,7 @@
   derived: ''
   etymology: din + ele
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: '-epi'
   id: 60
   pos: verbal suffix
@@ -898,6 +995,7 @@
   derived: ''
   etymology: '-pi'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: esa
   id: 61.1
   pos: 'verb, ambi.'
@@ -907,6 +1005,7 @@
   derived: esagi
   etymology: German essen
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: esa
   id: 61.2
   pos: noun
@@ -916,6 +1015,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: esagi
   id: 62
   pos: 'verb, ambidi., e-til'
@@ -925,6 +1025,7 @@
   derived: ''
   etymology: esa + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: eski
   id: 63
   pos: adjective
@@ -934,6 +1035,7 @@
   derived: ''
   etymology: Kyrgyz эски (eski)
   etym_tags: 'kyrgyz, turkic'
+  de_definition: ''
 - lemma: fas
   id: 64.1
   pos: 'verb, trans.'
@@ -943,6 +1045,7 @@
   derived: 'fasono, fastel'
   etymology: Portuguese fazer
   etym_tags: 'portuguese, romance, indo-european'
+  de_definition: ''
 - lemma: fas
   id: 64.2
   pos: 'verb, trans., sima'
@@ -952,6 +1055,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: fas
   id: 64.3
   pos: noun
@@ -961,6 +1065,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: fasono
   id: 65.1
   pos: 'verb, ambi.'
@@ -970,6 +1075,7 @@
   derived: ''
   etymology: fas + ono
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: fasono
   id: 65.2
   pos: 'verb, trans.'
@@ -979,6 +1085,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: fasono
   id: 65.3
   pos: adjective
@@ -988,6 +1095,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: fastel
   id: 66
   pos: noun
@@ -997,6 +1105,7 @@
   derived: ''
   etymology: fas + -tel
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: fok
   id: 67.1
   pos: 'verb, trans.'
@@ -1006,6 +1115,7 @@
   derived: ''
   etymology: Hungarian fog
   etym_tags: 'hungarian, ugric, uralic'
+  de_definition: ''
 - lemma: fok
   id: 67.2
   pos: noun
@@ -1015,6 +1125,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: fok
   id: 67.3
   pos: adjective
@@ -1024,6 +1135,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: fu
   id: 68.1
   pos: 'verb, intr.'
@@ -1033,6 +1145,7 @@
   derived: ''
   etymology: onomatopoeic
   etym_tags: 'onomatopoeia, a priori'
+  de_definition: ''
 - lemma: fu
   id: 68.2
   pos: 'verb, trans.'
@@ -1042,6 +1155,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ga
   id: 69
   pos: particle
@@ -1056,6 +1170,7 @@
   derived: ''
   etymology: Tày cạ
   etym_tags: 'tày, central tai, kra-dai'
+  de_definition: ''
 - lemma: gat
   id: 70
   pos: noun
@@ -1065,6 +1180,7 @@
   derived: ''
   etymology: Vietnamese gạch
   etym_tags: 'vietnamese, vietic, austroasiatic'
+  de_definition: ''
 - lemma: gata
   id: 71
   pos: 'verb, intr.'
@@ -1074,6 +1190,7 @@
   derived: 'gatagi, ugata'
   etymology: Cherokee ᎦᏔ (gata)
   etym_tags: 'cherokee, iroquoian'
+  de_definition: ''
 - lemma: gatagi
   id: 72
   pos: 'verb, trans.'
@@ -1083,6 +1200,7 @@
   derived: ''
   etymology: gata + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: e
   id: 73
   pos: particle
@@ -1092,6 +1210,7 @@
   derived: ''
   etymology: Toki Pona e
   etym_tags: 'toki pona, conlangs'
+  de_definition: ''
 - lemma: gaxa
   id: 74
   pos: noun
@@ -1101,6 +1220,7 @@
   derived: ''
   etymology: Gurage gäčä
   etym_tags: 'gurage, semitic, afroasiatic'
+  de_definition: ''
 - lemma: '-gi'
   id: 75
   pos: nominal suffix
@@ -1110,6 +1230,7 @@
   derived: ''
   etymology: '-igi'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: gia
   id: 76
   pos: adjective
@@ -1119,6 +1240,7 @@
   derived: giagi
   etymology: Georgian ღია (ɣia)
   etym_tags: 'georgian, kartvelian'
+  de_definition: ''
 - lemma: giagi
   id: 77
   pos: 'verb, trans.'
@@ -1128,6 +1250,7 @@
   derived: ''
   etymology: gia + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: gida
   id: 78.1
   pos: 'verb, intr.'
@@ -1137,6 +1260,7 @@
   derived: ''
   etymology: Hausa gida
   etym_tags: 'hausa, chadic, afroasiatic'
+  de_definition: ''
 - lemma: gida
   id: 78.2
   pos: noun
@@ -1146,6 +1270,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: gugol
   id: 79
   pos: verb
@@ -1155,6 +1280,7 @@
   derived: ''
   etymology: Hungarian guggol
   etym_tags: 'hungarian, ugric, uralic'
+  de_definition: ''
 - lemma: idaman
   id: 80.1
   pos: 'verb, trans.'
@@ -1164,6 +1290,7 @@
   derived: ''
   etymology: 'Central Atlas Tamazight ⵉⴷⴰⵎⵎⵏ (idammn), Tashelhit idammn, Tarifit idammen'
   etym_tags: 'central atlas tamazight, tashelhit, tarifit, amazigh, afroasiatic'
+  de_definition: ''
 - lemma: idaman
   id: 80.2
   pos: 'verb, intr.'
@@ -1173,6 +1300,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: idaman
   id: 80.3
   pos: noun
@@ -1182,6 +1310,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: idaman
   id: 80.4
   pos: adjective
@@ -1191,6 +1320,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: '-idi'
   id: 81
   pos: correlative suffix
@@ -1200,6 +1330,7 @@
   derived: ''
   etymology: din
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: '-igi'
   id: 82
   pos: verbal suffix
@@ -1211,6 +1342,7 @@
   derived: ''
   etymology: Esperanto -igi
   etym_tags: 'esperanto, conlangs'
+  de_definition: ''
 - lemma: '-ik'
   id: 83
   pos: nominal suffix
@@ -1220,6 +1352,7 @@
   derived: ''
   etymology: 'Armenian -իկ (-ik), descendants of Proto-Slavic -ikъ'
   etym_tags: 'armenian, slavic, indo-european'
+  de_definition: ''
 - lemma: ik
   id: 84
   pos: adjective
@@ -1229,6 +1362,7 @@
   derived: ''
   etymology: '-ik'
   etym_tags: back-formation
+  de_definition: ''
 - lemma: imut
   id: 85.1
   pos: 'verb, intr.'
@@ -1238,6 +1372,7 @@
   derived: ''
   etymology: Indoesian imut
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: imut
   id: 85.2
   pos: adjective
@@ -1247,6 +1382,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ina
   id: 86.1
   pos: 'verb, ambi.'
@@ -1256,6 +1392,7 @@
   derived: ''
   etymology: Yoruba iná
   etym_tags: 'yoruba, volta-niger, atlantic-congo'
+  de_definition: ''
 - lemma: ina
   id: 86.2
   pos: noun
@@ -1265,6 +1402,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ina
   id: 86.3
   pos: adjective
@@ -1274,6 +1412,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: inon
   id: 87
   pos: preposition
@@ -1283,6 +1422,7 @@
   derived: ''
   etymology: Mohawk í꞉non
   etym_tags: 'mohawk, northern iroquois, iroquois'
+  de_definition: ''
 - lemma: intaneto
   id: 88.1
   pos: 'verb, intr.'
@@ -1294,6 +1434,7 @@
   derived: ''
   etymology: 'Japanese インターネット (intānetto), from English internet'
   etym_tags: 'japanese, japonic, english, germanic, indo-european'
+  de_definition: ''
 - lemma: intaneto
   id: 88.2
   pos: noun
@@ -1303,6 +1444,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: intaneto
   id: 88.3
   pos: adjective
@@ -1312,6 +1454,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: isk
   id: 89
   pos: noun
@@ -1321,6 +1464,7 @@
   derived: ''
   etymology: Central Atlas Tamazight ⵉⵙⴽ (isk)
   etym_tags: 'central atlas tamazight, amazigh, afroasiatic'
+  de_definition: ''
 - lemma: iso
   id: 90.1
   pos: 'verb, trans.'
@@ -1330,6 +1474,7 @@
   derived: ''
   etymology: Greek ίσο (íso)
   etym_tags: 'greek, indo-european'
+  de_definition: ''
 - lemma: iso
   id: 90.2
   pos: 'verb, intr.'
@@ -1339,6 +1484,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: iso
   id: 90.3
   pos: noun
@@ -1348,6 +1494,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: iso
   id: 90.4
   pos: adjective
@@ -1357,6 +1504,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: iso
   id: 90.5
   pos: conjunction
@@ -1368,6 +1516,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: iso
   id: 90.6
   pos: interjection
@@ -1377,6 +1526,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ista
   id: 91.1
   pos: 'verb, trans.'
@@ -1388,6 +1538,7 @@
   derived: ''
   etymology: Azerbaijani istəmək
   etym_tags: 'azerbaijani, turkic'
+  de_definition: ''
 - lemma: ista
   id: 91.2
   pos: 'verb, modal'
@@ -1397,6 +1548,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ista
   id: 91.3
   pos: noun
@@ -1406,6 +1558,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ista
   id: 91.4
   pos: adjective
@@ -1415,6 +1568,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ja
   id: 92
   pos: conjunction
@@ -1424,6 +1578,7 @@
   derived: ''
   etymology: Persian یا (yâ)
   etym_tags: 'persian, iranian, indo-european'
+  de_definition: ''
 - lemma: isogi
   id: 93
   pos: 'verb, trans.'
@@ -1433,6 +1588,7 @@
   derived: ''
   etymology: iso + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: jan
   id: 94.1
   pos: 'verb, trans.'
@@ -1442,6 +1598,7 @@
   derived: fasonojan
   etymology: Vietnamese dành
   etym_tags: 'vietnamese, vietic, austroasiatic'
+  de_definition: ''
 - lemma: jan
   id: 94.2
   pos: noun
@@ -1451,6 +1608,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: jap
   id: 95
   pos: adjective
@@ -1460,6 +1618,7 @@
   derived: ''
   etymology: Khmer យ៉ាប់ (yap)
   etym_tags: 'khmer, austroasiatic'
+  de_definition: ''
 - lemma: jaset
   id: 96.1
   pos: 'verb, ambi.'
@@ -1469,6 +1628,7 @@
   derived: ''
   etymology: Halkomelem yóthet
   etym_tags: 'halkomelem, coast salish, salishan'
+  de_definition: ''
 - lemma: jaset
   id: 96.2
   pos: preposition
@@ -1478,6 +1638,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: jaset
   id: 96.3
   pos: adjective
@@ -1487,6 +1648,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: jati
   id: 97.1
   pos: 'verb, ambi.'
@@ -1496,6 +1658,7 @@
   derived: ''
   etymology: Navajo yátiʼ
   etym_tags: 'navajo, southern dené, dené'
+  de_definition: ''
 - lemma: jati
   id: 97.2
   pos: noun
@@ -1505,6 +1668,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: leto
   id: 98
   pos: noun
@@ -1514,6 +1678,7 @@
   derived: ''
   etymology: Slovene lẹ́to
   etym_tags: 'slovene, slavic, indo-european'
+  de_definition: ''
 - lemma: makanigi
   id: 99
   pos: 'verb, trans.'
@@ -1523,6 +1688,7 @@
   derived: ''
   etymology: ma + kan + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: lo
   id: 100.1
   pos: noun
@@ -1532,6 +1698,7 @@
   derived: ''
   etymology: Nuosu ꇇ (lot)
   etym_tags: 'nuosu, lolo-burmese, tibeto-burman, sino-tibetan'
+  de_definition: ''
 - lemma: lo
   id: 100.2
   pos: numeral
@@ -1541,6 +1708,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kil
   id: 101
   pos: numeral
@@ -1550,6 +1718,7 @@
   derived: ''
   etymology: Volapük kil
   etym_tags: 'volapük, constructed'
+  de_definition: ''
 - lemma: jok
   id: 102.1
   pos: 'verb, ambi.'
@@ -1559,6 +1728,7 @@
   derived: ''
   etymology: Latin iocus
   etym_tags: 'latin, romance, indo-european'
+  de_definition: ''
 - lemma: jok
   id: 102.2
   pos: noun
@@ -1568,6 +1738,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: jokel
   id: 103
   pos: noun
@@ -1577,6 +1748,7 @@
   derived: ''
   etymology: jok + -tel
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: jun
   id: 104
   pos: noun
@@ -1586,6 +1758,7 @@
   derived: ''
   etymology: Burmese ယုန် (yun)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+  de_definition: ''
 - lemma: k-
   id: 105
   pos: correlative prefix
@@ -1595,6 +1768,7 @@
   derived: ''
   etymology: ka
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: ka
   id: 106.1
   pos: verb
@@ -1604,6 +1778,7 @@
   derived: ''
   etymology: Japanese か (ka)
   etym_tags: 'japanese, japonic'
+  de_definition: ''
 - lemma: ka
   id: 106.2
   pos: noun
@@ -1613,6 +1788,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ka
   id: 106.3
   pos: particle
@@ -1622,6 +1798,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: lot
   id: 107
   pos: noun
@@ -1633,6 +1810,7 @@
   derived: ''
   etymology: Lao ລົດ (lot)
   etym_tags: 'lao, lolo-burmese, tibeto-burman, sino-tibetan'
+  de_definition: ''
 - lemma: ugal-lot
   id: 108
   pos: noun
@@ -1642,6 +1820,7 @@
   derived: ''
   etymology: ugal + lot
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: kaf
   id: 109
   pos: noun
@@ -1651,6 +1830,7 @@
   derived: ''
   etymology: Wolof këf
   etym_tags: 'wolof, west atlantic, atlantic-congo'
+  de_definition: ''
 - lemma: kel
   id: 110
   pos: correlative
@@ -1660,6 +1840,7 @@
   derived: ''
   etymology: k- + -el
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kaj
   id: 111
   pos: correlative
@@ -1671,6 +1852,7 @@
   derived: ''
   etymology: k- + -aj
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kaga
   id: 112
   pos: correlative
@@ -1682,6 +1864,7 @@
   derived: ''
   etymology: k- + -aga
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kom
   id: 113
   pos: correlative
@@ -1693,6 +1876,7 @@
   derived: ''
   etymology: k- + om
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kosi
   id: 114
   pos: correlative
@@ -1702,6 +1886,7 @@
   derived: ''
   etymology: k- + osi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kidi
   id: 115
   pos: correlative
@@ -1711,6 +1896,7 @@
   derived: ''
   etymology: k- + -idi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: lel
   id: 116
   pos: correlative
@@ -1720,6 +1906,7 @@
   derived: ''
   etymology: l- + -el
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: laj
   id: 117
   pos: correlative
@@ -1729,6 +1916,7 @@
   derived: ''
   etymology: l- + -aj
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: laga
   id: 118
   pos: correlative
@@ -1738,6 +1926,7 @@
   derived: ''
   etymology: l- + -aga
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: lom
   id: 119
   pos: correlative
@@ -1747,6 +1936,7 @@
   derived: ''
   etymology: l- + om
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: losi
   id: 120
   pos: correlative
@@ -1756,6 +1946,7 @@
   derived: ''
   etymology: l- + osi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: lidi
   id: 121
   pos: correlative
@@ -1765,6 +1956,7 @@
   derived: ''
   etymology: l- + -idi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: sel
   id: 122
   pos: correlative
@@ -1774,6 +1966,7 @@
   derived: ''
   etymology: s- + -el
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: saj
   id: 123
   pos: correlative
@@ -1783,6 +1976,7 @@
   derived: ''
   etymology: s- + -aj
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: saga
   id: 124
   pos: correlative
@@ -1792,6 +1986,7 @@
   derived: ''
   etymology: s- + -aga
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: som
   id: 125
   pos: correlative
@@ -1801,6 +1996,7 @@
   derived: ''
   etymology: s- + om
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: sosi
   id: 126
   pos: correlative
@@ -1810,6 +2006,7 @@
   derived: ''
   etymology: s- + osi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: sidi
   id: 127
   pos: correlative
@@ -1819,6 +2016,7 @@
   derived: ''
   etymology: s- + -idi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: mel
   id: 128
   pos: correlative
@@ -1828,6 +2026,7 @@
   derived: ''
   etymology: m- + -el
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: maj
   id: 129
   pos: correlative
@@ -1837,6 +2036,7 @@
   derived: ''
   etymology: m- + -aj
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: maga
   id: 130
   pos: correlative
@@ -1846,6 +2046,7 @@
   derived: ''
   etymology: m- + -aga
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: mom
   id: 131
   pos: correlative
@@ -1855,6 +2056,7 @@
   derived: ''
   etymology: m- + om
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: mosi
   id: 132
   pos: correlative
@@ -1864,6 +2066,7 @@
   derived: ''
   etymology: m- + osi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: midi
   id: 133
   pos: correlative
@@ -1873,6 +2076,7 @@
   derived: ''
   etymology: m- + -idi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kak
   id: 134.1
   pos: 'verb, intr.'
@@ -1884,6 +2088,7 @@
   derived: 'kakigi, kakepi'
   etymology: O'odham ke꞉k "to stand"
   etym_tags: 'o''odham, tepiman, uto-aztecan'
+  de_definition: ''
 - lemma: kak
   id: 134.2
   pos: 'verb, trans.'
@@ -1893,6 +2098,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kak
   id: 134.3
   pos: 'verb, trans., u'
@@ -1902,6 +2108,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kak
   id: 134.4
   pos: noun
@@ -1911,6 +2118,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kakigi
   id: 135
   pos: 'verb, trans.'
@@ -1920,6 +2128,7 @@
   derived: ''
   etymology: kak + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kakepi
   id: 136
   pos: 'verb, intr.'
@@ -1929,6 +2138,7 @@
   derived: ''
   etymology: kak + -epi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kam
   id: 137.1
   pos: noun
@@ -1938,6 +2148,7 @@
   derived: ''
   etymology: Khmer កាំ (kam)
   etym_tags: 'khmer, austroasiatic'
+  de_definition: ''
 - lemma: kam
   id: 137.2
   pos: adjective
@@ -1947,6 +2158,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kan
   id: 138.1
   pos: 'verb, trans.'
@@ -1956,6 +2168,7 @@
   derived: makanigi
   etymology: Khmer កាន់ (kan)
   etym_tags: 'khmer, austroasiatic'
+  de_definition: ''
 - lemma: kan
   id: 138.2
   pos: 'verb, trans., u'
@@ -1967,6 +2180,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kan
   id: 138.3
   pos: 'verb, intr.'
@@ -1976,6 +2190,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kan
   id: 138.4
   pos: 'verb, ambi.'
@@ -1985,6 +2200,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kan
   id: 138.5
   pos: noun
@@ -1996,6 +2212,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: makanigi
   id: 139
   pos: verb
@@ -2005,6 +2222,7 @@
   derived: ''
   etymology: ma- + kan + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kanan
   id: 140
   pos: preposition
@@ -2014,6 +2232,7 @@
   derived: ''
   etymology: Malay kanan
   etym_tags: 'malay, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: '-lo'
   id: 141
   pos: nominal suffix
@@ -2023,6 +2242,7 @@
   derived: nasolo
   etymology: lo
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: nasolo
   id: 142
   pos: noun
@@ -2032,6 +2252,7 @@
   derived: ''
   etymology: naso + -lo
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: fasono nasolo
   id: 143
   pos: noun
@@ -2041,6 +2262,7 @@
   derived: ''
   etymology: fasono + nasolo
   etym_tags: 'collocation, compound'
+  de_definition: ''
 - lemma: mua son
   id: 144
   pos: noun
@@ -2050,6 +2272,7 @@
   derived: ''
   etymology: mua + son
   etym_tags: 'collocation, compound'
+  de_definition: ''
 - lemma: jaset son
   id: 145
   pos: noun
@@ -2059,6 +2282,7 @@
   derived: ''
   etymology: jaset + son
   etym_tags: 'collocation, compound'
+  de_definition: ''
 - lemma: '-alo'
   id: 146
   pos: nominal suffix
@@ -2068,6 +2292,7 @@
   derived: ''
   etymology: '-lo'
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: sok
   id: 147.1
   pos: 'verb, trans.'
@@ -2077,6 +2302,7 @@
   derived: ''
   etymology: Tuvan соок
   etym_tags: 'tuvan, turkic'
+  de_definition: ''
 - lemma: sok
   id: 147.2
   pos: adjective
@@ -2086,6 +2312,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ma-
   id: 148
   pos: prefix
@@ -2095,6 +2322,7 @@
   derived: ''
   etymology: ma
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: mal-
   id: 149
   pos: prefix
@@ -2104,6 +2332,7 @@
   derived: ''
   etymology: ma-
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: aba
   id: 150
   pos: conjunction
@@ -2113,6 +2342,7 @@
   derived: ''
   etymology: German aber
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: kanu
   id: 151
   pos: noun
@@ -2122,6 +2352,7 @@
   derived: ''
   etymology: Ingrian kanu
   etym_tags: 'ingrian, finnic, uralic'
+  de_definition: ''
 - lemma: kelit
   id: 152.1
   pos: 'verb, trans.'
@@ -2131,6 +2362,7 @@
   derived: ''
   etymology: Persian کلید (kelid)
   etym_tags: 'persian, iranian, indo-european'
+  de_definition: ''
 - lemma: kelit
   id: 152.2
   pos: 'verb, ambi.'
@@ -2140,6 +2372,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kelit
   id: 152.3
   pos: noun
@@ -2149,6 +2382,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kesek
   id: 153
   pos: noun
@@ -2160,6 +2394,7 @@
   derived: ''
   etymology: Kyrgyz кесек (kesek)
   etym_tags: 'kyrgyz, turkic'
+  de_definition: ''
 - lemma: kiba
   id: 154.1
   pos: 'verb, trans.'
@@ -2171,6 +2406,7 @@
   derived: ''
   etymology: Hebrew כיבה (kiba)
   etym_tags: 'hebrew, semitic, afroasiatic'
+  de_definition: ''
 - lemma: kiba
   id: 154.2
   pos: adjective
@@ -2180,6 +2416,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: un
   id: 155.1
   pos: numeral
@@ -2189,6 +2426,7 @@
   derived: ''
   etymology: Latin unus
   etym_tags: 'latin, romance, indo-european'
+  de_definition: ''
 - lemma: un
   id: 155.2
   pos: adjective
@@ -2198,6 +2436,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: un
   id: 155.3
   pos: noun
@@ -2207,6 +2446,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: lua
   id: 156
   pos: numeral
@@ -2216,6 +2456,7 @@
   derived: ''
   etymology: Hawaiian lua
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: ine
   id: 157
   pos: numeral
@@ -2225,6 +2466,7 @@
   derived: ''
   etymology: Ainu イネ (ine)
   etym_tags: 'ainu, isolates'
+  de_definition: ''
 - lemma: ses
   id: 158
   pos: numeral
@@ -2234,6 +2476,7 @@
   derived: ''
   etymology: 'Spanish seis, Portuguese seis'
   etym_tags: 'spanish, portuguese, romance, indo-european'
+  de_definition: ''
 - lemma: sata
   id: 159
   pos: numeral
@@ -2243,6 +2486,7 @@
   derived: ''
   etymology: Punjabi ਸੱਤ (sattă)
   etym_tags: 'punjabi, indo-aryan, indo-european'
+  de_definition: ''
 - lemma: valu
   id: 160
   pos: numeral
@@ -2252,6 +2496,7 @@
   derived: ''
   etymology: Fijian walu
   etym_tags: 'fijian, oceanic, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: togus
   id: 161
   pos: numeral
@@ -2261,6 +2506,7 @@
   derived: ''
   etymology: Dolgan тогус (togus)
   etym_tags: 'dolgan, turkic'
+  de_definition: ''
 - lemma: deka
   id: 162
   pos: numeral
@@ -2270,6 +2516,7 @@
   derived: ''
   etymology: SI Prefix deca-
   etym_tags: a priori
+  de_definition: ''
 - lemma: kino
   id: 163.1
   pos: 'verb, ambi.'
@@ -2279,6 +2526,7 @@
   derived: ''
   etymology: Greek κινώ (kinó)
   etym_tags: 'greek, indo-european'
+  de_definition: ''
 - lemma: kino
   id: 163.2
   pos: noun
@@ -2288,6 +2536,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kino
   id: 163.3
   pos: adjective
@@ -2297,6 +2546,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kisa
   id: 164.1
   pos: 'verb, ambi.'
@@ -2306,6 +2556,7 @@
   derived: ''
   etymology: Spanish quizá
   etym_tags: 'spanish, romance, indo-european'
+  de_definition: ''
 - lemma: kisa
   id: 164.2
   pos: adjective
@@ -2315,6 +2566,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kitap
   id: 165.1
   pos: 'verb, ambi.'
@@ -2324,6 +2576,7 @@
   derived: ''
   etymology: Arabic كتاب (kitāb)
   etym_tags: 'arabic, semitic, afroasiatic'
+  de_definition: ''
 - lemma: kitap
   id: 165.2
   pos: noun
@@ -2333,6 +2586,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: kitap
   id: 165.3
   pos: adjective
@@ -2342,6 +2596,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: inaki
   id: 166
   pos: noun
@@ -2351,6 +2606,7 @@
   derived: ''
   etymology: Oroch инаки (inaki)
   etym_tags: 'oroch, tungusic'
+  de_definition: ''
 - lemma: koj
   id: 167
   pos: noun
@@ -2360,6 +2616,7 @@
   derived: ''
   etymology: Vietnamese khối
   etym_tags: 'vietnamese, vietic, austroasiatic'
+  de_definition: ''
 - lemma: kojma
   id: 168.1
   pos: 'verb, trans.'
@@ -2369,6 +2626,7 @@
   derived: ''
   etymology: Bashkir ҡойма (qojma)
   etym_tags: 'bashkir, turkic'
+  de_definition: ''
 - lemma: kojma
   id: 168.2
   pos: noun
@@ -2378,6 +2636,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: koke
   id: 169
   pos: noun
@@ -2387,6 +2646,7 @@
   derived: ''
   etymology: Klamath-Modoc ɢoɢe
   etym_tags: 'klamath-modoc, plateau penutian'
+  de_definition: ''
 - lemma: kolon
   id: 170.1
   pos: noun
@@ -2396,6 +2656,7 @@
   derived: ''
   etymology: Latin corōna
   etym_tags: 'latin, romance, indo-european'
+  de_definition: ''
 - lemma: kolon
   id: 170.2
   pos: adjective
@@ -2405,6 +2666,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: komputa
   id: 171
   pos: noun
@@ -2414,6 +2676,7 @@
   derived: ''
   etymology: English computer
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: konsol
   id: 172
   pos: noun
@@ -2423,6 +2686,7 @@
   derived: ''
   etymology: English console
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: kot
   id: 173
   pos: noun
@@ -2432,6 +2696,7 @@
   derived: ''
   etymology: Mongolian хот (xot)
   etym_tags: 'mongolian, mongolic'
+  de_definition: ''
 - lemma: kuas
   id: 174
   pos: noun
@@ -2441,6 +2706,7 @@
   derived: ''
   etymology: German Quarz
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: lil
   id: 175
   pos: noun
@@ -2450,6 +2716,7 @@
   derived: ''
   etymology: Estonian lill
   etym_tags: 'estonian, finnic, uralic'
+  de_definition: ''
 - lemma: tasa
   id: 176
   pos: noun
@@ -2459,6 +2726,7 @@
   derived: ''
   etymology: Panamint tatsa
   etym_tags: 'panamint, numic, uto-aztecan'
+  de_definition: ''
 - lemma: sato
   id: 177
   pos: noun
@@ -2468,6 +2736,7 @@
   derived: ''
   etymology: Finnish sato
   etym_tags: 'finnish, finnic, uralic'
+  de_definition: ''
 - lemma: kus
   id: 178
   pos: noun
@@ -2477,6 +2746,7 @@
   derived: ''
   etymology: Yakut кыс (kïs)
   etym_tags: 'yakut, turkic'
+  de_definition: ''
 - lemma: l-
   id: 179
   pos: correlative prefix
@@ -2486,6 +2756,7 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  de_definition: ''
 - lemma: s-
   id: 180
   pos: correlative prefix
@@ -2495,6 +2766,7 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  de_definition: ''
 - lemma: m-
   id: 181
   pos: correlative prefix
@@ -2504,6 +2776,7 @@
   derived: ''
   etymology: ma
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: '-om'
   id: 182
   pos: correlative suffix
@@ -2513,6 +2786,7 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  de_definition: ''
 - lemma: '-osi'
   id: 183
   pos: correlative suffix
@@ -2522,6 +2796,7 @@
   derived: ''
   etymology: si
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: ladi
   id: 184.1
   pos: 'verb, ambi.'
@@ -2531,6 +2806,7 @@
   derived: ''
   etymology: Czech ladit
   etym_tags: 'czech, slavic, indo-european'
+  de_definition: ''
 - lemma: ladi
   id: 184.2
   pos: noun
@@ -2540,6 +2816,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: lami
   id: 185.1
   pos: 'verb, intr.'
@@ -2549,6 +2826,7 @@
   derived: ''
   etymology: Arabic لامع (lāmiʕ)
   etym_tags: 'arabic, semitic, afroasiatic'
+  de_definition: ''
 - lemma: lami
   id: 185.2
   pos: noun
@@ -2558,6 +2836,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: lami
   id: 185.3
   pos: adjetive
@@ -2567,6 +2846,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: agagi
   id: 186
   pos: 'verb, trans.'
@@ -2576,6 +2856,7 @@
   derived: ''
   etymology: aga + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: lava
   id: 187
   pos: noun
@@ -2585,6 +2866,7 @@
   derived: ''
   etymology: English lava
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: lego
   id: 188
   pos: 'verb, trans.'
@@ -2594,6 +2876,7 @@
   derived: ''
   etymology: Greek λέγω (légo)
   etym_tags: 'greek, indo-european'
+  de_definition: ''
 - lemma: leto
   id: 189
   pos: noun
@@ -2603,6 +2886,7 @@
   derived: ''
   etymology: Slovene lẹ́to
   etym_tags: 'slovene, slavic, indo-european'
+  de_definition: ''
 - lemma: li
   id: 190.1
   pos: particle
@@ -2612,6 +2896,7 @@
   derived: ''
   etymology: Toki Pona li
   etym_tags: 'toki pona, constructed'
+  de_definition: ''
 - lemma: li
   id: 190.2
   pos: interjection
@@ -2621,6 +2906,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: lom
   id: 191.1
   pos: 'verb, aval.'
@@ -2630,6 +2916,7 @@
   derived: ''
   etymology: Thai ลม (lom)
   etym_tags: 'thai, southwestern tai, kra-dai'
+  de_definition: ''
 - lemma: lom
   id: 191.2
   pos: 'verb, intr.'
@@ -2639,6 +2926,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: lom
   id: 191.3
   pos: noun
@@ -2650,6 +2938,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: luk
   id: 192
   pos: 'noun, gendered'
@@ -2659,6 +2948,7 @@
   derived: ''
   etymology: Zhuang lwg
   etym_tags: 'zhuang, northern tai, kra-dai'
+  de_definition: ''
 - lemma: mali
   id: 193
   pos: adjective
@@ -2668,6 +2958,7 @@
   derived: ''
   etymology: ma + li
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: ma
   id: 194.1
   pos: particle
@@ -2679,6 +2970,7 @@
   etym_tags: >-
     turkish, turkic, arabic, semitic, afroasiatic, thai, southwestern tai,
     kra-dai
+  de_definition: ''
 - lemma: ma
   id: 194.2
   pos: interjection
@@ -2688,6 +2980,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: magi
   id: 195.1
   pos: 'verb, intr.'
@@ -2697,6 +2990,7 @@
   derived: ''
   etymology: Latin magīa
   etym_tags: 'latin, romance, indo-european'
+  de_definition: ''
 - lemma: magi
   id: 195.2
   pos: 'verb, trans.'
@@ -2706,6 +3000,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: magi
   id: 195.3
   pos: noun
@@ -2715,6 +3010,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: magi
   id: 195.4
   pos: adjective
@@ -2724,6 +3020,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: majs
   id: 196.1
   pos: 'verb, trans.'
@@ -2733,6 +3030,7 @@
   derived: ''
   etymology: 'Lithuanian maišyti, Latvian maisit'
   etym_tags: 'lithuanian, latvian, baltic, indo-european'
+  de_definition: ''
 - lemma: majs
   id: 196.2
   pos: 'verb, trans., u'
@@ -2742,6 +3040,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: majs
   id: 196.3
   pos: 'verb, intr.'
@@ -2751,6 +3050,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: majs
   id: 196.4
   pos: noun
@@ -2760,6 +3060,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: dop-basa
   id: 197
   pos: noun
@@ -2769,6 +3070,7 @@
   derived: ''
   etymology: dop + basa
   etym_tags: 'compound, lexical compound, calque'
+  de_definition: ''
 - lemma: fas-basa
   id: 198.1
   pos: verb
@@ -2778,6 +3080,7 @@
   derived: ''
   etymology: fas + basa
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: fas-basa
   id: 198.2
   pos: noun
@@ -2787,6 +3090,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: senet-basa
   id: 199
   pos: noun
@@ -2798,6 +3102,7 @@
   derived: ''
   etymology: senet + basa
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: imut sin
   id: 200
   pos: interjection
@@ -2807,6 +3112,7 @@
   derived: ''
   etymology: imut + sin
   etym_tags: collocation
+  de_definition: ''
 - lemma: imut til
   id: 201
   pos: interjection
@@ -2816,6 +3122,7 @@
   derived: ''
   etymology: imut + til
   etym_tags: collocation
+  de_definition: ''
 - lemma: lle
   id: 202
   pos: contraction
@@ -2825,6 +3132,7 @@
   derived: ''
   etymology: lel + li + e
   etym_tags: contraction
+  de_definition: ''
 - lemma: mama
   id: 203
   pos: 'noun, gendered'
@@ -2834,6 +3142,7 @@
   derived: ''
   etymology: almost every language
   etym_tags: many
+  de_definition: ''
 - lemma: mameso
   id: 204
   pos: adjective
@@ -2843,6 +3152,7 @@
   derived: ''
   etymology: ma + meso
   etym_tags: 'greek, indo-european, calque'
+  de_definition: ''
 - lemma: me
   id: 205
   pos: pronoun
@@ -2852,6 +3162,7 @@
   derived: ''
   etymology: the chapter M-T pronouns in WALS
   etym_tags: many
+  de_definition: ''
 - lemma: mea
   id: 206
   pos: pronoun
@@ -2861,6 +3172,7 @@
   derived: ''
   etymology: me + -a
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: te
   id: 207
   pos: pronoun
@@ -2870,6 +3182,7 @@
   derived: ''
   etymology: the chapter M-T pronouns in WALS
   etym_tags: many
+  de_definition: ''
 - lemma: tea
   id: 208
   pos: pronoun
@@ -2879,6 +3192,7 @@
   derived: ''
   etymology: te + -a
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: medegi
   id: 209.1
   pos: 'verb, trans.'
@@ -2888,6 +3202,7 @@
   derived: ''
   etymology: Georgian მედეგი (medegi)
   etym_tags: 'georgian, kartvelian'
+  de_definition: ''
 - lemma: medegi
   id: 209.2
   pos: noun
@@ -2897,6 +3212,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: medegi
   id: 209.3
   pos: adjective
@@ -2906,6 +3222,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: meligi
   id: 210
   pos: 'verb, trans.'
@@ -2915,6 +3232,7 @@
   derived: ''
   etymology: mel + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: mena
   id: 211.1
   pos: noun
@@ -2924,6 +3242,7 @@
   derived: ''
   etymology: Spanish mena
   etym_tags: ''
+  de_definition: ''
 - lemma: mena
   id: 211.2
   pos: adjective
@@ -2933,6 +3252,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: meso
   id: 212.1
   pos: noun
@@ -2942,6 +3262,7 @@
   derived: ''
   etymology: Greek μέσο (méso)
   etym_tags: ''
+  de_definition: ''
 - lemma: meso
   id: 212.2
   pos: preposition
@@ -2951,6 +3272,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: meti
   id: 213.1
   pos: 'verb, trans.'
@@ -2960,6 +3282,7 @@
   derived: ''
   etymology: Friulian meti
   etym_tags: 'friulian, romance, indo-european'
+  de_definition: ''
 - lemma: meti
   id: 213.2
   pos: noun
@@ -2969,6 +3292,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ono
   id: 214.1
   pos: noun
@@ -2978,6 +3302,7 @@
   derived: ''
   etymology: 'Japanese 己 [おの] (ono)'
   etym_tags: 'japanese, japonic'
+  de_definition: ''
 - lemma: ono
   id: 214.2
   pos: adjective
@@ -2987,6 +3312,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: umal
   id: 215
   pos: noun
@@ -2996,6 +3322,7 @@
   derived: ''
   etymology: Erzya умарь (umaŕ)
   etym_tags: 'erzya, mordvinic, uralic'
+  de_definition: ''
 - lemma: miskinak
   id: 216.1
   pos: 'verb, intr.'
@@ -3005,6 +3332,7 @@
   derived: ''
   etymology: Cree miskinâhk
   etym_tags: 'cree, central algonquian, algonquian'
+  de_definition: ''
 - lemma: miskinak
   id: 216.2
   pos: noun
@@ -3014,6 +3342,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: miskinak sual
   id: 217
   pos: noun
@@ -3023,6 +3352,7 @@
   derived: ''
   etymology: miskinak + sual
   etym_tags: 'compound, collocation, calque'
+  de_definition: ''
 - lemma: uni amelika
   id: 218
   pos: noun
@@ -3034,6 +3364,7 @@
   derived: ''
   etymology: uni + amelika
   etym_tags: 'compound, collocation'
+  de_definition: ''
 - lemma: uni kanada
   id: 219
   pos: noun
@@ -3043,6 +3374,7 @@
   derived: ''
   etymology: uni + kanada
   etym_tags: 'compound, collocation'
+  de_definition: ''
 - lemma: kanada
   id: 220
   pos: noun
@@ -3052,6 +3384,7 @@
   derived: ''
   etymology: English Canada
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: onojati
   id: 221
   pos: noun
@@ -3061,6 +3394,7 @@
   derived: ''
   etymology: ono + jati
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: mjav
   id: 222.1
   pos: 'verb, intr.'
@@ -3070,6 +3404,7 @@
   derived: ''
   etymology: onomatopoeic
   etym_tags: onomatopoeia
+  de_definition: ''
 - lemma: mjav
   id: 222.2
   pos: noun
@@ -3079,6 +3414,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: mjav
   id: 222.3
   pos: interjection
@@ -3088,6 +3424,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: modi
   id: 223.1
   pos: 'verb, trans.'
@@ -3097,6 +3434,7 @@
   derived: ''
   etymology: Latin mōdī
   etym_tags: 'latin, romance, indo-european'
+  de_definition: ''
 - lemma: modi
   id: 223.2
   pos: 'verb, trans., sima'
@@ -3106,6 +3444,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: modi
   id: 223.3
   pos: noun
@@ -3115,6 +3454,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: mol
   id: 224
   pos: noun
@@ -3124,6 +3464,7 @@
   derived: ''
   etymology: Norwegian mål
   etym_tags: 'norwegian, germanic, indo-european'
+  de_definition: ''
 - lemma: molkitap
   id: 225
   pos: noun
@@ -3133,6 +3474,7 @@
   derived: ''
   etymology: mol + kitap
   etym_tags: 'compound, lexical compound, calque'
+  de_definition: ''
 - lemma: mot
   id: 226
   pos: noun
@@ -3142,6 +3484,7 @@
   derived: ''
   etymology: Mongolian мод (mod)
   etym_tags: 'mongolian, mongolic'
+  de_definition: ''
 - lemma: mua
   id: 227.1
   pos: preposition
@@ -3151,6 +3494,7 @@
   derived: ''
   etymology: Maori mua
   etym_tags: 'maori, oceanic, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: mua
   id: 227.2
   pos: adjective
@@ -3160,6 +3504,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: muak
   id: 228
   pos: noun
@@ -3169,6 +3514,7 @@
   derived: ''
   etymology: Lao ໝວກ (mūak)
   etym_tags: 'lao, southwestern tai, kra-dai'
+  de_definition: ''
 - lemma: museli
   id: 229
   pos: noun
@@ -3178,6 +3524,7 @@
   derived: ''
   etymology: Georgian მუცელი (muceli)
   etym_tags: ''
+  de_definition: ''
 - lemma: musik
   id: 230.1
   pos: 'verb, ambi.'
@@ -3187,6 +3534,7 @@
   derived: ''
   etymology: many languages
   etym_tags: many
+  de_definition: ''
 - lemma: musik
   id: 230.2
   pos: noun
@@ -3196,6 +3544,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: mut
   id: 231
   pos: 'verb, modal'
@@ -3205,6 +3554,7 @@
   derived: ''
   etymology: Afrikaans moet
   etym_tags: 'afrikaans, germanic, indo-european'
+  de_definition: ''
 - lemma: na
   id: 232
   pos: noun
@@ -3214,6 +3564,7 @@
   derived: ''
   etymology: Hmong nas
   etym_tags: 'hmong, western hmongic, hmongic, hmong-mien'
+  de_definition: ''
 - lemma: naja
   id: 233
   pos: adjective
@@ -3223,6 +3574,7 @@
   derived: ''
   etymology: Hindi नया (nayā)
   etym_tags: 'hindi, indo-iranian, indo-european'
+  de_definition: ''
 - lemma: nam
   id: 233.1
   pos: 'verb, trans.'
@@ -3232,6 +3584,7 @@
   derived: ''
   etymology: many
   etym_tags: many
+  de_definition: ''
 - lemma: nam
   id: 233.2
   pos: 'verb, trans., til'
@@ -3241,6 +3594,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nam
   id: 233.3
   pos: noun
@@ -3250,6 +3604,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: luanam
   id: 234
   pos: noun
@@ -3259,6 +3614,7 @@
   derived: ''
   etymology: lua + nam
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: gidasu
   id: 235
   pos: noun
@@ -3268,6 +3624,7 @@
   derived: ''
   etymology: gida + -asu
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: kesek-gida
   id: 236
   pos: noun
@@ -3277,6 +3634,7 @@
   derived: ''
   etymology: kesek + gida
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: nan
   id: 237
   pos: noun
@@ -3286,6 +3644,7 @@
   derived: ''
   etymology: Persian نان (nān)
   etym_tags: 'persian, iranian, indo-european'
+  de_definition: ''
 - lemma: jua
   id: 238
   pos: noun
@@ -3295,6 +3654,7 @@
   derived: ''
   etymology: Eastern Mari юа (jua)
   etym_tags: 'eastern mari, mordvinic, uralic'
+  de_definition: ''
 - lemma: juanan
   id: 239
   pos: noun
@@ -3304,6 +3664,7 @@
   derived: ''
   etymology: jua + nan
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: uni mama
   id: 240
   pos: noun
@@ -3313,6 +3674,7 @@
   derived: ''
   etymology: uni + mama
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: tin
   id: 241.1
   pos: 'verb, intr.'
@@ -3322,6 +3684,7 @@
   derived: ''
   etymology: Cantonese 天 (tin1)
   etym_tags: 'cantonese, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: tin
   id: 241.2
   pos: noun
@@ -3331,6 +3694,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: selasu
   id: 242
   pos: noun
@@ -3340,6 +3704,7 @@
   derived: ''
   etymology: sel + -asu
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: aman
   id: 243.1
   pos: 'verb, intr.'
@@ -3349,6 +3714,7 @@
   derived: ''
   etymology: descendants of Proto-Amazigh *am-an
   etym_tags: 'amazigh, afroasiatic'
+  de_definition: ''
 - lemma: aman
   id: 243.2
   pos: 'verb, trans.'
@@ -3358,6 +3724,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: aman
   id: 243.3
   pos: noun
@@ -3367,6 +3734,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: aman
   id: 243.4
   pos: adjective
@@ -3376,6 +3744,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: tel
   id: 244
   pos: noun
@@ -3385,6 +3754,7 @@
   derived: ''
   etymology: '-tel'
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: nanik
   id: 245
   pos: noun
@@ -3394,6 +3764,7 @@
   derived: ''
   etymology: na + -ik
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: naso
   id: 246.1
   pos: 'verb, ambi.'
@@ -3403,6 +3774,7 @@
   derived: ''
   etymology: Navajo naʹazo
   etym_tags: 'navajo, southern dené, na-dené'
+  de_definition: ''
 - lemma: naso
   id: 246.2
   pos: noun
@@ -3412,6 +3784,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nat
   id: 247
   pos: noun
@@ -3421,6 +3794,7 @@
   derived: ''
   etymology: Korean 낮 (nat)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: neja
   id: 248.1
   pos: 'verb, intr.'
@@ -3430,6 +3804,7 @@
   derived: ''
   etymology: Swedish nöja
   etym_tags: 'swedish, germanic, indo-european'
+  de_definition: ''
 - lemma: neja
   id: 248.2
   pos: 'verb, trans.'
@@ -3441,6 +3816,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: neja
   id: 248.3
   pos: noun
@@ -3450,6 +3826,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: neja
   id: 248.4
   pos: adjective
@@ -3459,6 +3836,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: neja
   id: 248.5
   pos: interjection
@@ -3468,6 +3846,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nia
   id: 249
   pos: preposition
@@ -3477,6 +3856,7 @@
   derived: ''
   etymology: English near
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: nibo
   id: 250.1
   pos: 'verb, intr.'
@@ -3486,6 +3866,7 @@
   derived: ''
   etymology: Ojibwe nibo
   etym_tags: 'ojibwe, central algonquian, algonquian'
+  de_definition: ''
 - lemma: nibo
   id: 250.2
   pos: noun
@@ -3495,6 +3876,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nibogi
   id: 251
   pos: 'verb, trans.'
@@ -3504,6 +3886,7 @@
   derived: ''
   etymology: nibo + -igi
   etym_tags: ''
+  de_definition: ''
 - lemma: '-nik'
   id: 252
   pos: nominal suffix
@@ -3513,6 +3896,7 @@
   derived: ''
   etymology: '-ik'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: nisam
   id: 253.1
   pos: 'verb, trans.'
@@ -3522,6 +3906,7 @@
   derived: ''
   etymology: Arabic نظام (niẓām)
   etym_tags: 'arabic, semitic, afroasiatic'
+  de_definition: ''
 - lemma: nisam
   id: 253.2
   pos: noun
@@ -3531,6 +3916,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nisam
   id: 253.3
   pos: adjective
@@ -3540,6 +3926,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: 'no'
   id: 254.1
   pos: 'verb, loc. trans.'
@@ -3549,6 +3936,7 @@
   derived: ''
   etymology: Latvian no
   etym_tags: 'latvian, baltic, indo-european'
+  de_definition: ''
 - lemma: 'no'
   id: 254.2
   pos: preposition
@@ -3558,6 +3946,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: til
   id: 255.1
   pos: 'verb, loc. trans.'
@@ -3567,6 +3956,7 @@
   derived: ''
   etymology: Icelandic til
   etym_tags: 'icelandic, germanic, indo-european'
+  de_definition: ''
 - lemma: til
   id: 255.2
   pos: 'verb, trans.'
@@ -3576,6 +3966,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: til
   id: 255.3
   pos: preposition
@@ -3585,6 +3976,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: u
   id: 256.1
   pos: 'verb, loc. trans.'
@@ -3594,6 +3986,7 @@
   derived: ''
   etymology: Czech u
   etym_tags: 'czech, slavic, indo-european'
+  de_definition: ''
 - lemma: u
   id: 256.2
   pos: preposition
@@ -3603,6 +3996,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: o
   id: 257
   pos: particle
@@ -3614,6 +4008,7 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  de_definition: ''
 - lemma: dala
   id: 258.1
   pos: 'verb, trans.'
@@ -3625,6 +4020,7 @@
   derived: ''
   etymology: Arabic دل (dalla)
   etym_tags: 'arabic, semitic, afroasiatic'
+  de_definition: ''
 - lemma: dala
   id: 258.2
   pos: noun
@@ -3636,6 +4032,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: obus
   id: 259.1
   pos: 'verb, intr.'
@@ -3645,6 +4042,7 @@
   derived: ''
   etymology: Polish obóz
   etym_tags: 'polish, slavic, indo-european'
+  de_definition: ''
 - lemma: obus
   id: 259.2
   pos: noun
@@ -3654,6 +4052,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ojge
   id: 260.1
   pos: noun
@@ -3663,6 +4062,7 @@
   derived: ''
   etymology: 'Estonian õige, õigus'
   etym_tags: 'estonian, finnic, uralic'
+  de_definition: ''
 - lemma: ojge
   id: 260.2
   pos: adjective
@@ -3672,6 +4072,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: okol
   id: 261
   pos: noun
@@ -3681,6 +4082,7 @@
   derived: ''
   etymology: Tzotzil okol
   etym_tags: 'tzotzil, western mayan, mayan'
+  de_definition: ''
 - lemma: osu
   id: 262.1
   pos: 'verb, trans.'
@@ -3690,6 +4092,7 @@
   derived: ''
   etymology: 'Japanese 押す [おす] (osu)'
   etym_tags: 'japanese, japonic'
+  de_definition: ''
 - lemma: osu
   id: 262.2
   pos: 'verb, intr.'
@@ -3699,6 +4102,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: osu
   id: 262.3
   pos: noun
@@ -3708,6 +4112,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ova
   id: 263.1
   pos: 'verb, ambi.'
@@ -3717,6 +4122,7 @@
   derived: ''
   etymology: 'Japanese 終わる [おわる] (owaru)'
   etym_tags: 'japanese, japonic'
+  de_definition: ''
 - lemma: ova
   id: 263.2
   pos: noun
@@ -3726,6 +4132,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ovose
   id: 264
   pos: noun
@@ -3735,6 +4142,7 @@
   derived: ''
   etymology: Czech ovocie
   etym_tags: 'czech, slavic, indo-european'
+  de_definition: ''
 - lemma: namak
   id: 265
   pos: noun
@@ -3744,6 +4152,7 @@
   derived: ''
   etymology: Armenian նամակ (namak)
   etym_tags: 'armenian, indo-european'
+  de_definition: ''
 - lemma: xeba
   id: 266
   pos: 'verb, ambi.'
@@ -3753,6 +4162,7 @@
   derived: ''
   etymology: Georgian ჯდება (ǯdeba)
   etym_tags: 'georgian, kartvelian'
+  de_definition: ''
 - lemma: vangumeti
   id: 267
   pos: noun
@@ -3762,6 +4172,7 @@
   derived: ''
   etymology: vangu + -meti
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: '-meti'
   id: 268
   pos: nominal suffix
@@ -3771,6 +4182,7 @@
   derived: ''
   etymology: meti
   etym_tags: affixation
+  de_definition: ''
 - lemma: tajam
   id: 269
   pos: noun
@@ -3782,6 +4194,7 @@
   derived: ''
   etymology: Central Dusun tayam
   etym_tags: 'central dusun, north bornean, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: mis
   id: 270.1
   pos: 'verb, ambi.'
@@ -3791,6 +4204,7 @@
   derived: ''
   etymology: Armenian միս (mis)
   etym_tags: 'armenian, indo-european'
+  de_definition: ''
 - lemma: mis
   id: 270.2
   pos: noun
@@ -3800,6 +4214,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: banana
   id: 271
   pos: noun
@@ -3809,6 +4224,7 @@
   derived: ''
   etymology: internationalism
   etym_tags: 'papuan, trans-new-guinea, engan, enga'
+  de_definition: ''
 - lemma: panal
   id: 272.1
   pos: 'verb, trans.'
@@ -3818,6 +4234,7 @@
   derived: ''
   etymology: Armenian բանալ (banal)
   etym_tags: 'armenian, indo-european'
+  de_definition: ''
 - lemma: panal
   id: 272.2
   pos: noun
@@ -3827,6 +4244,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: panal
   id: 272.3
   pos: adjective
@@ -3836,6 +4254,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: panga
   id: 273.1
   pos: 'verb, trans.'
@@ -3845,6 +4264,7 @@
   derived: ''
   etymology: Swahili panga
   etym_tags: 'swahili, benue-congo, atlantic-congo'
+  de_definition: ''
 - lemma: panga
   id: 273.2
   pos: noun
@@ -3854,6 +4274,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pasa
   id: 274.1
   pos: noun
@@ -3863,6 +4284,7 @@
   derived: ''
   etymology: Esperanto paca
   etym_tags: 'esperanto, conlangs'
+  de_definition: ''
 - lemma: pasa
   id: 274.2
   pos: adjective
@@ -3872,6 +4294,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: patal
   id: 275.1
   pos: noun
@@ -3881,6 +4304,7 @@
   derived: ''
   etymology: "Magahi \U000110A3\U0001109E\U000110B9\U0001109F\U000110AA (patthal)"
   etym_tags: 'magahi, indo-aryan, indo-european'
+  de_definition: ''
 - lemma: patal
   id: 275.2
   pos: adjective
@@ -3890,6 +4314,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: '-pi'
   id: 276
   pos: verbal suffix
@@ -3903,6 +4328,7 @@
   derived: ''
   etymology: 'Burmese ဖြစ် (hprac, hpyit), influenced by Esperanto -iĝi'
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+  de_definition: ''
 - lemma: pi
   id: 277.1
   pos: 'verb, ambi.'
@@ -3912,6 +4338,7 @@
   derived: ''
   etymology: '-pi'
   etym_tags: 'baslamo, a priori'
+  de_definition: ''
 - lemma: pi
   id: 277.2
   pos: adjective
@@ -3921,6 +4348,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pita
   id: 278.1
   pos: 'verb, ambi.'
@@ -3930,6 +4358,7 @@
   derived: ''
   etymology: Sorbian pytaś
   etym_tags: 'sorbian, slavic, indo-european'
+  de_definition: ''
 - lemma: pita
   id: 278.2
   pos: 'verb, trans.'
@@ -3939,6 +4368,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pita
   id: 278.3
   pos: 'verb, intr.'
@@ -3948,6 +4378,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pojs
   id: 279.1
   pos: 'verb, trans.'
@@ -3957,6 +4388,7 @@
   derived: ''
   etymology: Welsh pwys
   etym_tags: 'welsh, celtic, indo-european'
+  de_definition: ''
 - lemma: pojs
   id: 279.2
   pos: 'verb, intr.'
@@ -3966,6 +4398,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pojs
   id: 279.3
   pos: noun
@@ -3977,6 +4410,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pojs
   id: 279.4
   pos: adjective
@@ -3986,6 +4420,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pola
   id: 280
   pos: 'verb, intr.'
@@ -3995,6 +4430,7 @@
   derived: ''
   etymology: Lingala pola
   etym_tags: 'lingala, benue-congo, atlantic-congo'
+  de_definition: ''
 - lemma: pole
   id: 281
   pos: noun
@@ -4004,6 +4440,7 @@
   derived: ''
   etymology: Czech pole
   etym_tags: 'czech, slavic, indo-european'
+  de_definition: ''
 - lemma: povine
   id: 282.1
   pos: 'verb, modal'
@@ -4015,6 +4452,7 @@
   derived: ''
   etymology: Polish powinien
   etym_tags: 'polish, slavic, indo-european'
+  de_definition: ''
 - lemma: povine
   id: 282.2
   pos: noun
@@ -4024,6 +4462,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: povine
   id: 282.3
   pos: adjective
@@ -4033,6 +4472,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: puka
   id: 283
   pos: noun
@@ -4042,6 +4482,7 @@
   derived: ''
   etymology: Hawiian puka
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: pul
   id: 284.1
   pos: 'verb, ambi.'
@@ -4051,6 +4492,7 @@
   derived: ''
   etymology: 'Korean 풀다 (pulda), influenced by Khmer ស្រាយ (sraay)'
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: pul
   id: 284.2
   pos: 'verb, trans.'
@@ -4060,6 +4502,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pul
   id: 284.3
   pos: 'verb, trans., til'
@@ -4069,6 +4512,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pul
   id: 284.4
   pos: 'verb, trans., no'
@@ -4078,6 +4522,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pul
   id: 284.5
   pos: noun
@@ -4087,6 +4532,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pul
   id: 284.6
   pos: adjective
@@ -4096,6 +4542,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pulpi
   id: 285.1
   pos: 'verb, intr.'
@@ -4105,6 +4552,7 @@
   derived: ''
   etymology: pul + -pi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: pulpi
   id: 285.2
   pos: noun
@@ -4114,6 +4562,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pulpi
   id: 285.3
   pos: adjective
@@ -4123,6 +4572,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pulma
   id: 286.1
   pos: 'verb, intr.'
@@ -4132,6 +4582,7 @@
   derived: ''
   etymology: 'Finnish pulma, unrelated to pul'
   etym_tags: 'finnish, finnic, uralic'
+  de_definition: ''
 - lemma: pulma
   id: 286.2
   pos: noun
@@ -4141,6 +4592,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: pulma
   id: 286.3
   pos: adjective
@@ -4150,6 +4602,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: malal
   id: 287
   pos: adjective
@@ -4159,6 +4612,7 @@
   derived: ''
   etymology: ma- + al
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: '-sini'
   id: 288
   pos: nominal suffix
@@ -4168,6 +4622,7 @@
   derived: ''
   etymology: Greek -σύνη (-sýni)
   etym_tags: 'greek, indo-european'
+  de_definition: ''
 - lemma: '-ini'
   id: 289
   pos: nominal suffix
@@ -4177,6 +4632,7 @@
   derived: ''
   etymology: '-sini'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: malalini
   id: 290
   pos: noun
@@ -4186,6 +4642,7 @@
   derived: ''
   etymology: ma- alini
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: alini
   id: 291
   pos: noun
@@ -4195,6 +4652,7 @@
   derived: ''
   etymology: al + -sini
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: meso-ak
   id: 292
   pos: noun
@@ -4204,6 +4662,7 @@
   derived: ''
   etymology: meso + ak
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: la
   id: 293
   pos: particle
@@ -4213,6 +4672,7 @@
   derived: ''
   etymology: French là
   etym_tags: 'french, romance, indo-european'
+  de_definition: ''
 - lemma: ila
   id: 294.1
   pos: verb
@@ -4222,6 +4682,7 @@
   derived: ''
   etymology: Choctaw i̱la
   etym_tags: 'choctaw, muskogean'
+  de_definition: ''
 - lemma: ila
   id: 294.2
   pos: noun
@@ -4231,6 +4692,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ila
   id: 294.3
   pos: adjective
@@ -4240,6 +4702,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: '-s'
   id: 295
   pos: nominal suffix
@@ -4249,6 +4712,7 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  de_definition: ''
 - lemma: '-as'
   id: 296
   pos: nominal suffix
@@ -4258,6 +4722,7 @@
   derived: ''
   etymology: '-s'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: sa
   id: 297
   pos: particle
@@ -4267,6 +4732,7 @@
   derived: ''
   etymology: Arabic س (sa-)
   etym_tags: 'arabic, semitic, afroasiatic'
+  de_definition: ''
 - lemma: salam
   id: 298
   pos: 'noun, gendered'
@@ -4276,6 +4742,7 @@
   derived: ''
   etymology: Korean 사람 (saram)
   etym_tags: 'korean, koreanic'
+  de_definition: ''
 - lemma: semja
   id: 299
   pos: noun
@@ -4285,6 +4752,7 @@
   derived: ''
   etymology: Russian семья (sem'ja)
   etym_tags: 'russian, slavic, indo-european'
+  de_definition: ''
 - lemma: senet
   id: 300.1
   pos: 'verb, intr.'
@@ -4294,6 +4762,7 @@
   derived: ''
   etymology: Uyghur سەنئەت (sen'et)
   etym_tags: 'uyghur, turkic'
+  de_definition: ''
 - lemma: senet
   id: 300.2
   pos: noun
@@ -4303,6 +4772,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: senet
   id: 300.3
   pos: adjective
@@ -4312,6 +4782,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: senetel
   id: 301
   pos: noun
@@ -4321,6 +4792,7 @@
   derived: ''
   etymology: senet + -tel
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: si
   id: 302.1
   pos: 'verb, intr.'
@@ -4330,6 +4802,7 @@
   derived: ''
   etymology: Mandarin 時 (shí)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: si
   id: 302.2
   pos: noun
@@ -4339,6 +4812,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: siku
   id: 303.1
   pos: 'verb, intr.'
@@ -4348,6 +4822,7 @@
   derived: ''
   etymology: Greenlandic siku
   etym_tags: 'greenlandic, inuit, eskaleut'
+  de_definition: ''
 - lemma: siku
   id: 303.2
   pos: 'verb, trans.'
@@ -4357,6 +4832,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: siku
   id: 303.3
   pos: noun
@@ -4366,6 +4842,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: siku
   id: 303.4
   pos: adjective
@@ -4375,6 +4852,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sikunik
   id: 304.1
   pos: 'verb, aval.'
@@ -4384,6 +4862,7 @@
   derived: ''
   etymology: siku + -ik
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: sikunik
   id: 304.2
   pos: noun
@@ -4393,6 +4872,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sima
   id: 305.1
   pos: preposition
@@ -4402,6 +4882,7 @@
   derived: ''
   etymology: Portuguese cima
   etym_tags: 'portuguese, romance, indo-european'
+  de_definition: ''
 - lemma: sin
   id: 305.2
   pos: 'verb, trans.'
@@ -4413,6 +4894,7 @@
   derived: ''
   etymology: Icelandic sýn
   etym_tags: 'icelandic, germanic, indo-european'
+  de_definition: ''
 - lemma: sin
   id: 305.3
   pos: 'verb, ambi.'
@@ -4422,6 +4904,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sin
   id: 305.4
   pos: 'verb, trans., u'
@@ -4431,6 +4914,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sin
   id: 305.5
   pos: 'verb, trans., til'
@@ -4440,6 +4924,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sin
   id: 305.6
   pos: 'verb, trans., sima'
@@ -4449,6 +4934,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sin
   id: 305.7
   pos: noun
@@ -4458,6 +4944,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sin
   id: 305.8
   pos: adjective
@@ -4467,6 +4954,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sinsima
   id: 306
   pos: noun
@@ -4476,6 +4964,7 @@
   derived: ''
   etymology: sin + sima
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: mega
   id: 307
   pos: numeral
@@ -4485,6 +4974,7 @@
   derived: ''
   etymology: SI Prefix mega-
   etym_tags: a priori
+  de_definition: ''
 - lemma: giga
   id: 308
   pos: numeral
@@ -4494,6 +4984,7 @@
   derived: ''
   etymology: SI Prefix giga-
   etym_tags: a priori
+  de_definition: ''
 - lemma: tela
   id: 309
   pos: numeral
@@ -4503,6 +4994,7 @@
   derived: ''
   etymology: SI Prefix tera-
   etym_tags: a priori
+  de_definition: ''
 - lemma: peta
   id: 310
   pos: numeral
@@ -4512,6 +5004,7 @@
   derived: ''
   etymology: SI Prefix peta-
   etym_tags: a priori
+  de_definition: ''
 - lemma: eksa
   id: 311
   pos: numeral
@@ -4521,6 +5014,7 @@
   derived: ''
   etymology: SI Prefix exa-
   etym_tags: a priori
+  de_definition: ''
 - lemma: seta
   id: 312
   pos: numeral
@@ -4530,6 +5024,7 @@
   derived: ''
   etymology: SI Prefix zetta-
   etym_tags: a priori
+  de_definition: ''
 - lemma: jota
   id: 313
   pos: numeral
@@ -4539,6 +5034,7 @@
   derived: ''
   etymology: SI Prefix yotta-
   etym_tags: a priori
+  de_definition: ''
 - lemma: lona
   id: 314
   pos: numeral
@@ -4548,6 +5044,7 @@
   derived: ''
   etymology: SI Prefix ronna-
   etym_tags: a priori
+  de_definition: ''
 - lemma: kveta
   id: 315
   pos: numeral
@@ -4557,6 +5054,7 @@
   derived: ''
   etymology: SI Prefix quetta-
   etym_tags: a priori
+  de_definition: ''
 - lemma: skiko
   id: 316.1
   pos: noun
@@ -4566,6 +5064,7 @@
   derived: ''
   etymology: 'Unami skiko, plural form of skikw'
   etym_tags: 'unami, eastern algonquian, algonquian'
+  de_definition: ''
 - lemma: skiko
   id: 316.2
   pos: adjective
@@ -4575,6 +5074,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: snak
   id: 317.1
   pos: 'verb, ambi.'
@@ -4584,6 +5084,7 @@
   derived: ''
   etymology: Russian знак
   etym_tags: 'russian, slavic, indo-european'
+  de_definition: ''
 - lemma: snak
   id: 317.2
   pos: noun
@@ -4595,6 +5096,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sode
   id: 318
   pos: noun
@@ -4604,6 +5106,7 @@
   derived: ''
   etymology: 'Japanese 袖 [そで] (sode)'
   etym_tags: 'japanese, japonic'
+  de_definition: ''
 - lemma: soga
   id: 319.1
   pos: 'verb, intr.'
@@ -4613,6 +5116,7 @@
   derived: ''
   etymology: Assamese জগা (zoga)
   etym_tags: 'assamese, indo-aryan, indo-european'
+  de_definition: ''
 - lemma: soga
   id: 319.2
   pos: noun
@@ -4622,6 +5126,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sogagi
   id: 320
   pos: 'verb, trans.'
@@ -4631,6 +5136,7 @@
   derived: ''
   etymology: soga + -gi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: sogataga
   id: 321
   pos: noun
@@ -4640,6 +5146,7 @@
   derived: ''
   etymology: soga + taga
   etym_tags: 'compound, lexical compound'
+  de_definition: ''
 - lemma: sol
   id: 322.1
   pos: noun
@@ -4649,6 +5156,7 @@
   derived: ''
   etymology: Mansi со̄ль (sōl')
   etym_tags: 'mansi, ugric, uralic'
+  de_definition: ''
 - lemma: sol
   id: 322.2
   pos: adjective
@@ -4658,6 +5166,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: son
   id: 323.1
   pos: 'verb, aval.'
@@ -4667,6 +5176,7 @@
   derived: ''
   etymology: Dutch zon
   etym_tags: 'dutch, germanic, indo-european'
+  de_definition: ''
 - lemma: son
   id: 323.2
   pos: 'verb, intr.'
@@ -4676,6 +5186,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: son
   id: 323.3
   pos: noun
@@ -4685,6 +5196,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: stam
   id: 324
   pos: noun
@@ -4694,6 +5206,7 @@
   derived: ''
   etymology: German Stamm
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: sual
   id: 325
   pos: noun
@@ -4703,6 +5216,7 @@
   derived: ''
   etymology: Skolt Sami suâl
   etym_tags: 'skolt sami, sami, uralic'
+  de_definition: ''
 - lemma: suso
   id: 326.1
   pos: 'verb, trans.'
@@ -4712,6 +5226,7 @@
   derived: ''
   etymology: Tagalog suso
   etym_tags: 'tagalog, philippine, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: suso
   id: 326.2
   pos: noun
@@ -4721,6 +5236,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: sut
   id: 327.1
   pos: 'verb, ambi.'
@@ -4730,6 +5246,7 @@
   derived: ''
   etymology: Thai ทรุด (sút)
   etym_tags: 'thai, southwestern tai, kra-dai'
+  de_definition: ''
 - lemma: sut
   id: 327.2
   pos: noun
@@ -4739,6 +5256,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nalu
   id: 328.1
   pos: 'verb, intr.'
@@ -4750,6 +5268,7 @@
   derived: ''
   etymology: Hawaiian nalu
   etym_tags: 'hawaiian, malayo-polynesian, austronesian'
+  de_definition: ''
 - lemma: nalu
   id: 328.2
   pos: 'verb, trans.'
@@ -4761,6 +5280,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nalu
   id: 328.3
   pos: 'verb, ambi.'
@@ -4772,6 +5292,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: nalu
   id: 328.4
   pos: noun
@@ -4781,6 +5302,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: taga
   id: 329
   pos: noun
@@ -4790,6 +5312,7 @@
   derived: ''
   etymology: German Tage
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: motasu
   id: 330
   pos: noun
@@ -4799,6 +5322,7 @@
   derived: ''
   etymology: mot + -asu
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: tajga
   id: 331
   pos: noun
@@ -4808,6 +5332,7 @@
   derived: ''
   etymology: Russian тайга (tajga)
   etym_tags: 'russian, slavic, indo-european'
+  de_definition: ''
 - lemma: tak
   id: 332
   pos: preposition
@@ -4817,6 +5342,7 @@
   derived: ''
   etymology: Armenian տակ (tak)
   etym_tags: 'armenian, indo-european'
+  de_definition: ''
 - lemma: talka
   id: 333
   pos: 'verb, intr.'
@@ -4826,6 +5352,7 @@
   derived: ''
   etymology: Macedonian талка (talka)
   etym_tags: 'macedonian, slavic, indo-european'
+  de_definition: ''
 - lemma: talkatel
   id: 334
   pos: noun
@@ -4835,6 +5362,7 @@
   derived: ''
   etymology: talka + -tel; calque of Greek πλανήτης (planétes)
   etym_tags: 'greek, indo-european'
+  de_definition: ''
 - lemma: '-tel'
   id: 335
   pos: nominal suffix
@@ -4844,6 +5372,7 @@
   derived: ''
   etymology: Ukrainian -тель (-tel')
   etym_tags: 'ukrainian, slavic, indo-european'
+  de_definition: ''
 - lemma: '-el'
   id: 336
   pos: nominal suffix
@@ -4853,6 +5382,7 @@
   derived: ''
   etymology: '-tel'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: tif
   id: 337
   pos: adjective
@@ -4862,6 +5392,7 @@
   derived: ''
   etymology: German Tief
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: tiligi
   id: 338.1
   pos: 'verb, trans.'
@@ -4871,6 +5402,7 @@
   derived: ''
   etymology: til + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: tiligi
   id: 338.2
   pos: 'verb, ambi.'
@@ -4882,6 +5414,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: tit
   id: 339
   pos: noun
@@ -4891,6 +5424,7 @@
   derived: ''
   etymology: Cantonese 鐵 (tit3)
   etym_tags: 'cantonese, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: titel
   id: 340.1
   pos: 'verb, trans.'
@@ -4900,6 +5434,7 @@
   derived: ''
   etymology: German Titel
   etym_tags: 'german, germanic, indo-european'
+  de_definition: ''
 - lemma: titel
   id: 340.2
   pos: noun
@@ -4912,6 +5447,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: tok
   id: 341
   pos: noun
@@ -4921,6 +5457,7 @@
   derived: ''
   etymology: Hokkien 桌 (toh)
   etym_tags: 'hokkien, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: kempok
   id: 342
   pos: noun
@@ -4930,6 +5467,7 @@
   derived: ''
   etymology: Welsh crempog
   etym_tags: 'welsh, celtic, indo-european'
+  de_definition: ''
 - lemma: tol
   id: 343.1
   pos: 'verb, ambi.'
@@ -4939,6 +5477,7 @@
   derived: ''
   etymology: Tamil தோல் (tōl)
   etym_tags: 'tamil, south dravidian, dravidian'
+  de_definition: ''
 - lemma: tol
   id: 343.2
   pos: noun
@@ -4948,6 +5487,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: toligi
   id: 344.1
   pos: 'verb, trans.'
@@ -4957,6 +5497,7 @@
   derived: ''
   etymology: tol + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: toligi
   id: 344.2
   pos: 'verb, ambi.'
@@ -4966,6 +5507,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: toligi
   id: 344.3
   pos: noun
@@ -4975,6 +5517,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: una amelika
   id: 345
   pos: noun
@@ -4984,6 +5527,7 @@
   derived: ''
   etymology: una + amelika
   etym_tags: 'compound, collocation'
+  de_definition: ''
 - lemma: una kanada
   id: 346
   pos: noun
@@ -4993,6 +5537,7 @@
   derived: ''
   etymology: una + kanada
   etym_tags: 'compound, collocation'
+  de_definition: ''
 - lemma: ugal
   id: 347
   pos: noun
@@ -5002,6 +5547,7 @@
   derived: ''
   etymology: Russian уголь (ugol')
   etym_tags: 'russian, slavic, indo-european'
+  de_definition: ''
 - lemma: ugata
   id: 348
   pos: noun
@@ -5011,6 +5557,7 @@
   derived: ''
   etymology: u + gata; calque of German Umhang
   etym_tags: 'calque, compound, lexical compound'
+  de_definition: ''
 - lemma: usa
   id: 349
   pos: noun
@@ -5020,6 +5567,7 @@
   derived: ''
   etymology: English USA
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: usu
   id: 350
   pos: 'noun, gendered'
@@ -5029,6 +5577,7 @@
   derived: ''
   etymology: Lak уссу (ussu)
   etym_tags: 'lak, northeast caucasian'
+  de_definition: ''
 - lemma: utika
   id: 351.1
   pos: 'verb, intr.'
@@ -5038,6 +5587,7 @@
   derived: ''
   etymology: Czech utíkat
   etym_tags: 'czech, slavic, indo-european'
+  de_definition: ''
 - lemma: utika
   id: 351.2
   pos: noun
@@ -5047,6 +5597,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: utika
   id: 351.3
   pos: adjective
@@ -5056,6 +5607,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: utikatelik
   id: 352
   pos: noun
@@ -5065,6 +5617,7 @@
   derived: ''
   etymology: utika + -tel + -ik
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: vada
   id: 353
   pos: noun
@@ -5074,6 +5627,7 @@
   derived: ''
   etymology: Adyghe уды (wudə)
   etym_tags: 'adyghe, northwest caucasian'
+  de_definition: ''
 - lemma: vaj
   id: 354.1
   pos: noun
@@ -5083,6 +5637,7 @@
   derived: ''
   etymology: Lao ໄວ (wai)
   etym_tags: 'lao, southwestern tai, kra-dai'
+  de_definition: ''
 - lemma: vaj
   id: 354.2
   pos: adjective
@@ -5092,6 +5647,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: vangu
   id: 355.1
   pos: 'verb, ambidi., e-u'
@@ -5101,6 +5657,7 @@
   derived: ''
   etymology: Tamil வாங்கு (vāṅku)
   etym_tags: 'tamil, south dravidian, dravidian'
+  de_definition: ''
 - lemma: vangu
   id: 355.2
   pos: 'verb, ditrans., e-no'
@@ -5110,6 +5667,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: vangu
   id: 355.3
   pos: noun
@@ -5119,6 +5677,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ven
   id: 356.1
   pos: 'verb, ambi.'
@@ -5128,6 +5687,7 @@
   derived: ''
   etymology: Mandarin 溫 (wēn)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: ven
   id: 356.2
   pos: noun
@@ -5137,6 +5697,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: ven
   id: 356.3
   pos: adjective
@@ -5146,6 +5707,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: video
   id: 357
   pos: noun
@@ -5155,6 +5717,7 @@
   derived: ''
   etymology: Latin videō
   etym_tags: 'latin, romance, indo-european'
+  de_definition: ''
 - lemma: xaket
   id: 358
   pos: noun
@@ -5164,6 +5727,7 @@
   derived: ''
   etymology: English jacket
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: xamal
   id: 359
   pos: noun
@@ -5173,6 +5737,7 @@
   derived: ''
   etymology: Arabic جمل (jamal)
   etym_tags: 'arabic, semitic, afroasiatic'
+  de_definition: ''
 - lemma: xan
   id: 360.1
   pos: 'verb, ambi.'
@@ -5182,6 +5747,7 @@
   derived: ''
   etymology: Mandarin 震 (zhèn)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: xan
   id: 360.2
   pos: noun
@@ -5191,6 +5757,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: xema
   id: 361.1
   pos: 'verb, ambi.'
@@ -5200,6 +5767,7 @@
   derived: ''
   etymology: Hebrew שמע (shemá)
   etym_tags: 'hebrew, semitic, afroasiatic'
+  de_definition: ''
 - lemma: xema
   id: 361.2
   pos: noun
@@ -5209,6 +5777,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: xon
   id: 362.1
   pos: 'verb, trans., til'
@@ -5218,6 +5787,7 @@
   derived: ''
   etymology: Mandarin 冲 (chōng)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: xon
   id: 362.2
   pos: 'verb, intr.'
@@ -5227,6 +5797,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: xon
   id: 362.3
   pos: adjective
@@ -5236,6 +5807,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: '-am'
   id: 363
   pos: numeral suffix
@@ -5245,6 +5817,7 @@
   derived: ''
   etymology: nisam
   etym_tags: 'a priori, derivation'
+  de_definition: ''
 - lemma: '-sam'
   id: 364
   pos: numeral suffix
@@ -5254,6 +5827,7 @@
   derived: ''
   etymology: '-am'
   etym_tags: alternative forms
+  de_definition: ''
 - lemma: xunmav
   id: 365
   pos: noun
@@ -5263,6 +5837,7 @@
   derived: ''
   etymology: Mandarin 熊貓 (xióngmāo)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
+  de_definition: ''
 - lemma: xos
   id: 366
   pos: noun
@@ -5272,6 +5847,7 @@
   derived: ''
   etymology: Navajo chʼosh
   etym_tags: 'navajo, southern dené, dené'
+  de_definition: ''
 - lemma: dajnasa
   id: 367
   pos: noun
@@ -5281,6 +5857,7 @@
   derived: ''
   etymology: English dinosaur
   etym_tags: 'english, germanic, indo-european'
+  de_definition: ''
 - lemma: utikagi
   id: 368.1
   pos: noun
@@ -5290,6 +5867,7 @@
   derived: ''
   etymology: utika + -igi
   etym_tags: 'compound, derivation'
+  de_definition: ''
 - lemma: utikagi
   id: 368.2
   pos: adjective
@@ -5299,6 +5877,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  de_definition: ''
 - lemma: jokaj
   id: 369
   pos: noun
@@ -5308,6 +5887,7 @@
   derived: ''
   etymology: 'Japanese 妖怪 [よーかい] (yōkai)'
   etym_tags: 'japanese, japonic'
+  de_definition: ''
 - lemma: ibuma
   id: 370
   pos: 'verb, ambi.'
@@ -5317,3 +5897,4 @@
   derived: ''
   etymology: Arrernte jibuma
   etym_tags: 'arrernte, aranic, pama-nyungan'
+  de_definition: ''
