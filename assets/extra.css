@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Baslamo Regular"; 
+  font-weight: normal; 
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+  src: url("./fonts/NotoBaslamo-Regular.otf");
+}

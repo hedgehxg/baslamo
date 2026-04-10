@@ -2,6 +2,11 @@
 var g_lexicon = [];
 //var g_selection = "All";
 
+const lConsonants = "ptkbdgfsxvljmn";
+
+const lVowels = "aeiou";
+
+
 function is_string(v) {
     return Object.prototype.toString.call(v) === '[object String]';
 }
@@ -85,14 +90,32 @@ function validated_by_filter(entry, filter) {
 	return true;
 }
 
+function convert_to_abugida(str) {
+	var result = "";
+	result = str.replace(/s\b/gm, "z") // replace -s with special coda s character
+	result = result.replace(/([ptkbdgfsxvljmn])\b/gm, "$1c") // replace -C with -C + null vowel mark
+	result = result.replace(/([^^])s([ptkbdgfsxvljmn])/gm, "z$1") // replace -sC- with special coda s character + C-
+	result = result.replace(/([ptkbdgfsxvljmn])([ptkbdgfsxvljmn])/gm, "$1c$2") // replace -CC- with -C + null vowel mark + C-
+	result = result.replace(/([ptkbdgfsxvljmn])a/gm, "$1") // replace Ca with C
+	result = result.replace(/(^\W|^|\b)a/gm, "$1h") // replace word-beginning a with null consonant
+	result = result.replace(/(^\W|^|\b)([eiou])/gm, "$1h$2") // replace word-beginning eiou with null consonant + eiou
+	result = result.replace(/([aeiou])a/gm, "$1h") // replace -Va- with -V + null consonant
+	result = result.replace(/([aeiou])([eiou])/gm, "$1h$2") // replace -V[eiou]- with -V + null consonant + eiou
+	result = result.replace(/([pfsvjn])e/gm, "$1E") // replace e with E on descender characters
+	result = result.replace(/([pfsvjn])i/gm, "$1I") // replace i with I on descender characters
+	return result;
+}
+
 function html_entry_for(entry, field_selection) {
 	if (!entry.hasOwnProperty("en_definition")) {
 		var lemma = entry["lemma"];
 		console.log(`⚠ ⟦${lemma}⟧ lacks field ⟦en_definition⟧!`);
 		entry["en_definition"] = "";
 	}
-	ehtml = "<summary class='entry-head'><b style='color: #002255;'>"
-		+ with_escaped_html(entry["lemma"]) + "</b>";
+	var convert = entry["convert"]
+	entry["convert"] = convert_to_abugida(entry["lemma"])
+	ehtml = "<summary class='entry-head'><b style='color: #000000;'>"
+		+ with_escaped_html(entry["lemma"]) + "</b> • <b style='font-family: Baslamo Regular;'>" + with_escaped_html(entry["convert"]) + "</b>";
 	ehtml += " <i style='font-size: 75%;'>"
 		+ with_escaped_html(entry["pos"]) + "</i> — ";
 	ehtml += with_escaped_html(entry["en_definition"]) + "</summary>";
@@ -100,7 +123,7 @@ function html_entry_for(entry, field_selection) {
 	for (field_name in entry) {
 		if (field_selection === "AllNonempty" && ["", []].includes(entry[field_name]))
 			continue;
-		if (!["lemma", "pos", "en_definition"].includes(field_name)) {
+		if (!["lemma", "pos", "en_definition", "convert"].includes(field_name)) {
 			value = entry[field_name];
 			if (value == null) value = "";
 			if (!is_string(value)) {
