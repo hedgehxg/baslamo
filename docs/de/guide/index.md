@@ -4,7 +4,7 @@
 
 So, you want to learn a language to be able to speak to people all across the world. You've come to the right place! These are simple lessons designed for the layman, so no linguistics jargon here.
 
-Looking for a quick look-up on grammar, or wanna see the technical details? See our [reference](../reference.md) page.
+Looking for a quick look-up on grammar, or wanna see the technical details? ../reference.md
 
 ### 1. [Sounds and spelling](./1_pronunciation.md)
 
