@@ -50,7 +50,7 @@ Baslamo has no contrasting stress; there's no difference between words like _**p
 
 We'll look at a few words in Baslamo and how to pronounce them:
 
-| Baslamo | Meaning | Pronunciation      |
+| Басламо | Meaning | Pronunciation      |
 | ------: | :-----: | :----------------- |
 |    jati |  speak  | YAH-tee            |
 |   kitap |   book  | KEE-tahp           |
