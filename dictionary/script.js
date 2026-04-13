@@ -94,7 +94,7 @@ function convert_to_abugida(str) {
 	var result = "";
 	result = str.replace(/s\b/gm, "z") // replace -s with special coda s character
 	result = result.replace(/([ptkbdgfsxvljmn])\b/gm, "$1c") // replace -C with -C + null vowel mark
-	result = result.replace(/([^^])s([ptkbdgfsxvljmn])/gm, "z$1") // replace -sC- with special coda s character + C-
+	result = result.replace(/([^^])s([ptkbdgfsxvljmn])/gm, "$1z$2") // replace -sC- with special coda s character + C-
 	result = result.replace(/([ptkbdgfsxvljmn])([ptkbdgfsxvljmn])/gm, "$1c$2") // replace -CC- with -C + null vowel mark + C-
 	result = result.replace(/([ptkbdgfsxvljmn])a/gm, "$1") // replace Ca with C
 	result = result.replace(/(^\W|^|\b)a/gm, "$1h") // replace word-beginning a with null consonant
