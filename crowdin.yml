@@ -1,0 +1,7 @@
+files:
+  - source: /docs/en/
+    ignore:
+      - /docs/en/*/
+    translation: /docs/%two_letters_code%/%original_file_name%
+  - source: /docs/en/guide/
+    translation: /docs/%two_letters_code%/guide/%original_file_name%
