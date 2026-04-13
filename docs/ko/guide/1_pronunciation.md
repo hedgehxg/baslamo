@@ -50,18 +50,18 @@ Baslamo has no contrasting stress; there's no difference between words like _**p
 
 We'll look at a few words in Baslamo and how to pronounce them:
 
-| Baslamo | Meaning | Pronunciation      |
-| ------: | :-----: | :----------------- |
-|    jati |  speak  | YAH-tee            |
-|   kitap |   book  | KEE-tahp           |
-|   salam |  person | SAH-lahm, SAH-rahm |
-|      un |   one   | OON                |
-|    xeba |   sit   | CHEH-bah, JEH-bah  |
-|    neja | thanks! | NEH-yah            |
-|     din |  place  | DEEN               |
-|     fas |   make  | FAHS, FAHZ         |
-|     ven |   warm  | WEHN, VEHN         |
-|    taga |   day   | TAH-gah            |
+|   밧라모 | Meaning | Pronunciation      |
+| ----: | :-----: | :----------------- |
+|  jati |  speak  | YAH-tee            |
+| kitap |   book  | KEE-tahp           |
+| salam |  person | SAH-lahm, SAH-rahm |
+|    un |   one   | OON                |
+|  xeba |   sit   | CHEH-bah, JEH-bah  |
+|  neja | thanks! | NEH-yah            |
+|   din |  place  | DEEN               |
+|   fas |   make  | FAHS, FAHZ         |
+|   ven |   warm  | WEHN, VEHN         |
+|  taga |   day   | TAH-gah            |
 
 ## Capitalization and punctuation
 
