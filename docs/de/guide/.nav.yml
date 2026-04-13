@@ -1,0 +1,11 @@
+# GERMAN - DEUTSCH // GUIDE
+nav:
+    - Anleitung Index: ./guide/index.md
+    - Lektion 1 — Aussprache: ./guide/1_pronunciation.md
+    - Lektion 2 — Sätze: ./guide/2_sentences.md
+    - Lektion 3 — Ableitung: ./guide/3_derivation.md
+    - Lektion 4 — Zeit und Aspekt: ./guide/4_tense_and_aspect.md
+    - Lektion 5 — Tabellwörter: ./guide/5_correlatives.md
+    - Lektion 6 — Schwere Sätze: ./guide/6_hard_sentences.md
+    - Lektion 7 — Eigennamen: ./guide/7_proper_nouns.md
+    - Lektion 8 — Sich vorstellen: ./guide/8_introduction_exercise.md
