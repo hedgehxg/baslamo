@@ -1,6 +1,6 @@
-# imut til baslamo dala! —<br>Welcome to the Baslamo Guide!
+# imut til baslamo dala! – ¡Bienvenido en la guía de Baslamo!
 
-![bjal — The Star](./img/a_transparent.png){: style="width:25%;margin:auto;display:block"}
+
 
 This site serves as full documentation for Baslamo, an international auxiliary language.
 
