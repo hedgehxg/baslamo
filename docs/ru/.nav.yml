@@ -3,11 +3,14 @@ nav:
     - Home: index.md
     - About: about.md
     - Guide: en/guide/
-    #- Reference: reference.md
     - Dictionary: ./dictionary/
     - Discord: https://discord.gg/JhCT82B2Ts
-    #- Translations:
-        #- English: ../
-        #- Deutsch: ./de/
-        #- Français: ./fr/
-        #- Español: ./es/
+    - Translations:
+        - English: ../
+        - Deutsch: ./de/
+        - Español: ./es/
+        - Français: ./fr/
+        - 日本語: ./ja/
+        - 한국어: ./ko/
+        - Русский: ./ru/
+        - 中文: ./zh/
