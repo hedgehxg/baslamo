@@ -1,17 +1,16 @@
 # ENGLISH // HOME
 nav:
-    - Home: index.md
-    - About: about.md
-    - Guide: en/guide/
-    - Dictionary: ./dictionary/
-    - Discord: https://discord.gg/JhCT82B2Ts
+    - Home    - About:
+    - Guide:
+    - Dictionary:
+    - Discord:
   - 
     Translations:
-        - English: ../
-        - Deutsch: ./de/
-        - Español: ./es/
-        - Français: ./fr/
-        - 日本語: ./ja/
-        - 한국어: ./ko/
-        - Русский: ./ru/
-        - 中文: ./zh/
+        - English:
+        - Deutsch:
+        - Español:
+        - Français:
+        - 日本語:
+        - 한국어:
+        - Русский:
+        - 中文:
