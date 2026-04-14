@@ -1,4 +1,4 @@
-# imut til baslamo dala! —<br>Willkommen auf dem Baslamo-Anleitung!
+# imut til baslamo dala! —<br>Willkommen auf der Seite für Baslamo!
 
 ![bjal — The Star](./img/a_transparent.png){: style="width:25%;margin:auto;display:block"}
 
