@@ -1,3 +1,11 @@
+# ENGLISH // HOME
+nav:
+    - Home: index.md
+    - About: about.md
+    - Guide: en/guide/
+    -     #- Reference: reference.md
+Dictionary: ./dictionary/
+    - Discord: https://discord.gg/JhCT82B2Ts
         #- Translations:
         #- English: ../
         #- Deutsch: ./de/
