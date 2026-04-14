@@ -1,11 +1,14 @@
 # ENGLISH // HOME
 nav:
-    - Home: index.md
-    - About: about.md
-    - Guide: zh/guide
-    -     #- Reference: reference.md
-Dictionary: ./dictionary/
-    - Discord: https://discord.gg/JhCT82B2Ts
+    0: '#-crwdn_empty_strng-#'
+    1:
+About: About
+    2:
+Guide: Guide
+    3: [ ]
+    Dictionary: Dictionary
+Dictionary:
+    - Discord: Discord
         #- Translations:
         #- English: ../
         #- Deutsch: ./de/
