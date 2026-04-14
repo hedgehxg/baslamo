@@ -1,11 +1,11 @@
-# ENGLISH // HOME
+# ESPAÑOL // HOME
 nav:
     - Home: index.md
     - About: about.md
     - Guide: en/guide/
-    - Dictionary: ./dictionary/
+    - Diccionario: ./dictionary/
     - Discord: https://discord.gg/JhCT82B2Ts
-    - Translations:
+    - Traducciones:
         - English: ../
         - Deutsch: ./de/
         - Español: ./es/
