@@ -1,11 +1,15 @@
 # ENGLISH // HOME
 nav:
-    - Home: index.md
-    - About: about.md
-    - Guide: fr/guide
-    -     #- Reference: reference.md
-Dictionary: ./dictionary/
-    - Discord: https://discord.gg/JhCT82B2Ts
+    0:
+Home: Home
+    1:
+About: About
+    2:
+Guide: Guide
+    3: [ ]
+    Dictionary: Dictionary
+Dictionary:
+    - Discord: Discord
         #- Translations:
         #- English: ../
         #- Deutsch: ./de/
