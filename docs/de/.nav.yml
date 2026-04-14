@@ -1,11 +1,11 @@
-# ENGLISH // HOME
+# DEUTSCH // HOME
 nav:
-    - Home: index.md
-    - About: about.md
-    - Guide: en/guide/
-    - Dictionary: ./dictionary/
+    - Hauptseite: index.md
+    - Über Baslamo: about.md
+    - Anleitung: de/guide/
+    - Worterbüch: ./dictionary/
     - Discord: https://discord.gg/JhCT82B2Ts
-    - Translations:
+    - Übersetzungen:
         - English: ../
         - Deutsch: ./de/
         - Español: ./es/
