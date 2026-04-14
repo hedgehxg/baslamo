@@ -9,3 +9,4 @@ files:
     translation: /docs/%two_letters_code%/guide/.nav.yml
     dest: /docs/en/.nav.txt
     type: txt
+    preserve_hierarchy: true
