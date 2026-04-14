@@ -1,4 +1,5 @@
-ignore: "index.md"
+# ENGLISH // GUIDE
 nav:
-  - Guide Index
-  - '*'
+    - Guide Index: ./guide/index.md
+    - "*"
+ignore: "index.md"
