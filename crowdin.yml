@@ -3,6 +3,10 @@ files:
     translation: /docs/%two_letters_code%/.nav.yml
     dest: /docs/en/.nav.txt
     type: txt
+  - source: /docs/en/guide/.nav.yml
+    translation: /docs/%two_letters_code%/guide/.nav.yml
+    dest: /docs/en/guide/.nav.txt
+    type: txt
   - source: /docs/en/
     ignore:
       - /docs/en/*/
