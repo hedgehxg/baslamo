@@ -3,9 +3,9 @@ nav:
     - Home: index.md
     - About: about.md
     - Guide: en/guide/
-    - Dictionary: ./dictionary/
+    - Словарь: ./dictionary/
     - Discord: https://discord.gg/JhCT82B2Ts
-    - Translations:
+    - Перевод:
         - English: ../
         - Deutsch: ./de/
         - Español: ./es/
