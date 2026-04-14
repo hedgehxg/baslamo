@@ -1,0 +1,48 @@
+# to push to the repo:
+    # cd C:\Users\Susie\Downloads\baslamo-website\
+    # git clone https://github.com/hedgehxg/baslamo.git
+    # xcopy mkdocs.yml C:\Users\Susie\Downloads\baslamo-website\baslamo\
+    # xcopy C:\Users\Susie\Downloads\baslamo-website\docs\ C:\Users\Susie\Downloads\baslamo-website\baslamo\docs\ /E
+    # cd C:\Users\Susie\Downloads\baslamo-website\baslamo\
+    # mkdocs gh-deploy -b main
+    # (use -d to keep unchanged pages unchanged; can cause inconsistencies when editing footer, navbar, etc.)
+# to make the server:
+    # cd C:\Users\Susie\Downloads\baslamo-website
+    # mkdocs serve --livereload
+    # go to http://127.0.0.1:8000/
+# set "build: false" for unfinished languages when pushing, "true" when serving
+site_name: baslamo dala
+site_url: https://www.baslamo.com
+site_author: amal utikatelik
+site_description: "The Baslamo Guide"
+repo_url: "https://github.com/hedgehxg/baslamo"
+copyright: "This website is licensed under the GNU General Public License v3.0."
+theme:
+    name: cinder
+markdown_extensions:
+    - admonition
+    - attr_list
+    - footnotes
+    - meta
+extra_css:
+    - assets/extra.css
+plugins:
+    - search:
+        indexing: full
+        separator: '[\s\-\.\—\–\;\:]+'
+        min_search_length: 2
+    - awesome-nav:
+    - i18n:
+        docs_structure: folder
+        fallback_to_default: true
+        languages:
+          - locale: en
+            name: English
+            build: true
+            default: true
+          - locale: de
+            name: Deutsch
+            build: false
+          - locale: es
+            name: Español
+            build: false
