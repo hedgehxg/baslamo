@@ -6,7 +6,7 @@ files:
   - source: /docs/en/guide/
     translation: /docs/%two_letters_code%/guide/%original_file_name%
   - source: /docs/en/.nav.yml
-    translation: /docs/%two_letters_code%/guide/.nav.yml
+    translation: /docs/%two_letters_code%/.nav.yml
     dest: /docs/en/.nav.txt
     type: txt
     preserve_hierarchy: true
