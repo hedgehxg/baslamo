@@ -1,4 +1,4 @@
-# What is Baslamo?
+# Was ist Baslamo?
 
 Baslamo is an international auxiliary language: a constructed language that aims to help people all across the world communicate with each other. These languages are meant to be as easy to learn as possible, to help people connect to one another through a shared language.
 
