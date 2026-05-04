@@ -166,6 +166,33 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: alapi
+  id: 15.1
+  pos: 'verb, ambi.'
+  en_definition: 'to learn, study, be taught'
+  en_notes: ''
+  en_tags: school
+  derived: alapitel
+  etymology: al + -pi
+  etym_tags: 'compound, derivation'
+- lemma: alapi
+  id: 15.2
+  pos: noun
+  en_definition: 'learning, study'
+  en_notes: ''
+  en_tags: school
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: alapitel
+  id: 16
+  pos: 'noun, gendered'
+  en_definition: 'student, pupil, apprentice'
+  en_notes: ''
+  en_tags: school
+  derived: ''
+  etymology: alapi + -tel
+  etym_tags: 'compound, derivation'
 - lemma: alasu
   id: 10
   pos: noun
@@ -232,39 +259,12 @@
 - lemma: '-alo'
   id: 146
   pos: nominal suffix
-  en_definition: Alternative form of -lo
+  en_definition: Alternative form of -lo used after consonants
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: '-lo'
   etym_tags: 'baslamo, a priori'
-- lemma: alpi
-  id: 15.1
-  pos: 'verb, ambi.'
-  en_definition: 'to learn, study, be taught'
-  en_notes: ''
-  en_tags: school
-  derived: alpitel
-  etymology: al + -pi
-  etym_tags: 'compound, derivation'
-- lemma: alpi
-  id: 15.2
-  pos: noun
-  en_definition: 'learning, study'
-  en_notes: ''
-  en_tags: school
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: alpitel
-  id: 16
-  pos: 'noun, gendered'
-  en_definition: 'student, pupil, apprentice'
-  en_notes: ''
-  en_tags: school
-  derived: ''
-  etymology: alpi + -tel
-  etym_tags: 'compound, derivation'
 - lemma: altan
   id: 17
   pos: noun
@@ -393,6 +393,15 @@
   derived: ''
   etymology: Koryak ынну (ʔənnu)
   etym_tags: 'koryak, chukotkan, chukotko-kamchatkan'
+- lemma: '-api'
+  id: 60
+  pos: verbal suffix
+  en_definition: Allomorph of -pi used after consonants
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-pi'
+  etym_tags: alternative forms
 - lemma: '-as'
   id: 296
   pos: nominal suffix
@@ -875,7 +884,7 @@
   derived: ''
   etymology: dop + basa
   etym_tags: 'compound, lexical compound, calque'
-- lemma: dopel
+- lemma: dopatel
   id: 49.1
   pos: 'noun, gendered'
   en_definition: 'helper, one who aides; server, waiter'
@@ -884,7 +893,7 @@
   derived: ''
   etymology: dop + -tel
   etym_tags: 'compound, derivation'
-- lemma: dopel
+- lemma: dopatel
   id: 49.2
   pos: noun
   en_definition: (computing) server
@@ -1031,7 +1040,7 @@
 - lemma: '-el'
   id: 336
   pos: nominal suffix
-  en_definition: Alternative form of -tel used after some consonants
+  en_definition: Alternative form of -tel used after consonants
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -1046,15 +1055,6 @@
   derived: dinele
   etymology: Kannada ಎಲೆ (ele)
   etym_tags: 'kannada, south dravidian, dravidian'
-- lemma: '-epi'
-  id: 60
-  pos: verbal suffix
-  en_definition: Allomorph of -pi used after some consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-pi'
-  etym_tags: alternative forms
 - lemma: esa
   id: 61.1
   pos: 'verb, ambi.'
@@ -1136,6 +1136,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: fasatel
+  id: 66
+  pos: noun
+  en_definition: 'creator, maker; user; (figuratively) God'
+  en_notes: ''
+  en_tags: religion
+  derived: ''
+  etymology: fas + -tel
+  etym_tags: 'compound, derivation'
 - lemma: fasono
   id: 65.1
   pos: 'verb, ambi.'
@@ -1172,15 +1181,6 @@
   derived: ''
   etymology: fasono + nasolo
   etym_tags: 'collocation, compound'
-- lemma: fastel
-  id: 66
-  pos: noun
-  en_definition: 'creator, maker; user; (figuratively) God'
-  en_notes: ''
-  en_tags: religion
-  derived: ''
-  etymology: fas + -tel
-  etym_tags: 'compound, derivation'
 - lemma: fok
   id: 67.1
   pos: 'verb, trans.'
@@ -1470,7 +1470,9 @@
 - lemma: imut
   id: 85.2
   pos: adjective
-  en_definition: 'cute, charming, pretty; good, wonderful, well; happy'
+  en_definition: >-
+    cute, charming, pretty; beautiful, stunning, grand; happy; good, fine, well,
+    wonderful (as in mood)
   en_notes: ''
   en_tags: emotions
   derived: ''
@@ -1551,7 +1553,7 @@
 - lemma: '-ini'
   id: 289
   pos: nominal suffix
-  en_definition: Alternative form of -sini used after some consonants.
+  en_definition: Alternative form of -sini used after consonants
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -1645,7 +1647,7 @@
   pos: conjunction
   en_definition: >-
     as if, as it were, in the same way as, just like; naturally, as a
-    consequence; so that
+    consequence; so that; therefore, thus
   en_notes: ''
   en_tags: 'mathematics, law'
   derived: ''
@@ -1824,7 +1826,7 @@
   derived: ''
   etymology: 'Japanese 妖怪 [よーかい] (yōkai)'
   etym_tags: 'japanese, japonic'
-- lemma: jokel
+- lemma: jokatel
   id: 103
   pos: noun
   en_definition: player
@@ -1869,6 +1871,15 @@
   derived: ''
   etymology: Burmese ယုန် (yun)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: juva
+  id: 372
+  pos: adjective
+  en_definition: 'good, well, exemplary, nice; well-mannered, polite'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Livonian jõvā
+  etym_tags: 'livonian, finnic, uralic'
 - lemma: k-
   id: 105
   pos: correlative prefix
@@ -2572,7 +2583,7 @@
 - lemma: lo
   id: 100.1
   pos: noun
-  en_definition: 'hand, fist; arm'
+  en_definition: 'arm; hand, fist; work, labor, labour'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2863,6 +2874,24 @@
   derived: ''
   etymology: ma- alini
   etym_tags: 'compound, derivation'
+- lemma: malasu
+  id: 376.1
+  pos: 'verb, trans.'
+  en_definition: 'to disconnect, break into parts, split up'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: mal- + asu
+  etym_tags: 'compound, derivation'
+- lemma: malasu
+  id: 376.2
+  pos: noun
+  en_definition: 'member, unit'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: mali
   id: 193
   pos: adjective
@@ -3043,6 +3072,15 @@
   derived: ''
   etymology: m- + -idi
   etym_tags: 'compound, derivation'
+- lemma: min
+  id: 377
+  pos: noun
+  en_definition: 'kind, type; species; sex, gender (in grammar)'
+  en_notes: ''
+  en_tags: 'zoology, taxonomy'
+  derived: ''
+  etymology: Hebrew מין (min)
+  etym_tags: 'hebrew, semitic, afroasiatic'
 - lemma: mis
   id: 270.1
   pos: 'verb, ambi.'
@@ -3522,7 +3560,7 @@
 - lemma: nisam
   id: 253.2
   pos: noun
-  en_definition: 'system, algorithm; order, sort'
+  en_definition: 'system, algorithm; order, sort; order (in taxonomy)'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4006,6 +4044,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: pulapi
+  id: 285.1
+  pos: 'verb, intr.'
+  en_definition: 'to be untied, unrestriained; to be free'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: pul + -pi
+  etym_tags: 'compound, derivation'
 - lemma: pulma
   id: 286.1
   pos: 'verb, intr.'
@@ -4033,15 +4080,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: pulpi
-  id: 285.1
-  pos: 'verb, intr.'
-  en_definition: 'to be untied, unrestriained; to be free'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: pul + -pi
-  etym_tags: 'compound, derivation'
 - lemma: pulpi
   id: 285.2
   pos: noun
@@ -4117,7 +4155,7 @@
 - lemma: '-sam'
   id: 364
   pos: numeral suffix
-  en_definition: Alternative form of -am used after vowels.
+  en_definition: Alternative form of -am used after vowels
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4206,7 +4244,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: senetel
+- lemma: senetatel
   id: 301
   pos: noun
   en_definition: 'one who performs some art (e.g. photographer, artist, musician)'
@@ -4431,7 +4469,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Russian знак
+  etymology: Russian знак (znak)
   etym_tags: 'russian, slavic, indo-european'
 - lemma: snak
   id: 317.2
@@ -4453,6 +4491,15 @@
   derived: ''
   etymology: 'Japanese 袖 [そで] (sode)'
   etym_tags: 'japanese, japonic'
+- lemma: sofia
+  id: 378
+  pos: adjective
+  en_definition: 'wise, skilled'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Greek σοφία (sofía)
+  etym_tags: 'greek, indo-european'
 - lemma: soga
   id: 319.1
   pos: 'verb, intr.'
@@ -4579,6 +4626,15 @@
   derived: ''
   etymology: German Stamm
   etym_tags: 'german, germanic, indo-european'
+- lemma: '-su'
+  id: 371
+  pos: nominal suffix
+  en_definition: Alternative form of -asu used after vowels
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-asu'
+  etym_tags: alternative forms
 - lemma: sual
   id: 325
   pos: noun
@@ -4808,6 +4864,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: tinkev
+  id: 374
+  pos: noun
+  en_definition: 'cup, goblet, chalice, drinking vessel'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Khiamniungan Naga thīngkhēuh
+  etym_tags: 'khiamniungan naga, konyak, tibeto-burman, sino-tibetan'
 - lemma: tit
   id: 339
   pos: noun
@@ -5038,6 +5103,15 @@
   derived: ''
   etymology: English USA
   etym_tags: 'english, germanic, indo-european'
+- lemma: usno
+  id: 373
+  pos: adjective
+  en_definition: 'ugly, gross, yucky, abhorrent'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Georgian უშნო (ušno)
+  etym_tags: 'georgian, kartvelian'
 - lemma: usu
   id: 350
   pos: 'noun, gendered'
@@ -5097,7 +5171,7 @@
   pos: noun
   en_definition: hedgehog
   en_notes: ''
-  en_tags: ''
+  en_tags: animals
   derived: ''
   etymology: utika + -tel + -ik
   etym_tags: 'compound, derivation'
@@ -5272,6 +5346,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: xol
+  id: 375
+  pos: 'verb, ambi.'
+  en_definition: 'to work, labor, be employed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Maltese xogħol
+  etym_tags: 'maltese, semitic, afroasiatic'
 - lemma: xon
   id: 362.1
   pos: 'verb, trans., til'
