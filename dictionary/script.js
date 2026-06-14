@@ -162,7 +162,7 @@ function run() {
 			count += 1;
 			html += html_entry_for(entry, field_selection);
 		}
-	// } uncomment this for disabling loading the whole lexicon when the filter is empty, in case this gets too slow if the lexicon gets too big.
+	// uncomment this for disabling loading the whole lexicon when the filter is empty, in case this gets too slow if the lexicon gets too big.
 	html += "<div class='entry'></div>\n";
 	document.getElementById("result-count").innerHTML = "(" + count + " results)";
 	document.getElementById("results").innerHTML = html;
