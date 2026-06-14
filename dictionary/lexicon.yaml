@@ -166,6 +166,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: ala
+  id: 387
+  pos: noun
+  en_definition: wing
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Spanish ala
+  etym_tags: 'spanish, romance, indo-european'
 - lemma: alapi
   id: 15.1
   pos: 'verb, ambi.'
@@ -503,6 +512,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: '-atel'
+  id: 336
+  pos: nominal suffix
+  en_definition: Alternative form of -tel used after consonants
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-tel'
+  etym_tags: alternative forms
 - lemma: aveli
   id: 29.1
   pos: particle
@@ -689,15 +707,33 @@
   derived: ''
   etymology: Hindi भूमि (bhūmi)
   etym_tags: 'hindi, indo-aryan, indo-european'
+- lemma: bus
+  id: 385
+  pos: noun
+  en_definition: 'bus, autobus'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English bus
+  etym_tags: 'english, germanic, indo-european'
 - lemma: da
   id: 42
   pos: preposition
-  en_definition: 'left, leftwards; north'
-  en_notes: 'when one faces where the sun rises, north is to the left'
-  en_tags: 'directions, cardinal directions'
+  en_definition: 'left, leftwards'
+  en_notes: ''
+  en_tags: directions
   derived: ''
   etymology: Telugu డా (ḍā)
   etym_tags: 'telugu, south dravidian, dravidian'
+- lemma: da son
+  id: 380
+  pos: preposition
+  en_definition: 'north, northward'
+  en_notes: ''
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: da + son
+  etym_tags: 'compound, collocation'
 - lemma: dajnasa
   id: 367
   pos: noun
@@ -830,6 +866,15 @@
   derived: ''
   etymology: SI Prefix deca-
   etym_tags: a priori
+- lemma: destul
+  id: 379.3
+  pos: adjective
+  en_definition: 'enough, plenty, satisfactory, sufficient; about, approximately'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: din
   id: 46
   pos: noun
@@ -875,15 +920,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: dop-basa
-  id: 197
-  pos: noun
-  en_definition: 'international auxiliary language, IAL'
-  en_notes: calque of Esperanto helplingvo
-  en_tags: languages
-  derived: ''
-  etymology: dop + basa
-  etym_tags: 'compound, lexical compound, calque'
 - lemma: dopatel
   id: 49.1
   pos: 'noun, gendered'
@@ -902,6 +938,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: dopubasa
+  id: 197
+  pos: noun
+  en_definition: 'international auxiliary language, IAL'
+  en_notes: calque of Esperanto helplingvo
+  en_tags: languages
+  derived: ''
+  etymology: dop + basa
+  etym_tags: 'compound, lexical compound, calque'
 - lemma: doska
   id: 50
   pos: noun
@@ -1010,15 +1055,6 @@
   derived: ''
   etymology: Swedish ek
   etym_tags: 'swedish, germanic, indo-european'
-- lemma: ekato
-  id: 31
-  pos: numeral
-  en_definition: 'hundred, one hundred'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: SI Prefix hecto- ~ hecato-
-  etym_tags: a priori
 - lemma: eksa
   id: 311
   pos: numeral
@@ -1037,15 +1073,6 @@
   derived: 'kel, lel, sel, mel'
   etymology: a priori
   etym_tags: a priori
-- lemma: '-el'
-  id: 336
-  pos: nominal suffix
-  en_definition: Alternative form of -tel used after consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-tel'
-  etym_tags: alternative forms
 - lemma: ele
   id: 58
   pos: noun
@@ -1091,6 +1118,15 @@
   derived: ''
   etymology: Kyrgyz эски (eski)
   etym_tags: 'kyrgyz, turkic'
+- lemma: eto
+  id: 31
+  pos: numeral
+  en_definition: 'hundred, one hundred'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: SI Prefix hecto-
+  etym_tags: a priori
 - lemma: fas
   id: 64.1
   pos: 'verb, trans.'
@@ -1115,24 +1151,6 @@
   en_definition: 'activity, performance; creation; usage'
   en_notes: ''
   en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: fas-basa
-  id: 198.1
-  pos: verb
-  en_definition: 'to construct a language, to conlang'
-  en_notes: ''
-  en_tags: languages
-  derived: ''
-  etymology: fas + basa
-  etym_tags: 'compound, lexical compound'
-- lemma: fas-basa
-  id: 198.2
-  pos: noun
-  en_definition: 'conlang, constructed language'
-  en_notes: ''
-  en_tags: languages
   derived: ''
   etymology: ''
   etym_tags: ''
@@ -1176,11 +1194,29 @@
   id: 143
   pos: noun
   en_definition: printer
-  en_notes: ''
+  en_notes: literally "automatic writer"
   en_tags: technology
   derived: ''
   etymology: fasono + nasolo
   etym_tags: 'collocation, compound'
+- lemma: fasubasa
+  id: 198.1
+  pos: verb
+  en_definition: 'to construct a language, to conlang'
+  en_notes: ''
+  en_tags: languages
+  derived: ''
+  etymology: fas + basa
+  etym_tags: 'compound, lexical compound'
+- lemma: fasubasa
+  id: 198.2
+  pos: noun
+  en_definition: 'conlang, constructed language'
+  en_notes: ''
+  en_tags: languages
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: fok
   id: 67.1
   pos: 'verb, trans.'
@@ -1349,7 +1385,7 @@
   etymology: Hungarian guggol
   etym_tags: 'hungarian, ugric, uralic'
 - lemma: ibuma
-  id: 370
+  id: 370.1
   pos: 'verb, ambi.'
   en_definition: 'to lie, deceive, tell an untruth'
   en_notes: ''
@@ -1772,15 +1808,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: jaset son
-  id: 145
-  pos: noun
-  en_definition: west
-  en_notes: literally "the last (of the) sun"
-  en_tags: 'directions, cardinal directions'
-  derived: ''
-  etymology: jaset + son
-  etym_tags: 'collocation, compound'
 - lemma: jati
   id: 97.1
   pos: 'verb, ambi.'
@@ -1872,14 +1899,14 @@
   etymology: Burmese ယုန် (yun)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
 - lemma: juva
-  id: 372
+  id: 372.2
   pos: adjective
   en_definition: 'good, well, exemplary, nice; well-mannered, polite'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Livonian jõvā
-  etym_tags: 'livonian, finnic, uralic'
+  etymology: ''
+  etym_tags: ''
 - lemma: k-
   id: 105
   pos: correlative prefix
@@ -1925,6 +1952,15 @@
   derived: ''
   etymology: Wolof këf
   etym_tags: 'wolof, west atlantic, atlantic-congo'
+- lemma: kafe
+  id: 384.1
+  pos: noun
+  en_definition: coffee; caffeine
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French café
+  etym_tags: 'french, romance, indo-european'
 - lemma: kaga
   id: 112
   pos: correlative
@@ -1985,14 +2021,14 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: kakepi
+- lemma: kakapi
   id: 136
   pos: 'verb, intr.'
   en_definition: 'to stand, begin standing; to be stopped, to stop'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: kak + -epi
+  etymology: kak + -pi
   etym_tags: 'compound, derivation'
 - lemma: kakigi
   id: 135
@@ -2021,6 +2057,17 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: kampa
+  id: 382
+  pos: noun
+  en_definition: >-
+    side, edge; side (of an argument), perspective; verge, brink; side (of a
+    coin); page (of a book); site, website, webpage
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Pitjantjatjara kampa
+  etym_tags: 'pitjantjatjara, western desert, wati, pama-nyungan'
 - lemma: kan
   id: 138.1
   pos: 'verb, trans.'
@@ -2082,12 +2129,21 @@
 - lemma: kanan
   id: 140
   pos: preposition
-  en_definition: 'right, rightward; south'
-  en_notes: 'when one faces to where the sun rises, south is to the right'
-  en_tags: 'directions, cardinal directions'
+  en_definition: 'right, rightward'
+  en_notes: ''
+  en_tags: directions
   derived: ''
   etymology: Malay kanan
   etym_tags: 'malay, malayo-polynesian, austronesian'
+- lemma: kanan son
+  id: 381
+  pos: preposition
+  en_definition: 'south, southward'
+  en_notes: ''
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: kanan + son
+  etym_tags: 'compound, collocation'
 - lemma: kanu
   id: 151
   pos: noun
@@ -2153,7 +2209,7 @@
   derived: ''
   etymology: Kyrgyz кесек (kesek)
   etym_tags: 'kyrgyz, turkic'
-- lemma: kesek-gida
+- lemma: kesekugida
   id: 236
   pos: noun
   en_definition: apartment; apartment complex
@@ -2517,6 +2573,15 @@
   derived: ''
   etymology: l- + -el
   etym_tags: 'compound, derivation'
+- lemma: lema
+  id: 391
+  pos: noun
+  en_definition: 'cow, ox, bull, heifer'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Finnish lehmä
+  etym_tags: 'finnish, finnic, uralic'
 - lemma: leto
   id: 98
   pos: noun
@@ -2610,7 +2675,7 @@
 - lemma: lom
   id: 119
   pos: correlative
-  en_definition: 'for this reason, because; this way, this method'
+  en_definition: 'for this reason, because; this way, this method; based on, according to'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2872,21 +2937,21 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma- alini
+  etymology: ma- + alini
   etym_tags: 'compound, derivation'
 - lemma: malasu
   id: 376.1
   pos: 'verb, trans.'
-  en_definition: 'to disconnect, break into parts, split up'
+  en_definition: 'to disconnect, break into parts, split up, break up, break apart'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: mal- + asu
+  etymology: ma- + asu
   etym_tags: 'compound, derivation'
 - lemma: malasu
   id: 376.2
   pos: noun
-  en_definition: 'member, unit'
+  en_definition: 'member, unit, individual'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -3075,7 +3140,7 @@
 - lemma: min
   id: 377
   pos: noun
-  en_definition: 'kind, type; species; sex, gender (in grammar)'
+  en_definition: 'kind, type; species; sex; gender (in grammar)'
   en_notes: ''
   en_tags: 'zoology, taxonomy'
   derived: ''
@@ -3189,7 +3254,7 @@
   derived: ''
   etymology: Norwegian mål
   etym_tags: 'norwegian, germanic, indo-european'
-- lemma: molkitap
+- lemma: molukitap
   id: 225
   pos: noun
   en_definition: dictionary
@@ -3234,15 +3299,6 @@
   derived: ''
   etymology: mot + -asu
   etym_tags: 'compound, derivation'
-- lemma: mua son
-  id: 144
-  pos: noun
-  en_definition: east
-  en_notes: literally "the first (of the) sun"
-  en_tags: 'directions, cardinal directions'
-  derived: ''
-  etymology: mua + son
-  etym_tags: 'collocation, compound'
 - lemma: mua
   id: 227.1
   pos: preposition
@@ -3324,6 +3380,15 @@
   derived: ''
   etymology: Hindi नया (nayā)
   etym_tags: 'hindi, indo-iranian, indo-european'
+- lemma: nalanga
+  id: 383.1
+  pos: noun
+  en_definition: orange (fruit); orange (color)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Sanskrit नारङ्ग (nāraṅga)
+  etym_tags: 'sanskrit, indo-aryan, indo-european'
 - lemma: nalu
   id: 328.1
   pos: 'verb, intr.'
@@ -3575,6 +3640,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: no son
+  id: 145
+  pos: noun
+  en_definition: west
+  en_notes: literally "away from the sun"
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: no + son
+  etym_tags: 'collocation, compound'
 - lemma: 'no'
   id: 254.1
   pos: 'verb, loc. trans.'
@@ -3596,10 +3670,8 @@
 - lemma: o
   id: 257
   pos: particle
-  en_definition: >-
-    Used to indicate a name; Used to form genitive constructions, making a word
-    into an adnoun, like English "of"
-  en_notes: e.g. jati povine "a likely story" > jati o povine "a story of advice"
+  en_definition: Used to indicate a name
+  en_notes: ''
   en_tags: ''
   derived: ''
   etymology: a priori
@@ -3896,6 +3968,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: pitisa
+  id: 386.1
+  pos: noun
+  en_definition: 'bird, poultry'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Russian птица
+  etym_tags: 'russian, slavic, indo-european'
+- lemma: pitisa
+  id: 386.2
+  pos: adjective
+  en_definition: 'capable of flight, flying'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: pojs
   id: 279.1
   pos: 'verb, trans.'
@@ -4152,6 +4242,33 @@
   derived: ''
   etymology: Korean 사람 (saram)
   etym_tags: 'korean, koreanic'
+- lemma: salo
+  id: 389.2
+  pos: noun
+  en_definition: 'fat, grease, lard, blubber'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: salo
+  id: 389.3
+  pos: adjective
+  en_definition: 'fatty; greasy, oily'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: salotel
+  id: 390
+  pos: noun
+  en_definition: pig
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: salo + -tel
+  etym_tags: 'compound, derivation'
 - lemma: '-sam'
   id: 364
   pos: numeral suffix
@@ -4206,17 +4323,6 @@
   derived: ''
   etymology: Russian семья (sem'ja)
   etym_tags: 'russian, slavic, indo-european'
-- lemma: senet-basa
-  id: 199
-  pos: noun
-  en_definition: >-
-    artlang, artistic language; conlang, constructed language (especially of
-    works of fiction)
-  en_notes: ''
-  en_tags: languages
-  derived: ''
-  etymology: senet + basa
-  etym_tags: 'compound, lexical compound'
 - lemma: senet
   id: 300.1
   pos: 'verb, intr.'
@@ -4253,6 +4359,17 @@
   derived: ''
   etymology: senet + -tel
   etym_tags: 'compound, derivation'
+- lemma: senetubasa
+  id: 199
+  pos: noun
+  en_definition: >-
+    artlang, artistic language; conlang, constructed language (especially of
+    works of fiction)
+  en_notes: ''
+  en_tags: languages
+  derived: ''
+  etymology: senet + basa
+  etym_tags: 'compound, lexical compound'
 - lemma: ses
   id: 158
   pos: numeral
@@ -4435,7 +4552,7 @@
   derived: ''
   etymology: Greek -σύνη (-sýni)
   etym_tags: 'greek, indo-european'
-- lemma: sinsima
+- lemma: sinusima
   id: 306
   pos: noun
   en_definition: 'overseer, administrator, supervisor; (Internet) moderator'
@@ -4492,14 +4609,14 @@
   etymology: 'Japanese 袖 [そで] (sode)'
   etym_tags: 'japanese, japonic'
 - lemma: sofia
-  id: 378
+  id: 378.2
   pos: adjective
   en_definition: 'wise, skilled'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Greek σοφία (sofía)
-  etym_tags: 'greek, indo-european'
+  etymology: ''
+  etym_tags: ''
 - lemma: soga
   id: 319.1
   pos: 'verb, intr.'
@@ -4799,6 +4916,15 @@
   derived: ''
   etymology: German Tief
   etym_tags: 'german, germanic, indo-european'
+- lemma: til son
+  id: 144
+  pos: noun
+  en_definition: east
+  en_notes: literally "towards the sun"
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: til + son
+  etym_tags: 'collocation, compound'
 - lemma: til
   id: 255.1
   pos: 'verb, loc. trans.'
@@ -4984,15 +5110,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: ugal-lot
-  id: 108
-  pos: noun
-  en_definition: train
-  en_notes: ''
-  en_tags: vehicles
-  derived: ''
-  etymology: ugal + lot
-  etym_tags: 'compound, lexical compound'
 - lemma: ugal
   id: 347
   pos: noun
@@ -5002,6 +5119,15 @@
   derived: ''
   etymology: Russian уголь (ugol')
   etym_tags: 'russian, slavic, indo-european'
+- lemma: ugalulot
+  id: 108
+  pos: noun
+  en_definition: train
+  en_notes: ''
+  en_tags: vehicles
+  derived: ''
+  etymology: ugal + lot
+  etym_tags: 'compound, lexical compound'
 - lemma: ugata
   id: 348
   pos: noun
@@ -5104,9 +5230,9 @@
   etymology: English USA
   etym_tags: 'english, germanic, indo-european'
 - lemma: usno
-  id: 373
+  id: 373.2
   pos: adjective
-  en_definition: 'ugly, gross, yucky, abhorrent'
+  en_definition: 'ugly, gross, yucky, abhorrent, bad, ungood'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5319,6 +5445,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: xaval
+  id: 388
+  pos: noun
+  en_definition: 'horse, steed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French cheval
+  etym_tags: 'french, romance, indo-european'
 - lemma: xeba
   id: 266
   pos: 'verb, ambi.'
@@ -5347,9 +5482,9 @@
   etymology: ''
   etym_tags: ''
 - lemma: xol
-  id: 375
+  id: 375.1
   pos: 'verb, ambi.'
-  en_definition: 'to work, labor, be employed'
+  en_definition: 'to work, labor, labour, be employed'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5383,7 +5518,7 @@
   etymology: ''
   etym_tags: ''
 - lemma: xos
-  id: 366
+  id: 366.1
   pos: noun
   en_definition: 'insect, bug, pest'
   en_notes: ''
