@@ -193,6 +193,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: alapimeti
+  id: 407
+  pos: noun
+  en_definition: 'school, academy, institute, institution, university, college'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: alapi + -meti
+  etym_tags: 'compound, derivation'
 - lemma: alapitel
   id: 16
   pos: 'noun, gendered'
@@ -337,6 +346,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: amanatel
+  id: 396
+  pos: noun
+  en_definition: 'swimmer, diver; boat, small ship, dinghy, sloop'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: aman + -tel
+  etym_tags: 'compound, lexical compound'
+- lemma: amanulot
+  id: 395
+  pos: noun
+  en_definition: 'ship, boat, vessel'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: aman + lot
+  etym_tags: 'compound, lexical compound'
 - lemma: amelika
   id: 19.1
   pos: noun
@@ -429,6 +456,15 @@
   derived: ''
   etymology: Western Yugur azaq
   etym_tags: 'western yugur, turkic'
+- lemma: asakulot
+  id: 394
+  pos: noun
+  en_definition: 'bicycle, bike'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: asak + lot
+  etym_tags: 'compound, lexical compound'
 - lemma: asan
   id: 23
   pos: adjective
@@ -557,6 +593,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: ba
+  id: 436
+  pos: noun
+  en_definition: bar (i.e. a place serving alcohol)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English bar
+  etym_tags: 'english, germanic, indo-european'
 - lemma: balva
   id: 32.1
   pos: 'verb, avalent'
@@ -1076,7 +1121,7 @@
 - lemma: ele
   id: 58
   pos: noun
-  en_definition: leaf; sheet (of paper); sail; bush
+  en_definition: 'leaf; sheet (of paper); ticket, slip, sheet; sail (of a boat)'
   en_notes: ''
   en_tags: nature
   derived: dinele
@@ -1109,6 +1154,15 @@
   derived: ''
   etymology: esa + -igi
   etym_tags: 'compound, derivation'
+- lemma: esameti
+  id: 412
+  pos: noun
+  en_definition: restaurant
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: esa + -meti
+  etym_tags: 'compound, derivation'
 - lemma: eski
   id: 63
   pos: adjective
@@ -1127,6 +1181,44 @@
   derived: ''
   etymology: SI Prefix hecto-
   etym_tags: a priori
+- lemma: evo
+  id: 416.1
+  pos: 'verb, intr.'
+  en_definition: 'to make money, have income'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Nupe ewó
+  etym_tags: 'nupe, nupoid, volta-niger, atlantic-congo'
+- lemma: evo
+  id: 416.2
+  pos: noun
+  en_definition: >-
+    money, currency, funds; the primary unit of any given monetary system (e.g.
+    dollar, dong, dinar) price, price point
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: evo
+  id: 416.3
+  pos: adjective
+  en_definition: 'monetary, economic, financial, dealing with money'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: evometi
+  id: 419
+  pos: noun
+  en_definition: 'bank, financial institution'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: evo + -meti
+  etym_tags: 'compound, derivation'
 - lemma: fas
   id: 64.1
   pos: 'verb, trans.'
@@ -1276,6 +1368,15 @@
   derived: ''
   etymology: Tày cạ
   etym_tags: 'tày, central tai, kra-dai'
+- lemma: gas
+  id: 397
+  pos: noun
+  en_definition: 'gas, gasoline, petrol, benzene; natural gas, fossil fuel'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English gas
+  etym_tags: 'english, germanic, indo-european'
 - lemma: gat
   id: 70
   pos: noun
@@ -1494,6 +1595,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: ilu
+  id: 441
+  pos: noun
+  en_definition: 'building, structure, facility, edifice'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Greenlandic illu
+  etym_tags: 'greenlandic, inuit, eskaleut'
 - lemma: imut
   id: 85.1
   pos: 'verb, intr.'
@@ -1719,7 +1829,7 @@
   etymology: Azerbaijani istəmək
   etym_tags: 'azerbaijani, turkic'
 - lemma: ista
-  id: 91.2
+  id: 91.3
   pos: 'verb, modal'
   en_definition: 'to want, to desire'
   en_notes: ''
@@ -1728,7 +1838,7 @@
   etymology: ''
   etym_tags: ''
 - lemma: ista
-  id: 91.3
+  id: 91.4
   pos: noun
   en_definition: '(usually with a possessive?) beloved, loved object, favorite thing'
   en_notes: ''
@@ -1737,7 +1847,7 @@
   etymology: ''
   etym_tags: ''
 - lemma: ista
-  id: 91.4
+  id: 91.5
   pos: adjective
   en_definition: 'interesting, captivating, awe-inspiring'
   en_notes: ''
@@ -1745,6 +1855,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: istameti
+  id: 414
+  pos: noun
+  en_definition: 'place of worship, place for prayer, church, mosque'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ista + -meti
+  etym_tags: 'compound, derivation'
+- lemma: istatileti
+  id: 415
+  pos: noun
+  en_definition: 'place of worship, place for prayer, church, mosque'
+  en_notes: synonymous with istameti
+  en_tags: ''
+  derived: ''
+  etymology: ista til + -meti
+  etym_tags: 'compound, derivation, lexical compound'
 - lemma: ja
   id: 92
   pos: conjunction
@@ -1862,6 +1990,24 @@
   derived: ''
   etymology: jok + -tel
   etym_tags: 'compound, derivation'
+- lemma: jon
+  id: 400.1
+  pos: noun
+  en_definition: 'mechanical device, machine'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Thai ยนต์ (yon)
+  etym_tags: 'thai, southwestern thai, kra-dai'
+- lemma: jon
+  id: 400.2
+  pos: adjective
+  en_definition: 'motorized, mechanical, powered'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: jota
   id: 313
   pos: numeral
@@ -2144,6 +2290,24 @@
   derived: ''
   etymology: kanan + son
   etym_tags: 'compound, collocation'
+- lemma: kanevo
+  id: 417
+  pos: adjective
+  en_definition: 'rich, having lots of money; expensive, high price'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: kan + evo
+  etym_tags: 'compound, lexical compound'
+- lemma: kanevotel
+  id: 418
+  pos: noun
+  en_definition: 'rich person, elite'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: kanevo + -tel
+  etym_tags: 'compound, derivation'
 - lemma: kanu
   id: 151
   pos: noun
@@ -2153,6 +2317,24 @@
   derived: ''
   etymology: Ingrian kanu
   etym_tags: 'ingrian, finnic, uralic'
+- lemma: kanujon
+  id: 401.1
+  pos: noun
+  en_definition: robot
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'kanu + jon, calque of Thai หุ่นยนต์ (hùn-yon)'
+  etym_tags: 'compound, lexical compound, calque'
+- lemma: kanujon
+  id: 401.2
+  pos: adjective
+  en_definition: 'robotic, stiff'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kel
   id: 110
   pos: correlative
@@ -2265,6 +2447,44 @@
   derived: ''
   etymology: SI Prefix kilo-
   etym_tags: a priori
+- lemma: kin
+  id: 420.1
+  pos: 'verb, ambi.'
+  en_definition: 'to grow, sprout, grow up; to prosper; to increase, multiply'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Scottish Gaelic cinn
+  etym_tags: 'scottish gaelic, celtic, indo-european'
+- lemma: kin
+  id: 420.2
+  pos: noun
+  en_definition: >-
+    growth, increase; increase, margin, amount, factor; plant, vegetable, fungi,
+    anything that grows
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: kin
+  id: 420.3
+  pos: adjective
+  en_definition: 'growing, increasing, going up, growing up; prospering, doing well'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: kinatel
+  id: 421
+  pos: noun
+  en_definition: 'plant, vegetable, fungi, anything that grows'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'kin + -tel, disambiguation of kin'
+  etym_tags: 'compound, derivation'
 - lemma: kino
   id: 163.1
   pos: 'verb, ambi.'
@@ -2337,6 +2557,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: kitapeti
+  id: 410
+  pos: noun
+  en_definition: 'library, bibliothecha'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: kitap + -meti
+  etym_tags: 'compound, derivation'
+- lemma: klaba
+  id: 435
+  pos: noun
+  en_definition: 'club, nightclub'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English club
+  etym_tags: 'english, germanic, indo-european'
 - lemma: koj
   id: 167
   pos: noun
@@ -2456,6 +2694,35 @@
   derived: ''
   etymology: Yakut кыс (kïs)
   etym_tags: 'yakut, turkic'
+- lemma: kuti
+  id: 433.1
+  pos: 'verb, trans.'
+  en_definition: 'to box up, board up, encase, enclose, pack up'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Greek κουτί (koutí)
+  etym_tags: 'greek, indo-european'
+- lemma: kuti
+  id: 433.2
+  pos: noun
+  en_definition: >-
+    box, caddy, canister, container, tupperware, canister; packet, sack, pouch,
+    carton; room, space, compartment, cell, chamber
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: kuti
+  id: 433.3
+  pos: adjective
+  en_definition: 'packaged, boxed, contained, enclosed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kveta
   id: 315
   pos: numeral
@@ -2648,7 +2915,7 @@
 - lemma: lo
   id: 100.1
   pos: noun
-  en_definition: 'arm; hand, fist; work, labor, labour'
+  en_definition: 'arm; hand, fist; work, labor, labour; tool, device'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2739,6 +3006,15 @@
   derived: ''
   etymology: Lao ລົດ (lot)
   etym_tags: 'lao, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: loteti
+  id: 406
+  pos: noun
+  en_definition: 'stop, station (of a bus, train, etc.), train stop, bus stop'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: lot + -meti
+  etym_tags: 'compound, derivation'
 - lemma: lua
   id: 156
   pos: numeral
@@ -2849,6 +3125,42 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: mai
+  id: 439.1
+  pos: 'verb, intr.'
+  en_definition: 'to be nauseous, be sickly, be ill'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Hawaiian maʻi
+  etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
+- lemma: mai
+  id: 439.2
+  pos: noun
+  en_definition: 'sickness, illness, disease, pathogen'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: mai
+  id: 439.3
+  pos: adjective
+  en_definition: 'sick, ill, diseased, unwell'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: maimeti
+  id: 440
+  pos: noun
+  en_definition: hospital
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: mai + -meti
+  etym_tags: 'compound, derivation'
 - lemma: maj
   id: 129
   pos: correlative
@@ -3290,6 +3602,15 @@
   derived: ''
   etymology: Mongolian мод (mod)
   etym_tags: 'mongolian, mongolic'
+- lemma: mota
+  id: 403
+  pos: noun
+  en_definition: 'motor, engine (of a car)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English motor
+  etym_tags: 'english, germanic, indo-european'
 - lemma: motasu
   id: 330
   pos: noun
@@ -3694,6 +4015,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: ofis
+  id: 434
+  pos: noun
+  en_definition: 'office, bureau'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English office
+  etym_tags: 'english, germanic, indo-european'
 - lemma: ojge
   id: 260.1
   pos: noun
@@ -3793,6 +4123,33 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: otel
+  id: 422
+  pos: noun
+  en_definition: 'hotel, guesthouse, room and board, shelter'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French hôtel among others
+  etym_tags: 'french, romance, indo-european'
+- lemma: oto
+  id: 393
+  pos: noun
+  en_definition: 'car, automobile, auto'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English auto(mobile)
+  etym_tags: 'english, germanic, indo-european'
+- lemma: otojon
+  id: 402
+  pos: noun
+  en_definition: 'motor, engine (of a car)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: oto + jon
+  etym_tags: 'compound, lexical compound'
 - lemma: ova
   id: 263.1
   pos: 'verb, ambi.'
@@ -3820,6 +4177,15 @@
   derived: ''
   etymology: Czech ovocie
   etym_tags: 'czech, slavic, indo-european'
+- lemma: pak
+  id: 437
+  pos: noun
+  en_definition: 'park, place of recreation'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French parc
+  etym_tags: 'french, romance, indo-european'
 - lemma: panal
   id: 272.1
   pos: 'verb, trans.'
@@ -4008,8 +4374,8 @@
   id: 279.3
   pos: noun
   en_definition: >-
-    weight, burden, pressure, load; importance, priority, status; (linguistics)
-    emphasis, stress
+    weight, burden, pressure, load, cargo; importance, priority, status;
+    (linguistics) emphasis, stress
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4305,6 +4671,15 @@
   derived: ''
   etymology: s- + -el
   etym_tags: 'compound, derivation'
+- lemma: selaleti
+  id: 408
+  pos: noun
+  en_definition: 'university, college'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sel + al + -meti
+  etym_tags: 'compound, lexical compound, derivation'
 - lemma: selasu
   id: 242
   pos: noun
@@ -4388,6 +4763,35 @@
   derived: ''
   etymology: SI Prefix zetta-
   etym_tags: a priori
+- lemma: sexa
+  id: 398.1
+  pos: noun
+  en_definition: >-
+    circle, ring, wheel, hoop; cycle, loop, lap (of a race); wheel, disc; tire,
+    tyre
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Burmese စကြာ (ca.kra)
+  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: sexa
+  id: 398.2
+  pos: adjective
+  en_definition: 'circular, round, curved, curvy; cyclical, being part of a cycle, inevitable'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: sexakampa
+  id: 399
+  pos: noun
+  en_definition: 'tire, tyre'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sexa + kampa
+  etym_tags: 'compound, lexical compound'
 - lemma: si
   id: 302.1
   pos: 'verb, intr.'
@@ -4472,7 +4876,7 @@
 - lemma: sima
   id: 305.1
   pos: preposition
-  en_definition: 'above; top, summit'
+  en_definition: 'above, over, overhead; top, summit'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4880,6 +5284,15 @@
   derived: ''
   etymology: te + -a
   etym_tags: 'compound, derivation'
+- lemma: teata
+  id: 438
+  pos: noun
+  en_definition: 'theater, movie theater; theater (the art form)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French teatre
+  etym_tags: 'french, romance, indo-european'
 - lemma: tel
   id: 244
   pos: noun
@@ -4972,6 +5385,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: tilulot
+  id: 404
+  pos: noun
+  en_definition: 'transportation, moving, method of travel'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'til + lot, literally "by vehicle"'
+  etym_tags: 'compound, lexical compound'
 - lemma: tin
   id: 241.1
   pos: 'verb, intr.'
@@ -4984,7 +5406,7 @@
 - lemma: tin
   id: 241.2
   pos: noun
-  en_definition: 'sky; sky blue, light blue; God'
+  en_definition: 'sky; space, outer space; sky blue, light blue; God'
   en_notes: ''
   en_tags: 'geography, religion'
   derived: ''
@@ -4999,6 +5421,24 @@
   derived: ''
   etymology: Khiamniungan Naga thīngkhēuh
   etym_tags: 'khiamniungan naga, konyak, tibeto-burman, sino-tibetan'
+- lemma: tinulot
+  id: 392
+  pos: noun
+  en_definition: 'airplane, aeroplane, plane'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: tin + lot
+  etym_tags: 'compound, lexical compound'
+- lemma: tinuloteti
+  id: 411
+  pos: noun
+  en_definition: airport
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: tinulot + -meti
+  etym_tags: 'compound, derivation'
 - lemma: tit
   id: 339
   pos: noun
@@ -5128,6 +5568,15 @@
   derived: ''
   etymology: ugal + lot
   etym_tags: 'compound, lexical compound'
+- lemma: ugaluloteti
+  id: 405
+  pos: noun
+  en_definition: 'train stop, train station'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ugalulot + -meti
+  etym_tags: 'compound, derivation'
 - lemma: ugata
   id: 348
   pos: noun
@@ -5137,6 +5586,18 @@
   derived: ''
   etymology: u + gata; calque of German Umhang
   etym_tags: 'calque, compound, lexical compound'
+- lemma: ulisa
+  id: 413
+  pos: noun
+  en_definition: >-
+    street, road, boulevard, fairway, alley, alleyway, path, pathway; route,
+    heading, directions; orbit, track, path; path, way, way of life, lifestyle;
+    tract, passageway, throughway; vein, artery, blood vessel
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Russian улица (ulica)
+  etym_tags: 'russian, slavic, indo-european'
 - lemma: umal
   id: 215
   pos: noun
@@ -5220,6 +5681,15 @@
   derived: ''
   etymology: uni + mama
   etym_tags: 'compound, lexical compound'
+- lemma: univesiti
+  id: 409
+  pos: noun
+  en_definition: university
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English university
+  etym_tags: 'english, germanic, indo-european'
 - lemma: usa
   id: 349
   pos: noun
