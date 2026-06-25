@@ -1,0 +1,16 @@
+# 日本語 // HOME
+nav:
+    - Home: index.md
+    - About: about.md
+    - Guide: en/guide/
+    - 辞書: ./dictionary/
+    - Discord: https://discord.gg/JhCT82B2Ts
+    - 翻訳:
+        - English: ../
+        - Deutsch: ./de/
+        - Español: ./es/
+        - Français: ./fr/
+        - 日本語: ./ja/
+        - 한국어: ./ko/
+        - Русский: ./ru/
+        - 中文: ./zh/
