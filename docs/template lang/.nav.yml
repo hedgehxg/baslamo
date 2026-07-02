@@ -1,0 +1,12 @@
+# TEMPLATE // HOME
+nav:
+    - Home: index.md
+    - About: about.md
+    - Learn:
+        - Guide: la/guide
+        - Reference: reference.md
+        - Dictionary: https://baslamo.miraheze.org/wiki/Main_Page
+    - Discord: https://discord.gg/JhCT82B2Ts
+    - Translations:
+        - English: ../
+        - Lang: ./la/
