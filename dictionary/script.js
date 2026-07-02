@@ -113,11 +113,11 @@ function html_entry_for(entry, field_selection) {
 		entry["en_definition"] = "";
 	}
 	var convert = entry["convert"]
-	entry["convert"] = convert_to_abugida(entry["lemma"])
+	entry["convert"] = entry["lemma"]
 	ehtml = "<summary class='entry-head'><b style='color: #000000;'>"
 	// uncomment this below and comment the other to reenable baslamo font
-	//	+ with_escaped_html(entry["lemma"]) + "</b> • <b style='font-family: Baslamo Regular;'>" + with_escaped_html(entry["convert"]) + "</b>";
-	+ with_escaped_html(entry["lemma"]) + "</b>";
+		+ with_escaped_html(entry["lemma"]) + "</b> • <b style='font-family: Open Sans Baslamo; color: #000000'>" + with_escaped_html(entry["convert"]) + "</b>";
+	//	+ with_escaped_html(entry["lemma"]) + "</b>";
 	ehtml += " <i style='font-size: 75%;'>"
 		+ with_escaped_html(entry["pos"]) + "</i> — ";
 	ehtml += with_escaped_html(entry["en_definition"]) + "</summary>";
