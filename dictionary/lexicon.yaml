@@ -22,7 +22,7 @@
   en_definition: Forms correlatives of quantity; -many
   en_notes: ''
   en_tags: ''
-  derived: 'kaga, laja, saga, maga'
+  derived: 'kaga, laga, saga, maga'
   etymology: aga
   etym_tags: affixation
 - lemma: aga
@@ -70,6 +70,15 @@
   derived: ''
   etymology: Turkish ay
   etym_tags: 'turkish, turkic'
+- lemma: aj
+  id: 451
+  pos: pronoun
+  en_definition: Used in relative clauses to refer to a possession of the modified argument
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-aj'
+  etym_tags: ''
 - lemma: ak
   id: 7.1
   pos: 'verb, ambi.'
@@ -256,10 +265,19 @@
   derived: ''
   etymology: Manchu ᠠᠯᡳᠨ (alin)
   etym_tags: 'manchu, tungusic'
+- lemma: '-alin'
+  id: 467
+  pos: nominal suffix
+  en_definition: '-ology, study of, science of'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: alini
+  etym_tags: affixation
 - lemma: alini
   id: 291
   pos: noun
-  en_definition: 'possibility, chance'
+  en_definition: 'science, body of knowledge; possibility, chance'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -313,12 +331,12 @@
 - lemma: aman
   id: 243.1
   pos: 'verb, intr.'
-  en_definition: to swim
+  en_definition: 'to float, swim'
   en_notes: ''
   en_tags: water
   derived: ''
-  etymology: descendants of Proto-Amazigh *am-an
-  etym_tags: 'amazigh, afroasiatic'
+  etymology: Kabyle aman
+  etym_tags: 'kabyle, amazigh, afroasiatic'
 - lemma: aman
   id: 243.2
   pos: 'verb, trans.'
@@ -384,6 +402,42 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: '-an'
+  id: 458
+  pos: nominal suffix
+  en_definition: Alternative form of -na used after consonants
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-na'
+  etym_tags: alternative forms
+- lemma: anjan
+  id: 478.1
+  pos: noun
+  en_definition: 'nature; the real world, reality; demeanor, nature, quality'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Welsh anian
+  etym_tags: 'welsh, celtic, indo-european'
+- lemma: anjan
+  id: 478.2
+  pos: adjective
+  en_definition: 'natural; real, physical'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: anjanalin
+  id: 479
+  pos: noun
+  en_definition: 'physics, physical science'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: anjan + -alin
+  etym_tags: 'compound, derivation'
 - lemma: anta
   id: 20.1
   pos: 'verb, ditrans., e-til'
@@ -512,6 +566,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: asusini
+  id: 463
+  pos: noun
+  en_definition: 'cameraderie, cohesion, culture (e.g. a work culture)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: asu + -sini
+  etym_tags: 'compound, derivation'
 - lemma: at
   id: 26.1
   pos: particle
@@ -569,7 +632,7 @@
 - lemma: aveli
   id: 29.2
   pos: adjective
-  en_definition: more; to a greater extent
+  en_definition: 'more; to a greater extent; multiple, several, more than one, plural'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -665,6 +728,15 @@
   derived: baslamo
   etymology: Sanskrit भाषा (bhāṣā) and descendants
   etym_tags: 'sanskrit, indo-aryan, indo-european'
+- lemma: basalin
+  id: 474
+  pos: noun
+  en_definition: 'linguistics, study of language'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: basa + -alin
+  etym_tags: 'compound, derivation'
 - lemma: baslamo
   id: 35
   pos: noun
@@ -1118,6 +1190,15 @@
   derived: 'kel, lel, sel, mel'
   etymology: a priori
   etym_tags: a priori
+- lemma: el
+  id: 450
+  pos: pronoun
+  en_definition: Used in relative clauses to refer to the modified argument in question
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-el'
+  etym_tags: ''
 - lemma: ele
   id: 58
   pos: noun
@@ -1127,6 +1208,15 @@
   derived: dinele
   etymology: Kannada ಎಲೆ (ele)
   etym_tags: 'kannada, south dravidian, dravidian'
+- lemma: '-en'
+  id: 456
+  pos: nominal suffix
+  en_definition: Alternative form of -ne used after consonants
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-ne'
+  etym_tags: alternative forms
 - lemma: esa
   id: 61.1
   pos: 'verb, ambi.'
@@ -1663,7 +1753,7 @@
 - lemma: ina
   id: 86.2
   pos: noun
-  en_definition: fire
+  en_definition: 'fire, flame'
   en_notes: ''
   en_tags: classical elements
   derived: ''
@@ -1672,7 +1762,7 @@
 - lemma: ina
   id: 86.3
   pos: adjective
-  en_definition: 'on fire, aflame'
+  en_definition: 'on fire, aflame, burning'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -1708,24 +1798,22 @@
 - lemma: inon
   id: 87
   pos: preposition
-  en_definition: 'far, far away, remote'
+  en_definition: 'far, far away, remote; there, farther away'
   en_notes: ''
   en_tags: distance
   derived: ''
   etymology: Mohawk í꞉non
   etym_tags: 'mohawk, northern iroquois, iroquois'
-- lemma: intaneto
+- lemma: intanet
   id: 88.1
   pos: 'verb, intr.'
   en_definition: 'to browse the Internet, surf the web, go online'
-  en_notes: >-
-    coined at a time where I was weirdly adverse to taking any words from
-    English
+  en_notes: ''
   en_tags: technology
   derived: ''
-  etymology: 'Japanese インターネット (intānetto), from English internet'
-  etym_tags: 'japanese, japonic, english, germanic, indo-european'
-- lemma: intaneto
+  etymology: English internet
+  etym_tags: 'english, germanic, indo-european'
+- lemma: intanet
   id: 88.2
   pos: noun
   en_definition: the Internet
@@ -1734,7 +1822,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: intaneto
+- lemma: intanet
   id: 88.3
   pos: adjective
   en_definition: 'on the Internet, online'
@@ -1743,7 +1831,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: isk
+- lemma: iski
   id: 89
   pos: noun
   en_definition: 'horn, antler; claw (of a crab); (music, automotive) horn'
@@ -1954,6 +2042,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: jatilin
+  id: 473
+  pos: noun
+  en_definition: communication studies
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: jati + -alin
+  etym_tags: 'compound, derivation'
+- lemma: jatilo
+  id: 452
+  pos: noun
+  en_definition: mouth; voice; tongue
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: jati + -lo
+  etym_tags: 'compound, derivation'
 - lemma: jok
   id: 102.1
   pos: 'verb, ambi.'
@@ -2311,7 +2417,7 @@
 - lemma: kanu
   id: 151
   pos: noun
-  en_definition: 'face, appearance, visage; shape'
+  en_definition: 'face, appearance, visage; shape; (Internet) profile'
   en_notes: ''
   en_tags: body parts
   derived: ''
@@ -2670,12 +2776,30 @@
 - lemma: kot
   id: 173
   pos: noun
-  en_definition: 'city, town, village, settlement'
+  en_definition: 'city, town, village, settlement, community, tribe'
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: Mongolian хот (xot)
   etym_tags: 'mongolian, mongolic'
+- lemma: kotini
+  id: 462.1
+  pos: noun
+  en_definition: 'culture, customs, lifestyle, behavior; society'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: kot + -sini
+  etym_tags: 'compound, derivation'
+- lemma: kotinilin
+  id: 471
+  pos: noun
+  en_definition: 'social science, cultural science, anthropology, sociology'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: kotini + -alin
+  etym_tags: 'compound, derivation'
 - lemma: kuas
   id: 174
   pos: noun
@@ -2780,7 +2904,7 @@
 - lemma: laj
   id: 117
   pos: correlative
-  en_definition: 'this/that person''s, their, his, her, its'
+  en_definition: 'this/that thing''s, belonging to this/that'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2822,6 +2946,24 @@
   derived: ''
   etymology: English lava
   etym_tags: 'english, germanic, indo-european'
+- lemma: le
+  id: 189
+  pos: pronoun
+  en_definition: 'he, she, it'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: clipping of lel
+  etym_tags: 'slovene, slavic, indo-european'
+- lemma: lea
+  id: 448
+  pos: pronoun
+  en_definition: 'his, her, hers, its'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: le + -a
+  etym_tags: 'compound, derivation'
 - lemma: lego
   id: 188
   pos: 'verb, trans.'
@@ -2834,8 +2976,8 @@
 - lemma: lel
   id: 116
   pos: correlative
-  en_definition: 'this, that, these, those, he, she, it, they'
-  en_notes: used as a 3rd person pronoun
+  en_definition: 'this, that, these, those'
+  en_notes: ''
   en_tags: ''
   derived: ''
   etymology: l- + -el
@@ -2849,21 +2991,30 @@
   derived: ''
   etymology: Finnish lehmä
   etym_tags: 'finnish, finnic, uralic'
+- lemma: les
+  id: 443
+  pos: pronoun
+  en_definition: they (plural)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: le + -s
+  etym_tags: 'compound, derivation'
+- lemma: lesa
+  id: 449
+  pos: pronoun
+  en_definition: their (plural)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: les + -a
+  etym_tags: 'compound, derivation'
 - lemma: leto
   id: 98
   pos: noun
   en_definition: year
   en_notes: ''
   en_tags: ''
-  derived: ''
-  etymology: Slovene lẹ́to
-  etym_tags: 'slovene, slavic, indo-european'
-- lemma: leto
-  id: 189
-  pos: noun
-  en_definition: year
-  en_notes: ''
-  en_tags: time
   derived: ''
   etymology: Slovene lẹ́to
   etym_tags: 'slovene, slavic, indo-european'
@@ -2903,6 +3054,15 @@
   derived: ''
   etymology: Estonian lill
   etym_tags: 'estonian, finnic, uralic'
+- lemma: '-lin'
+  id: 468
+  pos: nominal suffix
+  en_definition: Alternative form of -alin used after vowels
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-alin'
+  etym_tags: alternative forms
 - lemma: lle
   id: 202
   pos: contraction
@@ -2915,7 +3075,7 @@
 - lemma: lo
   id: 100.1
   pos: noun
-  en_definition: 'arm; hand, fist; work, labor, labour; tool, device'
+  en_definition: 'arm; hand, fist; tool, device'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2939,6 +3099,15 @@
   derived: nasolo
   etymology: lo
   etym_tags: 'baslamo, a priori'
+- lemma: lolin
+  id: 475
+  pos: noun
+  en_definition: technology
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: lo + -alin
+  etym_tags: 'compound, derivation'
 - lemma: lom
   id: 119
   pos: correlative
@@ -3299,7 +3468,7 @@
 - lemma: me
   id: 205
   pos: pronoun
-  en_definition: 'I, me; us'
+  en_definition: 'I, me'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -3308,7 +3477,7 @@
 - lemma: mea
   id: 206
   pos: pronoun
-  en_definition: 'my, mine; our, ours'
+  en_definition: 'my, mine'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -3386,6 +3555,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: mes
+  id: 444
+  pos: pronoun
+  en_definition: 'we, us'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: me + -s
+  etym_tags: 'compound, derivation'
+- lemma: mesa
+  id: 445
+  pos: pronoun
+  en_definition: 'our, ours'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: mes + -a
+  etym_tags: 'compound, derivation'
 - lemma: meso
   id: 212.1
   pos: noun
@@ -3452,7 +3639,7 @@
 - lemma: min
   id: 377
   pos: noun
-  en_definition: 'kind, type; species; sex; gender (in grammar)'
+  en_definition: 'kind, type; genre (e.g. of music); species'
   en_notes: ''
   en_tags: 'zoology, taxonomy'
   derived: ''
@@ -3692,6 +3879,15 @@
   derived: ''
   etymology: Hmong nas
   etym_tags: 'hmong, western hmongic, hmongic, hmong-mien'
+- lemma: '-na'
+  id: 457
+  pos: nominal suffix
+  en_definition: Indicates non-binarity for gendered nouns
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: a priori
+  etym_tags: a priori
 - lemma: naja
   id: 233
   pos: adjective
@@ -3842,6 +4038,24 @@
   derived: ''
   etymology: Korean 낮 (nat)
   etym_tags: 'korean, koreanic'
+- lemma: natesa
+  id: 476
+  pos: noun
+  en_definition: 'lunch, midday meal'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: nat + esa
+  etym_tags: 'compound, lexical compound'
+- lemma: '-ne'
+  id: 455
+  pos: nominal suffix
+  en_definition: Indicates femininity for gendered nouns
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: a priori
+  etym_tags: a priori
 - lemma: neja
   id: 248.1
   pos: 'verb, intr.'
@@ -3892,7 +4106,7 @@
 - lemma: nia
   id: 249
   pos: preposition
-  en_definition: 'outside, near'
+  en_definition: 'outside, near; here, close, near'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -3988,6 +4202,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: '-no'
+  id: 453
+  pos: nominal suffix
+  en_definition: Indicates masculinity for gendered nouns
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: a priori
+  etym_tags: a priori
 - lemma: o
   id: 257
   pos: particle
@@ -4060,6 +4283,15 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
+- lemma: '-on'
+  id: 454
+  pos: nominal suffix
+  en_definition: Alternative form of -no used after consonants
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-no'
+  etym_tags: alternative forms
 - lemma: ono
   id: 214.1
   pos: noun
@@ -4307,6 +4539,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: pilin
+  id: 477
+  pos: noun
+  en_definition: chemistry
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: pi + -alin
+  etym_tags: 'compound, derivation'
 - lemma: pita
   id: 278.1
   pos: 'verb, ambi.'
@@ -4608,6 +4849,24 @@
   derived: ''
   etymology: Korean 사람 (saram)
   etym_tags: 'korean, koreanic'
+- lemma: salamalin
+  id: 472
+  pos: noun
+  en_definition: 'anthropology, study of humanity'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: salam + -alin
+  etym_tags: 'compound, derivation'
+- lemma: salamumin
+  id: 461
+  pos: noun
+  en_definition: gender; gramamtical gender
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: salam + min
+  etym_tags: 'compound, lexical compound'
 - lemma: salo
   id: 389.2
   pos: noun
@@ -4674,7 +4933,7 @@
 - lemma: selaleti
   id: 408
   pos: noun
-  en_definition: 'university, college'
+  en_definition: 'university, college; encyclopedia'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4819,6 +5078,17 @@
   derived: ''
   etymology: s- + -idi
   etym_tags: 'compound, derivation'
+- lemma: sidisin
+  id: 442
+  pos: adjective
+  en_definition: >-
+    common, commonplace, widespread; general, miscellaneous, unspecific,
+    nonspecific, vague; usual, usually, ordinarily
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'Univerbation of u sidi (li) sin "everywhere, (one) sees"'
+  etym_tags: 'compound, lexical compound, univerbation'
 - lemma: siku
   id: 303.1
   pos: 'verb, intr.'
@@ -4956,6 +5226,42 @@
   derived: ''
   etymology: Greek -σύνη (-sýni)
   etym_tags: 'greek, indo-european'
+- lemma: sinko
+  id: 459.1
+  pos: 'verb, ambi.'
+  en_definition: 'to have sex, have sexual intercourse, fuck'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Wu 性交 (2xin-kau)
+  etym_tags: 'wu, sinitic, sino-tibetan'
+- lemma: sinko
+  id: 459.2
+  pos: noun
+  en_definition: 'sex, intercourse'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: sinko
+  id: 459.3
+  pos: adjective
+  en_definition: 'sexual, carnal'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: sinkomin
+  id: 460
+  pos: noun
+  en_definition: biological sex
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sinko + min
+  etym_tags: 'compound, lexical compound'
 - lemma: sinusima
   id: 306
   pos: noun
@@ -4963,8 +5269,8 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: sin + sima
-  etym_tags: 'compound, lexical compound'
+  etymology: Univerbation of li sin sima
+  etym_tags: 'compound, lexical compound, univerbation'
 - lemma: skiko
   id: 316.1
   pos: noun
@@ -5015,7 +5321,7 @@
 - lemma: sofia
   id: 378.2
   pos: adjective
-  en_definition: 'wise, skilled'
+  en_definition: skilled
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5269,7 +5575,7 @@
 - lemma: te
   id: 207
   pos: pronoun
-  en_definition: you; y'all
+  en_definition: you
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5278,7 +5584,7 @@
 - lemma: tea
   id: 208
   pos: pronoun
-  en_definition: your; y'all's
+  en_definition: your
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5287,7 +5593,7 @@
 - lemma: teata
   id: 438
   pos: noun
-  en_definition: 'theater, movie theater; theater (the art form)'
+  en_definition: 'theater, movie theater, theatre; theater, theatre (the art form)'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5320,6 +5626,24 @@
   derived: ''
   etymology: SI Prefix tera-
   etym_tags: a priori
+- lemma: tes
+  id: 446
+  pos: pronoun
+  en_definition: 'y''all, you all, you (plural)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: te + -s
+  etym_tags: 'compound, derivation'
+- lemma: tesa
+  id: 447
+  pos: pronoun
+  en_definition: 'y''all''s, your (plural)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: tes + -a
+  etym_tags: 'compound, derivation'
 - lemma: tif
   id: 337
   pos: adjective
@@ -5652,6 +5976,15 @@
   derived: ''
   etymology: una + kanada
   etym_tags: 'compound, collocation'
+- lemma: unam mama
+  id: 240
+  pos: noun
+  en_definition: 'God, monotheistic god'
+  en_notes: ''
+  en_tags: religion
+  derived: ''
+  etymology: uni + mama
+  etym_tags: 'compound, lexical compound'
 - lemma: uni amelika
   id: 218
   pos: noun
@@ -5672,15 +6005,6 @@
   derived: ''
   etymology: uni + kanada
   etym_tags: 'compound, collocation'
-- lemma: uni mama
-  id: 240
-  pos: noun
-  en_definition: 'God, monotheistic god'
-  en_notes: ''
-  en_tags: religion
-  derived: ''
-  etymology: uni + mama
-  etym_tags: 'compound, lexical compound'
 - lemma: univesiti
   id: 409
   pos: noun
@@ -5870,6 +6194,33 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: vi
+  id: 469.1
+  pos: 'verb, intr.'
+  en_definition: 'to live, survive, be living'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French vie
+  etym_tags: 'french, romance, indo-european'
+- lemma: vi
+  id: 469.2
+  pos: noun
+  en_definition: 'life, the act of living; health, condition'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: vi
+  id: 469.3
+  pos: adjective
+  en_definition: 'alive, living, animated'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: video
   id: 357
   pos: noun
@@ -5879,6 +6230,15 @@
   derived: ''
   etymology: Latin videō
   etym_tags: 'latin, romance, indo-european'
+- lemma: vilin
+  id: 470
+  pos: noun
+  en_definition: 'biology, study of life'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: vi + -alin
+  etym_tags: 'compound, derivation'
 - lemma: xaket
   id: 358
   pos: noun
@@ -6005,3 +6365,12 @@
   derived: ''
   etymology: Mandarin 熊貓 (xióngmāo)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
+- lemma: ''
+  id: ''
+  pos: ''
+  en_definition: ''
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
