@@ -43,6 +43,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: '-aga'
+  id: 484
+  pos: nominal suffix
+  en_definition: Forms augmentatives from nouns (e.g. a larger or greater thing)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: aga
+  etym_tags: affixation
 - lemma: agagi
   id: 186
   pos: 'verb, trans.'
@@ -184,6 +193,15 @@
   derived: ''
   etymology: Spanish ala
   etym_tags: 'spanish, romance, indo-european'
+- lemma: alalo
+  id: 480
+  pos: noun
+  en_definition: brain
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: al + -lo
+  etym_tags: 'compound, derivation'
 - lemma: alapi
   id: 15.1
   pos: 'verb, ambi.'
@@ -372,6 +390,15 @@
   en_tags: ''
   derived: ''
   etymology: aman + -tel
+  etym_tags: 'compound, lexical compound'
+- lemma: amaninaki
+  id: 483
+  pos: noun
+  en_definition: otter
+  en_notes: ''
+  en_tags: animals
+  derived: ''
+  etymology: aman + inaki
   etym_tags: 'compound, lexical compound'
 - lemma: amanulot
   id: 395
@@ -620,6 +647,15 @@
   derived: ''
   etymology: '-tel'
   etym_tags: alternative forms
+- lemma: atusi
+  id: 499
+  pos: noun
+  en_definition: the past; former
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: at + si
+  etym_tags: 'compound, lexical compound'
 - lemma: aveli
   id: 29.1
   pos: particle
@@ -748,6 +784,15 @@
   derived: ''
   etymology: basa + salam
   etym_tags: 'a priori, portmanteau, compound'
+- lemma: bes
+  id: 491.2
+  pos: noun
+  en_definition: 'cloth, fabric, textile, linen; clothing, garment'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: bilu
   id: 36
   pos: 'verb, intr.'
@@ -818,7 +863,7 @@
 - lemma: bumi
   id: 41
   pos: noun
-  en_definition: 'Earth; land, soil; brown'
+  en_definition: 'Earth; land, soil, dirt; brown'
   en_notes: ''
   en_tags: 'astronomy, planets, Earth, nature, colors'
   derived: ''
@@ -1458,6 +1503,15 @@
   derived: ''
   etymology: Tày cạ
   etym_tags: 'tày, central tai, kra-dai'
+- lemma: '-ga'
+  id: 485
+  pos: nominal suffix
+  en_definition: Alternative form of -ga used after vowels
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-aga'
+  etym_tags: alternative forms
 - lemma: gas
   id: 397
   pos: noun
@@ -1591,8 +1645,8 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: 'Central Atlas Tamazight ⵉⴷⴰⵎⵎⵏ (idammn), Tashelhit idammn, Tarifit idammen'
-  etym_tags: 'central atlas tamazight, tashelhit, tarifit, amazigh, afroasiatic'
+  etymology: Tarifit idammen
+  etym_tags: 'tarifit, amazigh, afroasiatic'
 - lemma: idaman
   id: 80.2
   pos: 'verb, intr.'
@@ -1704,7 +1758,7 @@
   etymology: Indoesian imut
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
 - lemma: imut
-  id: 85.2
+  id: 85.3
   pos: adjective
   en_definition: >-
     cute, charming, pretty; beautiful, stunning, grand; happy; good, fine, well,
@@ -1881,7 +1935,7 @@
   pos: conjunction
   en_definition: >-
     as if, as it were, in the same way as, just like; naturally, as a
-    consequence; so that; therefore, thus
+    consequence; so that; therefore, thus; such as
   en_notes: ''
   en_tags: 'mathematics, law'
   derived: ''
@@ -1909,7 +1963,7 @@
   id: 91.1
   pos: 'verb, trans.'
   en_definition: >-
-    to want, desire, wish for; to love, be in love with, love to; to request
+    to want, desire, wish, hope; to love, be in love with, love to; to request
     for, ask for, ask permission for
   en_notes: ''
   en_tags: emotions
@@ -1961,6 +2015,15 @@
   derived: ''
   etymology: ista til + -meti
   etym_tags: 'compound, derivation, lexical compound'
+- lemma: isulu
+  id: 498
+  pos: noun
+  en_definition: 'egg; ovum; testicle, ball'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kanakanavu ʔicúuru
+  etym_tags: 'kanakanavu, tsouic, austronesian'
 - lemma: ja
   id: 92
   pos: conjunction
@@ -2018,7 +2081,7 @@
 - lemma: jaset
   id: 96.3
   pos: adjective
-  en_definition: 'late, last, behind; previous'
+  en_definition: 'late, last, behind; previous, before'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2060,6 +2123,33 @@
   derived: ''
   etymology: jati + -lo
   etym_tags: 'compound, derivation'
+- lemma: jatinik
+  id: 489
+  pos: noun
+  en_definition: 'note, footnote, reminder; notification'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: jati + -ik
+  etym_tags: 'compound, derivation'
+- lemma: jek
+  id: 496.1
+  pos: noun
+  en_definition: 'ash, ashes, remains of a fire; gray, grey, color between black and white'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Udi йекъ (jeq̇)
+  etym_tags: 'udi, lezgic, northeast caucasian'
+- lemma: jek
+  id: 496.2
+  pos: adjective
+  en_definition: 'ashy; grey, gray'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: jok
   id: 102.1
   pos: 'verb, ambi.'
@@ -2274,7 +2364,7 @@
   etymology: ''
   etym_tags: ''
 - lemma: kakapi
-  id: 136
+  id: 136.1
   pos: 'verb, intr.'
   en_definition: 'to stand, begin standing; to be stopped, to stop'
   en_notes: ''
@@ -2506,6 +2596,33 @@
   derived: ''
   etymology: kesek + gida
   etym_tags: 'compound, lexical compound'
+- lemma: ki
+  id: 482.1
+  pos: 'verb, intr.'
+  en_definition: 'to be in pain, be hurting'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Khmer ឈឺ (chɨɨ)
+  etym_tags: 'khmer, austroasiatic'
+- lemma: ki
+  id: 482.2
+  pos: noun
+  en_definition: 'pain, suffering, hurting'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: ki
+  id: 482.3
+  pos: adjective
+  en_definition: 'painful, hurtful'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kiba
   id: 154.1
   pos: 'verb, trans.'
@@ -2937,6 +3054,33 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: lamiga
+  id: 486.1
+  pos: 'verb, intr.'
+  en_definition: 'to spark; to be electrified, be powered'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: lami + -aga
+  etym_tags: 'compound, derivation'
+- lemma: lamiga
+  id: 486.2
+  pos: noun
+  en_definition: 'electricity, power; thunder, lightning'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: lamigajan
+  id: 487
+  pos: noun
+  en_definition: battery
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: lamiga + jan
+  etym_tags: 'compound, lexical compound'
 - lemma: lava
   id: 187
   pos: noun
@@ -3155,6 +3299,24 @@
   derived: ''
   etymology: SI Prefix ronna-
   etym_tags: a priori
+- lemma: losa
+  id: 495.1
+  pos: noun
+  en_definition: rose (the flower or the bush); pink
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Latin rosa
+  etym_tags: 'latin, romance, indo-european'
+- lemma: losa
+  id: 495.2
+  pos: adjective
+  en_definition: pink
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: losi
   id: 120
   pos: correlative
@@ -3465,6 +3627,15 @@
   derived: ''
   etymology: ma + meso
   etym_tags: 'greek, indo-european, calque'
+- lemma: matiligi
+  id: 481
+  pos: 'verb, trans.'
+  en_definition: 'to disconnect, sever'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ma- + tiligi
+  etym_tags: 'compound, derivation'
 - lemma: me
   id: 205
   pos: pronoun
@@ -3612,7 +3783,7 @@
 - lemma: meti
   id: 213.2
   pos: noun
-  en_definition: 'place, location'
+  en_definition: 'place, location; addition'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4921,6 +5092,33 @@
   derived: ''
   etymology: Finnish sato
   etym_tags: 'finnish, finnic, uralic'
+- lemma: sav
+  id: 492.1
+  pos: noun
+  en_definition: 'morning, AM, daytime; yellow'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Lao ເຊົ້າ (sao)
+  etym_tags: 'lao, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: sav
+  id: 492.2
+  pos: adjective
+  en_definition: in the morning; early; yellow
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: savesa
+  id: 494
+  pos: noun
+  en_definition: breakfast
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sav + esa
+  etym_tags: 'compound, lexical compound'
 - lemma: sel
   id: 122
   pos: correlative
@@ -5319,9 +5517,18 @@
   etymology: 'Japanese 袖 [そで] (sode)'
   etym_tags: 'japanese, japonic'
 - lemma: sofia
+  id: 378.1
+  pos: noun
+  en_definition: 'skill, craftsmanship; wisdom'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Greek σοφία (sofía)
+  etym_tags: 'greek, indo-european'
+- lemma: sofia
   id: 378.2
   pos: adjective
-  en_definition: skilled
+  en_definition: skilled; wise
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5453,6 +5660,15 @@
   derived: ''
   etymology: German Stamm
   etym_tags: 'german, germanic, indo-european'
+- lemma: stof
+  id: 490
+  pos: noun
+  en_definition: 'substance, matter, material; topic, subject, thing to discuss'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Dutch stof
+  etym_tags: 'dutch, germanic, indo-european'
 - lemma: '-su'
   id: 371
   pos: nominal suffix
@@ -5856,6 +6072,33 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: tut
+  id: 488.1
+  pos: 'verb, ambi.'
+  en_definition: 'to aim, aim at; to intend; to mean, signify, denote, allude'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Korean 뜻 (tteut)
+  etym_tags: 'korean, koreanic'
+- lemma: tut
+  id: 488.2
+  pos: 'verb, trans., u'
+  en_definition: 'to plan, plan out, plan for'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: tut
+  id: 488.3
+  pos: noun
+  en_definition: 'goal, destination, aim; intention, meaning; plan, design'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: u
   id: 256.1
   pos: 'verb, loc. trans.'
@@ -5958,24 +6201,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: una amelika
-  id: 345
+- lemma: una
+  id: 500
   pos: noun
-  en_definition: native American
+  en_definition: 'salt, sodium chloride'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: una + amelika
-  etym_tags: 'compound, collocation'
-- lemma: una kanada
-  id: 346
-  pos: noun
-  en_definition: First Nations
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: una + kanada
-  etym_tags: 'compound, collocation'
+  etymology: Huichol ꞌúna
+  etym_tags: 'huichol, corachol, uto-aztecan'
 - lemma: unam mama
   id: 240
   pos: noun
@@ -5984,6 +6218,15 @@
   en_tags: religion
   derived: ''
   etymology: uni + mama
+  etym_tags: 'compound, lexical compound'
+- lemma: unamelika
+  id: 345
+  pos: noun
+  en_definition: native American
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: un + amelika
   etym_tags: 'compound, lexical compound'
 - lemma: uni amelika
   id: 218
@@ -6014,6 +6257,15 @@
   derived: ''
   etymology: English university
   etym_tags: 'english, germanic, indo-european'
+- lemma: unukanada
+  id: 346
+  pos: noun
+  en_definition: First Nations
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: un + kanada
+  etym_tags: 'compound, lexical compound'
 - lemma: usa
   id: 349
   pos: noun
@@ -6239,6 +6491,15 @@
   derived: ''
   etymology: vi + -alin
   etym_tags: 'compound, derivation'
+- lemma: xa
+  id: 497
+  pos: noun
+  en_definition: 'tea (drink); tea (plant), tea leaves'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Mandarin 茶 (chá)
+  etym_tags: 'mandarin, sinitic, sino-tibetan'
 - lemma: xaket
   id: 358
   pos: noun
@@ -6248,6 +6509,33 @@
   derived: ''
   etymology: English jacket
   etym_tags: 'english, germanic, indo-european'
+- lemma: xala
+  id: 493.1
+  pos: 'verb, intr.'
+  en_definition: 'to shine, glow, give off light'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kaitag шала (šala)
+  etym_tags: 'kaitag, dargin, northeast caucasian'
+- lemma: xala
+  id: 493.2
+  pos: noun
+  en_definition: 'light, gleam, glow, illumination; lamp, lightbulb, light; color, hue, tint'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: xala
+  id: 493.3
+  pos: adjective
+  en_definition: 'bright; light (of color); clear, illuminated, easily seen'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: xamal
   id: 359
   pos: noun
@@ -6365,12 +6653,3 @@
   derived: ''
   etymology: Mandarin 熊貓 (xióngmāo)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
-- lemma: ''
-  id: ''
-  pos: ''
-  en_definition: ''
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
