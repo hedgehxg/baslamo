@@ -61,33 +61,6 @@
   derived: ''
   etymology: aga + -igi
   etym_tags: 'compound, derivation'
-- lemma: '-aj'
-  id: 5
-  pos: correlative suffix
-  en_definition: 'Forms correlatives of possession; -one''s, -thing''s'
-  en_notes: unrelated to aj "moon"
-  en_tags: ''
-  derived: 'kaj, laj, saj, maj'
-  etymology: '-a'
-  etym_tags: a priori
-- lemma: aj
-  id: 6
-  pos: noun
-  en_definition: moon; month; (taga~) Monday
-  en_notes: ''
-  en_tags: 'astronomy, time, days of the week'
-  derived: ''
-  etymology: Turkish ay
-  etym_tags: 'turkish, turkic'
-- lemma: aj
-  id: 451
-  pos: pronoun
-  en_definition: Used in relative clauses to refer to a possession of the modified argument
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-aj'
-  etym_tags: ''
 - lemma: ak
   id: 7.1
   pos: 'verb, ambi.'
@@ -318,7 +291,7 @@
   en_tags: ''
   derived: ''
   etymology: '-lo'
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: altan
   id: 17
   pos: noun
@@ -438,33 +411,6 @@
   derived: ''
   etymology: '-na'
   etym_tags: alternative forms
-- lemma: anjan
-  id: 478.1
-  pos: noun
-  en_definition: 'nature; the real world, reality; demeanor, nature, quality'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Welsh anian
-  etym_tags: 'welsh, celtic, indo-european'
-- lemma: anjan
-  id: 478.2
-  pos: adjective
-  en_definition: 'natural; real, physical'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: anjanalin
-  id: 479
-  pos: noun
-  en_definition: 'physics, physical science'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: anjan + -alin
-  etym_tags: 'compound, derivation'
 - lemma: anta
   id: 20.1
   pos: 'verb, ditrans., e-til'
@@ -510,6 +456,33 @@
   derived: ''
   etymology: Koryak ынну (ʔənnu)
   etym_tags: 'koryak, chukotkan, chukotko-kamchatkan'
+- lemma: anyan
+  id: 478.1
+  pos: noun
+  en_definition: 'nature; the real world, reality; demeanor, nature, quality'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Welsh anian
+  etym_tags: 'welsh, celtic, indo-european'
+- lemma: anyan
+  id: 478.2
+  pos: adjective
+  en_definition: 'natural; real, physical'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: anyanalin
+  id: 479
+  pos: noun
+  en_definition: 'physics, physical science'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: anyan + -alin
+  etym_tags: 'compound, derivation'
 - lemma: '-api'
   id: 60
   pos: verbal suffix
@@ -692,6 +665,33 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: '-ay'
+  id: 5
+  pos: correlative suffix
+  en_definition: 'Forms correlatives of possession; -one''s, -thing''s'
+  en_notes: unrelated to aj "moon"
+  en_tags: ''
+  derived: 'kaj, laj, saj, maj'
+  etymology: '-a'
+  etym_tags: a priori
+- lemma: ay
+  id: 6
+  pos: noun
+  en_definition: moon; month; (taga~) Monday
+  en_notes: ''
+  en_tags: 'astronomy, time, days of the week'
+  derived: ''
+  etymology: Turkish ay
+  etym_tags: 'turkish, turkic'
+- lemma: ay
+  id: 451
+  pos: pronoun
+  en_definition: Used in relative clauses to refer to a possession of the modified argument
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-ay'
+  etym_tags: ''
 - lemma: ba
   id: 436
   pos: noun
@@ -737,7 +737,7 @@
   derived: ''
   etymology: internationalism
   etym_tags: 'papuan, trans-new-guinea, engan, enga'
-- lemma: banjak
+- lemma: banyak
   id: 33.1
   pos: verb
   en_definition: 'to count, enumerate'
@@ -746,7 +746,7 @@
   derived: ''
   etymology: Indonesian banyak
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
-- lemma: banjak
+- lemma: banyak
   id: 33.2
   pos: noun
   en_definition: number
@@ -761,7 +761,7 @@
   en_definition: language
   en_notes: ''
   en_tags: languages
-  derived: baslamo
+  derived: basalo
   etymology: Sanskrit भाषा (bhāṣā) and descendants
   etym_tags: 'sanskrit, indo-aryan, indo-european'
 - lemma: basalin
@@ -773,12 +773,12 @@
   derived: ''
   etymology: basa + -alin
   etym_tags: 'compound, derivation'
-- lemma: baslamo
+- lemma: basalo
   id: 35
   pos: noun
   en_definition: >-
-    (basa~) Baslamo; (salam~) someone who speaks Baslamo; (din~) the places
-    Baslamo is spoken
+    (basa~) Basalo; (salam~) someone who speaks Basalo; (din~) the places Basalo
+    is spoken
   en_notes: ending -o is a leftover from part of speech suffixes
   en_tags: languages
   derived: ''
@@ -815,15 +815,6 @@
   derived: ''
   etymology: bilu + puka
   etym_tags: 'german, germanic, indo-european, compound, lexical compound, calque'
-- lemma: bjal
-  id: 38
-  pos: noun
-  en_definition: star; star-shaped symbol
-  en_notes: ''
-  en_tags: astronomy
-  derived: ''
-  etymology: Korean 별 (byeol)
-  etym_tags: 'korean, koreanic'
 - lemma: bo
   id: 39.1
   pos: 'verb, trans.'
@@ -878,6 +869,177 @@
   derived: ''
   etymology: English bus
   etym_tags: 'english, germanic, indo-european'
+- lemma: byal
+  id: 38
+  pos: noun
+  en_definition: star; star-shaped symbol
+  en_notes: ''
+  en_tags: astronomy
+  derived: ''
+  etymology: Korean 별 (byeol)
+  etym_tags: 'korean, koreanic'
+- lemma: ca
+  id: 497
+  pos: noun
+  en_definition: 'tea (drink); tea (plant), tea leaves'
+  en_notes: chosen over the form /te/ to avoid confusion with the pronoun
+  en_tags: ''
+  derived: ''
+  etymology: Mandarin 茶 (chá)
+  etym_tags: 'mandarin, sinitic, sino-tibetan'
+- lemma: caket
+  id: 358
+  pos: noun
+  en_definition: jacket
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English jacket
+  etym_tags: 'english, germanic, indo-european'
+- lemma: cala
+  id: 493.1
+  pos: 'verb, intr.'
+  en_definition: 'to shine, glow, give off light'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kaitag шала (šala)
+  etym_tags: 'kaitag, dargin, northeast caucasian'
+- lemma: cala
+  id: 493.2
+  pos: noun
+  en_definition: 'light, gleam, glow, illumination; lamp, lightbulb, light; color, hue, tint'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: cala
+  id: 493.3
+  pos: adjective
+  en_definition: 'bright; light (of color); clear, illuminated, easily seen'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: camal
+  id: 359
+  pos: noun
+  en_definition: camel
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Arabic جمل (jamal)
+  etym_tags: 'arabic, semitic, afroasiatic'
+- lemma: can
+  id: 360.1
+  pos: 'verb, ambi.'
+  en_definition: 'to shake, rumble, vibrate, jolt, tremble, quake'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Mandarin 震 (zhèn)
+  etym_tags: 'mandarin, sinitic, sino-tibetan'
+- lemma: can
+  id: 360.2
+  pos: noun
+  en_definition: 'vibration, jolt, rumble; earthquake'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: caval
+  id: 388
+  pos: noun
+  en_definition: 'horse, steed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French cheval
+  etym_tags: 'french, romance, indo-european'
+- lemma: ceba
+  id: 266
+  pos: 'verb, ambi.'
+  en_definition: 'to sit, sit down'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Georgian ჯდება (ǯdeba)
+  etym_tags: 'georgian, kartvelian'
+- lemma: cema
+  id: 361.1
+  pos: 'verb, ambi.'
+  en_definition: 'to listen, hear, listen to'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Hebrew שמע (shemá)
+  etym_tags: 'hebrew, semitic, afroasiatic'
+- lemma: cema
+  id: 361.2
+  pos: noun
+  en_definition: 'audio, sound; ear'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: col
+  id: 375.1
+  pos: 'verb, ambi.'
+  en_definition: 'to work, labor, labour, be employed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Maltese xogħol
+  etym_tags: 'maltese, semitic, afroasiatic'
+- lemma: con
+  id: 362.1
+  pos: 'verb, trans., til'
+  en_definition: 'to rush towards, go straight ahead, dash'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Mandarin 冲 (chōng)
+  etym_tags: 'mandarin, sinitic, sino-tibetan'
+- lemma: con
+  id: 362.2
+  pos: 'verb, intr.'
+  en_definition: 'to go in a straight line, go straight'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: con
+  id: 362.3
+  pos: adjective
+  en_definition: 'direct, straight'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: cos
+  id: 366.1
+  pos: noun
+  en_definition: 'insect, bug, pest'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Navajo chʼosh
+  etym_tags: 'navajo, southern dené, dené'
+- lemma: cunmav
+  id: 365
+  pos: noun
+  en_definition: panda
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Mandarin 熊貓 (xióngmāo)
+  etym_tags: 'mandarin, sinitic, sino-tibetan'
 - lemma: da
   id: 42
   pos: preposition
@@ -896,15 +1058,6 @@
   derived: ''
   etymology: da + son
   etym_tags: 'compound, collocation'
-- lemma: dajnasa
-  id: 367
-  pos: noun
-  en_definition: dinosaur
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: English dinosaur
-  etym_tags: 'english, germanic, indo-european'
 - lemma: dala
   id: 258.1
   pos: 'verb, trans.'
@@ -922,6 +1075,33 @@
   en_definition: >-
     indication, direction, heading, motivation; guide, documentation;
     (mathematics) function, mappping
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: dam
+  id: 502.1
+  pos: 'verb, ambi.'
+  en_definition: to taste (try); to taste (be a certain taste)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kazakh дәм (däm)
+  etym_tags: 'kazakh, turkic'
+- lemma: dam
+  id: 502.2
+  pos: noun
+  en_definition: 'taste, sensation; preference, taste, palette'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: dam
+  id: 502.3
+  pos: adjective
+  en_definition: 'tasty, yummy, good, not bland'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -1001,6 +1181,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: daynasa
+  id: 367
+  pos: noun
+  en_definition: dinosaur
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English dinosaur
+  etym_tags: 'english, germanic, indo-european'
 - lemma: defi
   id: 45.1
   pos: 'verb, ambi.'
@@ -1512,6 +1701,15 @@
   derived: ''
   etymology: '-aga'
   etym_tags: alternative forms
+- lemma: gaca
+  id: 74
+  pos: noun
+  en_definition: 'hyena, aardwolf'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Gurage gäčä
+  etym_tags: 'gurage, semitic, afroasiatic'
 - lemma: gas
   id: 397
   pos: noun
@@ -1548,15 +1746,6 @@
   derived: ''
   etymology: gata + -igi
   etym_tags: 'compound, derivation'
-- lemma: gaxa
-  id: 74
-  pos: noun
-  en_definition: 'hyena, aardwolf'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Gurage gäčä
-  etym_tags: 'gurage, semitic, afroasiatic'
 - lemma: '-gi'
   id: 75
   pos: nominal suffix
@@ -1682,7 +1871,7 @@
   en_tags: ''
   derived: ''
   etymology: din
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: '-igi'
   id: 82
   pos: verbal suffix
@@ -2024,231 +2213,6 @@
   derived: ''
   etymology: Kanakanavu ʔicúuru
   etym_tags: 'kanakanavu, tsouic, austronesian'
-- lemma: ja
-  id: 92
-  pos: conjunction
-  en_definition: or
-  en_notes: ''
-  en_tags: logical operations
-  derived: ''
-  etymology: Persian یا (yâ)
-  etym_tags: 'persian, iranian, indo-european'
-- lemma: jan
-  id: 94.1
-  pos: 'verb, trans.'
-  en_definition: 'to save up, reserve, put back; (computing) to save (i.e. a file)'
-  en_notes: ''
-  en_tags: technology
-  derived: fasonojan
-  etymology: Vietnamese dành
-  etym_tags: 'vietnamese, vietic, austroasiatic'
-- lemma: jan
-  id: 94.2
-  pos: noun
-  en_definition: 'reserve, savings, stock; (computing) save file'
-  en_notes: ''
-  en_tags: technology
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jap
-  id: 95
-  pos: adjective
-  en_definition: 'difficult, hard, challenging'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Khmer យ៉ាប់ (yap)
-  etym_tags: 'khmer, austroasiatic'
-- lemma: jaset
-  id: 96.1
-  pos: 'verb, ambi.'
-  en_definition: '(figuratively) to reduce or hinder, move backwards'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Halkomelem yóthet
-  etym_tags: 'halkomelem, coast salish, salishan'
-- lemma: jaset
-  id: 96.2
-  pos: preposition
-  en_definition: 'back, backside, backwards'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jaset
-  id: 96.3
-  pos: adjective
-  en_definition: 'late, last, behind; previous, before'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jati
-  id: 97.1
-  pos: 'verb, ambi.'
-  en_definition: 'to speak, talk, say, message, communicate, tell, narrate'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Navajo yátiʼ
-  etym_tags: 'navajo, southern dené, dené'
-- lemma: jati
-  id: 97.2
-  pos: noun
-  en_definition: 'speech, talk; message, text, SMS; dialect; story, narration'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jatilin
-  id: 473
-  pos: noun
-  en_definition: communication studies
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: jati + -alin
-  etym_tags: 'compound, derivation'
-- lemma: jatilo
-  id: 452
-  pos: noun
-  en_definition: mouth; voice; tongue
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: jati + -lo
-  etym_tags: 'compound, derivation'
-- lemma: jatinik
-  id: 489
-  pos: noun
-  en_definition: 'note, footnote, reminder; notification'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: jati + -ik
-  etym_tags: 'compound, derivation'
-- lemma: jek
-  id: 496.1
-  pos: noun
-  en_definition: 'ash, ashes, remains of a fire; gray, grey, color between black and white'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Udi йекъ (jeq̇)
-  etym_tags: 'udi, lezgic, northeast caucasian'
-- lemma: jek
-  id: 496.2
-  pos: adjective
-  en_definition: 'ashy; grey, gray'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jok
-  id: 102.1
-  pos: 'verb, ambi.'
-  en_definition: to play
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Latin iocus
-  etym_tags: 'latin, romance, indo-european'
-- lemma: jok
-  id: 102.2
-  pos: noun
-  en_definition: game
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jokaj
-  id: 369
-  pos: noun
-  en_definition: 'monster, supernatural being, apparition; ghost, apparition, spirit, ghoul'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: 'Japanese 妖怪 [よーかい] (yōkai)'
-  etym_tags: 'japanese, japonic'
-- lemma: jokatel
-  id: 103
-  pos: noun
-  en_definition: player
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: jok + -tel
-  etym_tags: 'compound, derivation'
-- lemma: jon
-  id: 400.1
-  pos: noun
-  en_definition: 'mechanical device, machine'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Thai ยนต์ (yon)
-  etym_tags: 'thai, southwestern thai, kra-dai'
-- lemma: jon
-  id: 400.2
-  pos: adjective
-  en_definition: 'motorized, mechanical, powered'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: jota
-  id: 313
-  pos: numeral
-  en_definition: septillion (10^24)
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: SI Prefix yotta-
-  etym_tags: a priori
-- lemma: jua
-  id: 238
-  pos: noun
-  en_definition: 'garlic, Allium'
-  en_notes: ''
-  en_tags: 'food, plants'
-  derived: ''
-  etymology: Eastern Mari юа (jua)
-  etym_tags: 'eastern mari, mordvinic, uralic'
-- lemma: juanan
-  id: 239
-  pos: noun
-  en_definition: garlic bread
-  en_notes: ''
-  en_tags: food
-  derived: ''
-  etymology: jua + nan
-  etym_tags: 'compound, lexical compound'
-- lemma: jun
-  id: 104
-  pos: noun
-  en_definition: 'rabbit, hare'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Burmese ယုန် (yun)
-  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
-- lemma: juva
-  id: 372.2
-  pos: adjective
-  en_definition: 'good, well, exemplary, nice; well-mannered, polite'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: k-
   id: 105
   pos: correlative prefix
@@ -2257,7 +2221,7 @@
   en_tags: ''
   derived: ''
   etymology: ka
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: ka
   id: 106.1
   pos: verb
@@ -2313,17 +2277,6 @@
   en_tags: ''
   derived: ''
   etymology: k- + -aga
-  etym_tags: 'compound, derivation'
-- lemma: kaj
-  id: 111
-  pos: correlative
-  en_definition: >-
-    (interrogative) whose, whoever's; (existential) someone's, somebody's,
-    something's
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: k- + -aj
   etym_tags: 'compound, derivation'
 - lemma: kak
   id: 134.1
@@ -2513,16 +2466,16 @@
   derived: ''
   etymology: Ingrian kanu
   etym_tags: 'ingrian, finnic, uralic'
-- lemma: kanujon
+- lemma: kanuyon
   id: 401.1
   pos: noun
   en_definition: robot
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: 'kanu + jon, calque of Thai หุ่นยนต์ (hùn-yon)'
+  etymology: 'kanu + yon, calque of Thai หุ่นยนต์ (hùn-yon)'
   etym_tags: 'compound, lexical compound, calque'
-- lemma: kanujon
+- lemma: kanuyon
   id: 401.2
   pos: adjective
   en_definition: 'robotic, stiff'
@@ -2531,6 +2484,17 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: kay
+  id: 111
+  pos: correlative
+  en_definition: >-
+    (interrogative) whose, whoever's; (existential) someone's, somebody's,
+    something's
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: k- + -ay
+  etym_tags: 'compound, derivation'
 - lemma: kel
   id: 110
   pos: correlative
@@ -2798,33 +2762,6 @@
   derived: ''
   etymology: English club
   etym_tags: 'english, germanic, indo-european'
-- lemma: koj
-  id: 167
-  pos: noun
-  en_definition: 'block, mass; cube'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Vietnamese khối
-  etym_tags: 'vietnamese, vietic, austroasiatic'
-- lemma: kojma
-  id: 168.1
-  pos: 'verb, trans.'
-  en_definition: 'to fence off, enclose'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Bashkir ҡойма (qojma)
-  etym_tags: 'bashkir, turkic'
-- lemma: kojma
-  id: 168.2
-  pos: noun
-  en_definition: 'fence, barrier'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: koke
   id: 169
   pos: noun
@@ -2917,6 +2854,33 @@
   derived: ''
   etymology: kotini + -alin
   etym_tags: 'compound, derivation'
+- lemma: koy
+  id: 167
+  pos: noun
+  en_definition: 'block, mass; cube'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Vietnamese khối
+  etym_tags: 'vietnamese, vietic, austroasiatic'
+- lemma: koyma
+  id: 168.1
+  pos: 'verb, trans.'
+  en_definition: 'to fence off, enclose'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Bashkir ҡойма (qojma)
+  etym_tags: 'bashkir, turkic'
+- lemma: koyma
+  id: 168.2
+  pos: noun
+  en_definition: 'fence, barrier'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kuas
   id: 174
   pos: noun
@@ -3018,15 +2982,15 @@
   derived: ''
   etymology: l- + -aga
   etym_tags: 'compound, derivation'
-- lemma: laj
-  id: 117
-  pos: correlative
-  en_definition: 'this/that thing''s, belonging to this/that'
+- lemma: lagi
+  id: 503
+  pos: adjective
+  en_definition: 'sweet, sugary, yummy, tasty'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: l- + -aj
-  etym_tags: 'compound, derivation'
+  etymology: Javanese ꦊꦒꦶ (legi)
+  etym_tags: 'javanese, malayo-polynesian, austronesian'
 - lemma: lami
   id: 185.1
   pos: 'verb, intr.'
@@ -3072,14 +3036,14 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: lamigajan
+- lemma: lamigayan
   id: 487
   pos: noun
   en_definition: battery
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: lamiga + jan
+  etymology: lamiga + yan
   etym_tags: 'compound, lexical compound'
 - lemma: lava
   id: 187
@@ -3090,6 +3054,15 @@
   derived: ''
   etymology: English lava
   etym_tags: 'english, germanic, indo-european'
+- lemma: lay
+  id: 117
+  pos: correlative
+  en_definition: 'this/that thing''s, belonging to this/that'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: l- + -ay
+  etym_tags: 'compound, derivation'
 - lemma: le
   id: 189
   pos: pronoun
@@ -3162,24 +3135,6 @@
   derived: ''
   etymology: Slovene lẹ́to
   etym_tags: 'slovene, slavic, indo-european'
-- lemma: li
-  id: 190.1
-  pos: particle
-  en_definition: A particle used before verbs to explicitly mark the imperfect aspect
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Toki Pona li
-  etym_tags: 'toki pona, constructed'
-- lemma: li
-  id: 190.2
-  pos: interjection
-  en_definition: A general affirmative answer in the imperfect aspect; yes
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: lidi
   id: 121
   pos: correlative
@@ -3242,7 +3197,7 @@
   en_tags: ''
   derived: nasolo
   etymology: lo
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: lolin
   id: 475
   pos: noun
@@ -3381,7 +3336,7 @@
   en_tags: ''
   derived: ''
   etymology: ma
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: ma-
   id: 148
   pos: prefix
@@ -3390,7 +3345,7 @@
   en_tags: ''
   derived: ''
   etymology: ma
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: ma
   id: 194.1
   pos: particle
@@ -3492,51 +3447,6 @@
   derived: ''
   etymology: mai + -meti
   etym_tags: 'compound, derivation'
-- lemma: maj
-  id: 129
-  pos: correlative
-  en_definition: 'nobody''s, belonging to no-one'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: m- + -aj
-  etym_tags: 'compound, derivation'
-- lemma: majs
-  id: 196.1
-  pos: 'verb, trans.'
-  en_definition: 'to stir together, combine, mix; to mingle with, join, become a part of'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: 'Lithuanian maišyti, Latvian maisit'
-  etym_tags: 'lithuanian, latvian, baltic, indo-european'
-- lemma: majs
-  id: 196.2
-  pos: 'verb, trans., u'
-  en_definition: 'to be inseparable from, be essential to'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: majs
-  id: 196.3
-  pos: 'verb, intr.'
-  en_definition: 'to mix with one another, combine, dissolve'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: majs
-  id: 196.4
-  pos: noun
-  en_definition: 'mixture, combination; collection of diverse things'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: makanigi
   id: 99
   pos: 'verb, trans.'
@@ -3600,15 +3510,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: mali
-  id: 193
-  pos: adjective
-  en_definition: 'negative, negatory'
-  en_notes: literally "not-yes"
-  en_tags: ''
-  derived: ''
-  etymology: ma + li
-  etym_tags: 'compound, lexical compound'
 - lemma: mama
   id: 203
   pos: 'noun, gendered'
@@ -3636,6 +3537,60 @@
   derived: ''
   etymology: ma- + tiligi
   etym_tags: 'compound, derivation'
+- lemma: may
+  id: 129
+  pos: correlative
+  en_definition: 'nobody''s, belonging to no-one'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: m- + -ay
+  etym_tags: 'compound, derivation'
+- lemma: mayo
+  id: 193
+  pos: adjective
+  en_definition: 'negative, negatory'
+  en_notes: literally "not-yes"
+  en_tags: ''
+  derived: ''
+  etymology: ma + yo
+  etym_tags: 'compound, lexical compound'
+- lemma: mays
+  id: 196.1
+  pos: 'verb, trans.'
+  en_definition: 'to stir together, combine, mix; to mingle with, join, become a part of'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'Lithuanian maišyti, Latvian maisit'
+  etym_tags: 'lithuanian, latvian, baltic, indo-european'
+- lemma: mays
+  id: 196.2
+  pos: 'verb, trans., u'
+  en_definition: 'to be inseparable from, be essential to'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: mays
+  id: 196.3
+  pos: 'verb, intr.'
+  en_definition: 'to mix with one another, combine, dissolve'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: mays
+  id: 196.4
+  pos: noun
+  en_definition: 'mixture, combination; collection of diverse things'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: me
   id: 205
   pos: pronoun
@@ -3861,33 +3816,6 @@
   derived: ''
   etymology: miskinak + sual
   etym_tags: 'compound, collocation, calque'
-- lemma: mjav
-  id: 222.1
-  pos: 'verb, intr.'
-  en_definition: 'to meow, cry out (of a cat)'
-  en_notes: 'alternatively, mjau'
-  en_tags: ''
-  derived: ''
-  etymology: onomatopoeic
-  etym_tags: onomatopoeia
-- lemma: mjav
-  id: 222.2
-  pos: noun
-  en_definition: 'cat, feline; meow'
-  en_notes: ''
-  en_tags: animals
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: mjav
-  id: 222.3
-  pos: interjection
-  en_definition: meow!
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: modi
   id: 223.1
   pos: 'verb, trans.'
@@ -3978,6 +3906,15 @@
   derived: ''
   etymology: mot + -asu
   etym_tags: 'compound, derivation'
+- lemma: motik
+  id: 501
+  pos: noun
+  en_definition: 'bush, hedge'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: mot + -ik
+  etym_tags: 'compound, derivation'
 - lemma: mua
   id: 227.1
   pos: preposition
@@ -4041,6 +3978,33 @@
   derived: ''
   etymology: Afrikaans moet
   etym_tags: 'afrikaans, germanic, indo-european'
+- lemma: myav
+  id: 222.1
+  pos: 'verb, intr.'
+  en_definition: 'to meow, cry out (of a cat)'
+  en_notes: 'alternatively, mjau'
+  en_tags: ''
+  derived: ''
+  etymology: onomatopoeic
+  etym_tags: onomatopoeia
+- lemma: myav
+  id: 222.2
+  pos: noun
+  en_definition: 'cat, feline; meow'
+  en_notes: ''
+  en_tags: animals
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: myav
+  id: 222.3
+  pos: interjection
+  en_definition: meow!
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: na
   id: 232
   pos: noun
@@ -4059,15 +4023,6 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
-- lemma: naja
-  id: 233
-  pos: adjective
-  en_definition: 'new, brand new'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Hindi नया (nayā)
-  etym_tags: 'hindi, indo-iranian, indo-european'
 - lemma: nalanga
   id: 383.1
   pos: noun
@@ -4218,6 +4173,15 @@
   derived: ''
   etymology: nat + esa
   etym_tags: 'compound, lexical compound'
+- lemma: naya
+  id: 233
+  pos: adjective
+  en_definition: 'new, brand new'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Hindi नया (nayā)
+  etym_tags: 'hindi, indo-iranian, indo-european'
 - lemma: '-ne'
   id: 455
   pos: nominal suffix
@@ -4227,7 +4191,7 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
-- lemma: neja
+- lemma: neya
   id: 248.1
   pos: 'verb, intr.'
   en_definition: 'to be pleased, be content, be satisfied'
@@ -4236,7 +4200,7 @@
   derived: ''
   etymology: Swedish nöja
   etym_tags: 'swedish, germanic, indo-european'
-- lemma: neja
+- lemma: neya
   id: 248.2
   pos: 'verb, trans.'
   en_definition: >-
@@ -4247,7 +4211,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: neja
+- lemma: neya
   id: 248.3
   pos: noun
   en_definition: 'satisfaction, approval, consent; thanks'
@@ -4256,7 +4220,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: neja
+- lemma: neya
   id: 248.4
   pos: adjective
   en_definition: 'satisfactory, pleased, content; approved, okay, passing; grateful, thankful'
@@ -4265,7 +4229,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: neja
+- lemma: neya
   id: 248.5
   pos: interjection
   en_definition: thanks!
@@ -4418,24 +4382,6 @@
   derived: ''
   etymology: English office
   etym_tags: 'english, germanic, indo-european'
-- lemma: ojge
-  id: 260.1
-  pos: noun
-  en_definition: legal right
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: 'Estonian õige, õigus'
-  etym_tags: 'estonian, finnic, uralic'
-- lemma: ojge
-  id: 260.2
-  pos: adjective
-  en_definition: 'legal, allowed by law; legally sound, according to the law'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: okol
   id: 261
   pos: noun
@@ -4481,14 +4427,14 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: onojati
+- lemma: onoyati
   id: 221
   pos: noun
   en_definition: 'idiolect, how one speaks'
   en_notes: ''
   en_tags: languages
   derived: ''
-  etymology: ono + jati
+  etymology: ono + yati
   etym_tags: 'compound, lexical compound'
 - lemma: '-osi'
   id: 183
@@ -4498,7 +4444,7 @@
   en_tags: ''
   derived: ''
   etymology: si
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: osu
   id: 262.1
   pos: 'verb, trans.'
@@ -4544,14 +4490,14 @@
   derived: ''
   etymology: English auto(mobile)
   etym_tags: 'english, germanic, indo-european'
-- lemma: otojon
+- lemma: otoyon
   id: 402
   pos: noun
   en_definition: 'motor, engine (of a car)'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: oto + jon
+  etymology: oto + yon
   etym_tags: 'compound, lexical compound'
 - lemma: ova
   id: 263.1
@@ -4580,6 +4526,24 @@
   derived: ''
   etymology: Czech ovocie
   etym_tags: 'czech, slavic, indo-european'
+- lemma: oyge
+  id: 260.1
+  pos: noun
+  en_definition: legal right
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'Estonian õige, õigus'
+  etym_tags: 'estonian, finnic, uralic'
+- lemma: oyge
+  id: 260.2
+  pos: adjective
+  en_definition: 'legal, allowed by law; legally sound, according to the law'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: pak
   id: 437
   pos: noun
@@ -4700,7 +4664,7 @@
   en_tags: ''
   derived: ''
   etymology: '-pi'
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: pi
   id: 277.2
   pos: adjective
@@ -4731,16 +4695,7 @@
 - lemma: pita
   id: 278.2
   pos: 'verb, trans.'
-  en_definition: 'to forage, gather; to try, attempt'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: pita
-  id: 278.3
-  pos: 'verb, intr.'
-  en_definition: 'to do research, investigate'
+  en_definition: 'to forage, gather; to try, attempt; to do research, investigate'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4759,44 +4714,6 @@
   id: 386.2
   pos: adjective
   en_definition: 'capable of flight, flying'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: pojs
-  id: 279.1
-  pos: 'verb, trans.'
-  en_definition: 'to weigh, check the weight of something'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Welsh pwys
-  etym_tags: 'welsh, celtic, indo-european'
-- lemma: pojs
-  id: 279.2
-  pos: 'verb, intr.'
-  en_definition: 'to weigh, be a certain weight'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: pojs
-  id: 279.3
-  pos: noun
-  en_definition: >-
-    weight, burden, pressure, load, cargo; importance, priority, status;
-    (linguistics) emphasis, stress
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: pojs
-  id: 279.4
-  pos: adjective
-  en_definition: 'weighty, hefty, heavy; important, high-priority'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4844,6 +4761,44 @@
   id: 282.3
   pos: adjective
   en_definition: 'likely, expected; desirable'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: poys
+  id: 279.1
+  pos: 'verb, trans.'
+  en_definition: 'to weigh, check the weight of something'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Welsh pwys
+  etym_tags: 'welsh, celtic, indo-european'
+- lemma: poys
+  id: 279.2
+  pos: 'verb, intr.'
+  en_definition: 'to weigh, be a certain weight'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: poys
+  id: 279.3
+  pos: noun
+  en_definition: >-
+    weight, burden, pressure, load, cargo; importance, priority, status;
+    (linguistics) emphasis, stress
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: poys
+  id: 279.4
+  pos: adjective
+  en_definition: 'weighty, hefty, heavy; important, high-priority'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5002,15 +4957,6 @@
   derived: ''
   etymology: s- + -aga
   etym_tags: 'compound, derivation'
-- lemma: saj
-  id: 123
-  pos: correlative
-  en_definition: 'everyone''s, everybody''s (i.e. belong to every person)'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: s- + -aj
-  etym_tags: 'compound, derivation'
 - lemma: salam
   id: 298
   pos: 'noun, gendered'
@@ -5119,6 +5065,44 @@
   derived: ''
   etymology: sav + esa
   etym_tags: 'compound, lexical compound'
+- lemma: say
+  id: 123
+  pos: correlative
+  en_definition: 'everyone''s, everybody''s (i.e. belong to every person)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: s- + -ay
+  etym_tags: 'compound, derivation'
+- lemma: seca
+  id: 398.1
+  pos: noun
+  en_definition: >-
+    circle, ring, wheel, hoop; cycle, loop, lap (of a race); wheel, disc; tire,
+    tyre
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Burmese စကြာ (ca.kra)
+  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: seca
+  id: 398.2
+  pos: adjective
+  en_definition: 'circular, round, curved, curvy; cyclical, being part of a cycle, inevitable'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: secakampa
+  id: 399
+  pos: noun
+  en_definition: 'tire, tyre'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: seca + kampa
+  etym_tags: 'compound, lexical compound'
 - lemma: sel
   id: 122
   pos: correlative
@@ -5146,7 +5130,7 @@
   derived: ''
   etymology: sel + -asu
   etym_tags: 'compound, derivation'
-- lemma: semja
+- lemma: semya
   id: 299
   pos: noun
   en_definition: 'family, household; family member'
@@ -5220,35 +5204,6 @@
   derived: ''
   etymology: SI Prefix zetta-
   etym_tags: a priori
-- lemma: sexa
-  id: 398.1
-  pos: noun
-  en_definition: >-
-    circle, ring, wheel, hoop; cycle, loop, lap (of a race); wheel, disc; tire,
-    tyre
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Burmese စကြာ (ca.kra)
-  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
-- lemma: sexa
-  id: 398.2
-  pos: adjective
-  en_definition: 'circular, round, curved, curvy; cyclical, being part of a cycle, inevitable'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: sexakampa
-  id: 399
-  pos: noun
-  en_definition: 'tire, tyre'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: sexa + kampa
-  etym_tags: 'compound, lexical compound'
 - lemma: si
   id: 302.1
   pos: 'verb, intr.'
@@ -5687,6 +5642,15 @@
   derived: ''
   etymology: Skolt Sami suâl
   etym_tags: 'skolt sami, sami, uralic'
+- lemma: suka
+  id: 504
+  pos: noun
+  en_definition: sugar; sugar cane
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Arabic سكر (sukkar)
+  etym_tags: 'arabic, semitic, afroasiatic'
 - lemma: suso
   id: 326.1
   pos: 'verb, trans.'
@@ -5699,7 +5663,7 @@
 - lemma: suso
   id: 326.2
   pos: noun
-  en_definition: 'breast; nipple, teat, udder'
+  en_definition: 'breast; nipple, teat, udder; milk, breastmilk'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5732,26 +5696,6 @@
   derived: ''
   etymology: German Tage
   etym_tags: 'german, germanic, indo-european'
-- lemma: tajam
-  id: 269
-  pos: noun
-  en_definition: >-
-    animal, a member of the kingdom Animalia (incl. humans); (more generally)
-    creature, animal-like being
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Central Dusun tayam
-  etym_tags: 'central dusun, north bornean, malayo-polynesian, austronesian'
-- lemma: tajga
-  id: 331
-  pos: noun
-  en_definition: 'taiga forest; pine, spruce'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Russian тайга (tajga)
-  etym_tags: 'russian, slavic, indo-european'
 - lemma: tak
   id: 332
   pos: preposition
@@ -5788,6 +5732,26 @@
   derived: ''
   etymology: Panamint tatsa
   etym_tags: 'panamint, numic, uto-aztecan'
+- lemma: tayam
+  id: 269
+  pos: noun
+  en_definition: >-
+    animal, a member of the kingdom Animalia (incl. humans); (more generally)
+    creature, animal-like being
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Central Dusun tayam
+  etym_tags: 'central dusun, north bornean, malayo-polynesian, austronesian'
+- lemma: tayga
+  id: 331
+  pos: noun
+  en_definition: 'taiga forest; pine, spruce'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Russian тайга (tajga)
+  etym_tags: 'russian, slavic, indo-european'
 - lemma: te
   id: 207
   pos: pronoun
@@ -5823,7 +5787,7 @@
   en_tags: linguistics
   derived: ''
   etymology: '-tel'
-  etym_tags: 'baslamo, a priori'
+  etym_tags: 'basalo, a priori'
 - lemma: '-tel'
   id: 335
   pos: nominal suffix
@@ -6356,24 +6320,6 @@
   derived: ''
   etymology: Adyghe уды (wudə)
   etym_tags: 'adyghe, northwest caucasian'
-- lemma: vaj
-  id: 354.1
-  pos: noun
-  en_definition: (talkatel~) Mercury; (taga~) Wednesday
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Lao ໄວ (wai)
-  etym_tags: 'lao, southwestern tai, kra-dai'
-- lemma: vaj
-  id: 354.2
-  pos: adjective
-  en_definition: 'fast, fast-paced, quick, quickly'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
 - lemma: valu
   id: 160
   pos: numeral
@@ -6419,6 +6365,24 @@
   derived: ''
   etymology: vangu + -meti
   etym_tags: 'compound, derivation'
+- lemma: vay
+  id: 354.1
+  pos: noun
+  en_definition: (talkatel~) Mercury; (taga~) Wednesday
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Lao ໄວ (wai)
+  etym_tags: 'lao, southwestern tai, kra-dai'
+- lemma: vay
+  id: 354.2
+  pos: adjective
+  en_definition: 'fast, fast-paced, quick, quickly'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: ven
   id: 356.1
   pos: 'verb, ambi.'
@@ -6491,165 +6455,246 @@
   derived: ''
   etymology: vi + -alin
   etym_tags: 'compound, derivation'
-- lemma: xa
-  id: 497
-  pos: noun
-  en_definition: 'tea (drink); tea (plant), tea leaves'
+- lemma: ya
+  id: 92
+  pos: conjunction
+  en_definition: or
   en_notes: ''
-  en_tags: ''
+  en_tags: logical operations
   derived: ''
-  etymology: Mandarin 茶 (chá)
-  etym_tags: 'mandarin, sinitic, sino-tibetan'
-- lemma: xaket
-  id: 358
+  etymology: Persian یا (yâ)
+  etym_tags: 'persian, iranian, indo-european'
+- lemma: yan
+  id: 94.1
+  pos: 'verb, trans.'
+  en_definition: 'to save up, reserve, put back; (computing) to save (i.e. a file)'
+  en_notes: ''
+  en_tags: technology
+  derived: fasonojan
+  etymology: Vietnamese dành
+  etym_tags: 'vietnamese, vietic, austroasiatic'
+- lemma: yan
+  id: 94.2
   pos: noun
-  en_definition: jacket
+  en_definition: 'reserve, savings, stock; (computing) save file'
   en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: English jacket
-  etym_tags: 'english, germanic, indo-european'
-- lemma: xala
-  id: 493.1
-  pos: 'verb, intr.'
-  en_definition: 'to shine, glow, give off light'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Kaitag шала (šala)
-  etym_tags: 'kaitag, dargin, northeast caucasian'
-- lemma: xala
-  id: 493.2
-  pos: noun
-  en_definition: 'light, gleam, glow, illumination; lamp, lightbulb, light; color, hue, tint'
-  en_notes: ''
-  en_tags: ''
+  en_tags: technology
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: xala
-  id: 493.3
+- lemma: yap
+  id: 95
   pos: adjective
-  en_definition: 'bright; light (of color); clear, illuminated, easily seen'
+  en_definition: 'difficult, hard, challenging'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Khmer យ៉ាប់ (yap)
+  etym_tags: 'khmer, austroasiatic'
+- lemma: yaset
+  id: 96.1
+  pos: 'verb, ambi.'
+  en_definition: '(figuratively) to reduce or hinder, move backwards'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Halkomelem yóthet
+  etym_tags: 'halkomelem, coast salish, salishan'
+- lemma: yaset
+  id: 96.2
+  pos: preposition
+  en_definition: 'back, backside, backwards'
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: xamal
-  id: 359
-  pos: noun
-  en_definition: camel
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Arabic جمل (jamal)
-  etym_tags: 'arabic, semitic, afroasiatic'
-- lemma: xan
-  id: 360.1
-  pos: 'verb, ambi.'
-  en_definition: 'to shake, rumble, vibrate, jolt, tremble, quake'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Mandarin 震 (zhèn)
-  etym_tags: 'mandarin, sinitic, sino-tibetan'
-- lemma: xan
-  id: 360.2
-  pos: noun
-  en_definition: 'vibration, jolt, rumble; earthquake'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: xaval
-  id: 388
-  pos: noun
-  en_definition: 'horse, steed'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: French cheval
-  etym_tags: 'french, romance, indo-european'
-- lemma: xeba
-  id: 266
-  pos: 'verb, ambi.'
-  en_definition: 'to sit, sit down'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Georgian ჯდება (ǯdeba)
-  etym_tags: 'georgian, kartvelian'
-- lemma: xema
-  id: 361.1
-  pos: 'verb, ambi.'
-  en_definition: 'to listen, hear, listen to'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Hebrew שמע (shemá)
-  etym_tags: 'hebrew, semitic, afroasiatic'
-- lemma: xema
-  id: 361.2
-  pos: noun
-  en_definition: 'audio, sound; ear'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: xol
-  id: 375.1
-  pos: 'verb, ambi.'
-  en_definition: 'to work, labor, labour, be employed'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Maltese xogħol
-  etym_tags: 'maltese, semitic, afroasiatic'
-- lemma: xon
-  id: 362.1
-  pos: 'verb, trans., til'
-  en_definition: 'to rush towards, go straight ahead, dash'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Mandarin 冲 (chōng)
-  etym_tags: 'mandarin, sinitic, sino-tibetan'
-- lemma: xon
-  id: 362.2
-  pos: 'verb, intr.'
-  en_definition: 'to go in a straight line, go straight'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-- lemma: xon
-  id: 362.3
+- lemma: yaset
+  id: 96.3
   pos: adjective
-  en_definition: 'direct, straight'
+  en_definition: 'late, last, behind; previous, before'
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: xos
-  id: 366.1
-  pos: noun
-  en_definition: 'insect, bug, pest'
+- lemma: yati
+  id: 97.1
+  pos: 'verb, ambi.'
+  en_definition: 'to speak, talk, say, message, communicate, tell, narrate'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Navajo chʼosh
+  etymology: Navajo yátiʼ
   etym_tags: 'navajo, southern dené, dené'
-- lemma: xunmav
-  id: 365
+- lemma: yati
+  id: 97.2
   pos: noun
-  en_definition: panda
+  en_definition: 'speech, talk; message, text, SMS; dialect; story, narration'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Mandarin 熊貓 (xióngmāo)
-  etym_tags: 'mandarin, sinitic, sino-tibetan'
+  etymology: ''
+  etym_tags: ''
+- lemma: yatilin
+  id: 473
+  pos: noun
+  en_definition: communication studies
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: yati + -alin
+  etym_tags: 'compound, derivation'
+- lemma: yatilo
+  id: 452
+  pos: noun
+  en_definition: mouth; voice; tongue
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: yati + -lo
+  etym_tags: 'compound, derivation'
+- lemma: yatinik
+  id: 489
+  pos: noun
+  en_definition: 'note, footnote, reminder; notification'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: yati + -ik
+  etym_tags: 'compound, derivation'
+- lemma: yek
+  id: 496.1
+  pos: noun
+  en_definition: 'ash, ashes, remains of a fire; gray, grey, color between black and white'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Udi йекъ (jeq̇)
+  etym_tags: 'udi, lezgic, northeast caucasian'
+- lemma: yek
+  id: 496.2
+  pos: adjective
+  en_definition: 'ashy; grey, gray'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: yo
+  id: 190.1
+  pos: particle
+  en_definition: A particle used before verbs to explicitly mark the imperfect aspect
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Turkish -iyor
+  etym_tags: 'turkish, turkic'
+- lemma: yo
+  id: 190.2
+  pos: interjection
+  en_definition: A general affirmative answer in the imperfect aspect; yes
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: yok
+  id: 102.1
+  pos: 'verb, ambi.'
+  en_definition: to play
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Latin iocus
+  etym_tags: 'latin, romance, indo-european'
+- lemma: yok
+  id: 102.2
+  pos: noun
+  en_definition: game
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: yokatel
+  id: 103
+  pos: noun
+  en_definition: player
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: yok + -tel
+  etym_tags: 'compound, derivation'
+- lemma: yokay
+  id: 369
+  pos: noun
+  en_definition: 'monster, supernatural being, apparition; ghost, apparition, spirit, ghoul'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'Japanese 妖怪 [よーかい] (yōkai)'
+  etym_tags: 'japanese, japonic'
+- lemma: yon
+  id: 400.1
+  pos: noun
+  en_definition: 'mechanical device, machine'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Thai ยนต์ (yon)
+  etym_tags: 'thai, southwestern thai, kra-dai'
+- lemma: yon
+  id: 400.2
+  pos: adjective
+  en_definition: 'motorized, mechanical, powered'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: yota
+  id: 313
+  pos: numeral
+  en_definition: septillion (10^24)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: SI Prefix yotta-
+  etym_tags: a priori
+- lemma: yua
+  id: 238
+  pos: noun
+  en_definition: 'garlic, Allium'
+  en_notes: ''
+  en_tags: 'food, plants'
+  derived: ''
+  etymology: Eastern Mari юа (jua)
+  etym_tags: 'eastern mari, mordvinic, uralic'
+- lemma: yuanan
+  id: 239
+  pos: noun
+  en_definition: garlic bread
+  en_notes: ''
+  en_tags: food
+  derived: ''
+  etymology: yua + nan
+  etym_tags: 'compound, lexical compound'
+- lemma: yun
+  id: 104
+  pos: noun
+  en_definition: 'rabbit, hare'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Burmese ယုန် (yun)
+  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: yuva
+  id: 372.2
+  pos: adjective
+  en_definition: 'good, well, exemplary, nice; well-mannered, polite'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''

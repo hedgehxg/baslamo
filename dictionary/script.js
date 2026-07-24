@@ -90,16 +90,18 @@ function validated_by_filter(entry, filter) {
 	return true;
 }
 
+const pushScript = false
+
 function html_entry_for(entry, field_selection) {
 	if (!entry.hasOwnProperty("en_definition")) {
 		var lemma = entry["lemma"];
 		console.log(`⚠ ⟦${lemma}⟧ lacks field ⟦en_definition⟧!`);
 		entry["en_definition"] = "";
 	}
-	ehtml = "<summary class='entry-head'><b style='color: #000000;'>"
-	// uncomment this below and comment the other to reenable baslamo font
-	//	+ with_escaped_html(entry["lemma"]) + "</b> • <b style='font-family: Open Sans Baslamo; color: #000000'>" + with_escaped_html(entry["lemma"]) + "</b>";
-		+ with_escaped_html(entry["lemma"]) + "</b>";
+	ehtml = "<summary class='entry-head'><b style='color: #000000;'>" + with_escaped_html(entry["lemma"]) + "</b>"
+	if (pushScript == true) {
+		ehtml += " • <b style='font-family: Open Sans Baslamo; color: #000000'>" + with_escaped_html(entry["lemma"]) + "</b>";
+	}
 	ehtml += " <i style='font-size: 75%;'>"
 		+ with_escaped_html(entry["pos"]) + "</i> — ";
 	ehtml += with_escaped_html(entry["en_definition"]) + "</summary>";
